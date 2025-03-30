@@ -1,5 +1,8 @@
-# Solder Plate Controller with Detachable Hotplate
+🚀 This is a fork of [arwidcool/Solder-Plate](https://github.com/arwidcool/Solder-Plate). Please contribute to the original repository instead of this one.
 
+---
+
+# Solder Plate Controller with Detachable Hotplate
 
 This repository contains the source code and design files for a Solder Plate Controller and detachable hotplate. The processor used is the ATmega4809 and is based on the work of DerSpatz. https://github.com/DerSpatz/PCB-reflow-solder-heat-plate
 
