@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "V1.4-Wifi")(type "KiCad")(uri "$(KIPRJMOD)/V1.4-Wifi.pretty")(options "")(descr ""))
+)

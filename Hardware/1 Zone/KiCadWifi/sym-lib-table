@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "V1.4-Wifi-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/V1.4-Wifi-easyedapro.kicad_sym")(options "")(descr ""))
+)
