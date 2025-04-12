@@ -1,0 +1,4 @@
+# Do not convert line endings
+*.csv eol=lf
+*.kicad_prl eol=lf
+*.kicad_pro eol=lf
