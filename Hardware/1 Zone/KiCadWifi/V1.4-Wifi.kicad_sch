@@ -44741,7 +44741,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:IND-SMD_L7.3-W7.3_CDRH74"
+		(property "Footprint" "Inductor_SMD:L_TDK_SLF6045"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44750,7 +44750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20171026/C133406_15089840088201058863.pdf"
+		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls6045ex-h_en.pdf"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44768,7 +44768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "CDRH74-220MT"
+		(property "Manufacturer Part" "VLS6045EX-220M-H"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44778,7 +44778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MetalLions(美铼)"
+		(property "Manufacturer" "TDK"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44788,7 +44788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C133406"
+		(property "Supplier Part" ""
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44797,7 +44797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44807,7 +44807,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "22uH±20%"
+		(property "LCSC Part Name" ""
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44816,7 +44816,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Class" "ExtendedPart"
+		(property "JLCPCB Part Class" ""
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44928,6 +44928,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" ""
+			(at 393.7 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
