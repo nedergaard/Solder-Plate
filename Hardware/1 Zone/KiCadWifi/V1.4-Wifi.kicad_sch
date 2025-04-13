@@ -37170,7 +37170,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "B5819W"
+		(property "Value" "B5819WSL-TP"
 			(at 228.6 146.05 90)
 			(effects
 				(font
@@ -37179,7 +37179,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOD-123_L2.7-W1.6-LS3.7-RD-1"
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -37188,7 +37188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20180131/C179553_15173931512041329164.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/258/B5819WSL_SOD_323FL_-3365535.pdf"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -37206,7 +37206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B5819W"
+		(property "Manufacturer Part" "B5819WSL-TP"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -37339,6 +37339,22 @@
 			)
 		)
 		(property "Version" ""
+			(at 226.06 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "B5819WSL-TP"
+			(at 226.06 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "MCC"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -51106,7 +51122,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "B5819W"
+		(property "Value" "B5819WSL-TP"
 			(at 318.77 90.17 0)
 			(effects
 				(font
@@ -51115,7 +51131,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOD-123_L2.7-W1.6-LS3.7-RD-1"
+		(property "Footprint" "Diode_SMD:D_SOD-323F"
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -51124,7 +51140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20180131/C179553_15173931512041329164.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/258/B5819WSL_SOD_323FL_-3365535.pdf"
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -51142,7 +51158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B5819W"
+		(property "Manufacturer Part" "B5819WSL-TP"
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -51275,6 +51291,22 @@
 			)
 		)
 		(property "Version" ""
+			(at 320.04 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "B5819WSL-TP"
+			(at 320.04 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "MCC"
 			(at 320.04 86.36 0)
 			(effects
 				(font
