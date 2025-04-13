@@ -5,6 +5,584 @@
 	(uuid "4c06d08c-9880-463b-9fa8-18e0dc66965f")
 	(paper "User" 706.628 603.25)
 	(lib_symbols
+		(symbol "HX25003-2WAP_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "CN15"
+				(at -2.54 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "HX25003-2WAP"
+				(at -2.54 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "V1.4-Wifi-easyedapro:CONN-TH_2P-P2.50_HX25003-2WAP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20191028/C442341_CB026E8ECE589085FA4A025D9CD8B44B.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Pins Structure:1x2P Pitch:2.5mm Mounting Style:Right-Angle Row Spacing:- Number of Pins:2P Number of Rows:1 Number of PINs Per Row:2 Reference Series:XH Current Rating (Max):- Operating Temperature Range:- Operating Temperature Range:-"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "HX25003-2WAP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "HX(红星)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C442326"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part Name" "1x2P 间距:2.5mm 弯插 系列:XH 母座"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "HX25003-2WAP_1_1_0"
+				(rectangle
+					(start -2.54 -3.81)
+					(end 2.54 3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.27 2.54)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin output line
+					(at -5.08 1.27 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 -1.27 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PM254V-11-03-H85_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "H3"
+				(at -2.54 5.08 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "V1.4-Wifi-easyedapro:HDR-TH_3P-P2.54-V-F"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB Part Class" "Extended Part"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "XFCN(兴飞)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "PM254V-11-03-H85"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C541850"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(symbol "PM254V-11-03-H85_1_1_0"
+				(rectangle
+					(start -2.54 -5.08)
+					(end 2.54 5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.27 3.81)
+					(radius 0.381)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "U254-051T-4BH83-S1S_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "USB1"
+				(at 7.62 -7.5946 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right top)
+				)
+			)
+			(property "Value" "U254-051T-4BH83-S1S"
+				(at 7.62 10.1854 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right top)
+				)
+			)
+			(property "Footprint" "V1.4-Wifi-easyedapro:MICRO-USB-SMD_U254-051T-4BH83-S1S"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200303/C482359_94FADDBDAD8A1CD1662C83166295E6D9.pdf"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Connector Type:Micro-B Standard:USB 2.0 Gender:Female Number of Contacts:5 Number of Ports:1 Mounting Style:Surface Mount Current Rating - Power (Max):1.8A Contact Material:Copper Alloy Contact Plating:Gold Operating Temperature Range:-20°C~+85°C Operating"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "U254-051T-4BH83-S1S"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer" "XKBConnectivity(中国星坤)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier Part" "C319160"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part Name" "Micro-B母座卧贴"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "U254-051T-4BH83-S1S_1_1_0"
+				(rectangle
+					(start -5.08 -7.62)
+					(end 7.62 7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "EH"
+						(effects
+							(font
+								(size 0.0254 0.0254)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "VBUS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "D-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name "D+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 -2.54 180)
+					(length 5.08)
+					(name "ID"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "V1.4-Wifi-easyedapro:2.54-1*4P母"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -353,20 +931,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "H"
-				(at 0 0 0)
+			(property "Reference" "H15"
+				(at -3.81 -7.62 90)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify right top)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "A2541HWR-2x4P"
+				(at -1.27 -7.62 90)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify right top)
 				)
 			)
 			(property "Footprint" "V1.4-Wifi-easyedapro:HDR-TH_8P-P2.54-H-F-R2-C4-S2.54-W10.2"
@@ -396,39 +976,52 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer Part" "A2541HWR-2x4P"
+			(property "MPN" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "A2541HWR-2x4P"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify right top)
 					(hide yes)
 				)
 			)
 			(property "Manufacturer" "CJT(长江连接器)"
-				(at 0 0 0)
+				(at 0 0 90)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify right top)
 					(hide yes)
 				)
 			)
 			(property "Supplier Part" "C239355"
-				(at 0 0 0)
+				(at 0 0 90)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify right top)
 					(hide yes)
 				)
 			)
 			(property "Supplier" "LCSC"
-				(at 0 0 0)
+				(at 0 0 90)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify right top)
 					(hide yes)
 				)
 			)
@@ -438,6 +1031,16 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB Part Class" "ExtendedPart"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify right top)
 					(hide yes)
 				)
 			)
@@ -464,7 +1067,7 @@
 						(type none)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -7.62 3.81 0)
 					(length 2.54)
 					(name "1"
@@ -536,7 +1139,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 7.62 3.81 180)
 					(length 2.54)
 					(name "2"
@@ -554,7 +1157,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 7.62 1.27 180)
 					(length 2.54)
 					(name "4"
@@ -572,7 +1175,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 7.62 -1.27 180)
 					(length 2.54)
 					(name "6"
@@ -590,7 +1193,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 7.62 -3.81 180)
 					(length 2.54)
 					(name "8"
@@ -2136,20 +2739,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
+			(property "Reference" "U18"
+				(at 6.35 -7.62 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "ATMEGA4809-AFR"
+				(at -11.43 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Footprint" "V1.4-Wifi-easyedapro:TQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
@@ -2183,8 +2788,9 @@
 				(at 0 0 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -2192,8 +2798,9 @@
 				(at 0 0 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -2201,12 +2808,23 @@
 				(at 0 0 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
 			(property "Supplier" "LCSC"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part Name" "ATMEGA4809-AFR"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2215,7 +2833,17 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part Name" "ATMEGA4809-AFR"
+			(property "JLCPCB Part Class" "ExtendedPart"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
+					(hide yes)
+				)
+			)
+			(property "MPN" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -2481,7 +3109,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -15.24 -20.32 90)
 					(length 2.54)
 					(name "PC3"
@@ -2499,7 +3127,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -12.7 20.32 270)
 					(length 2.54)
 					(name "PA3"
@@ -2535,7 +3163,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -10.16 20.32 270)
 					(length 2.54)
 					(name "PA2"
@@ -2589,7 +3217,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -7.62 -20.32 90)
 					(length 2.54)
 					(name "PC4"
@@ -2625,7 +3253,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -5.08 -20.32 90)
 					(length 2.54)
 					(name "PC5"
@@ -2661,7 +3289,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at -2.54 -20.32 90)
 					(length 2.54)
 					(name "PC6"
@@ -6508,20 +7136,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
+			(property "Reference" "U1"
+				(at -6.35 5.08 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "POWER-JACK"
+				(at -6.35 -5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Footprint" "V1.4-Wifi-easyedapro:DC-IN-TH_POWER-JACK"
@@ -6551,12 +7181,22 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer Part" "POWER-JACK"
+			(property "MPN" ""
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer Part" "POWER-JACK"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -6564,8 +7204,9 @@
 				(at 0 0 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -6573,8 +7214,9 @@
 				(at 0 0 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 0.8382 0.8382)
 					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -6584,6 +7226,16 @@
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB Part Class" "ExtendedPart"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 0.8382 0.8382)
+					)
+					(justify left bottom)
 					(hide yes)
 				)
 			)
@@ -6683,7 +7335,7 @@
 						(type none)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 7.62 2.54 180)
 					(length 5.08)
 					(name "1"
@@ -6701,7 +7353,7 @@
 						)
 					)
 				)
-				(pin input line
+				(pin output line
 					(at 7.62 0 180)
 					(length 5.08)
 					(name "3"
@@ -9169,6 +9821,107 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(rectangle
 		(start 99.06 161.29)
@@ -10065,6 +10818,12 @@
 		(uuid "2536a254-7d18-41fc-bbbc-8dc2010878d4")
 	)
 	(junction
+		(at 334.01 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2714661a-1873-448f-aefb-af3b8746f28b")
+	)
+	(junction
 		(at 269.24 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10099,6 +10858,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "306043f4-fd80-4971-a9c2-45b57047f4ec")
+	)
+	(junction
+		(at 328.93 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3241be4d-2a37-4fb5-b8c1-22fb509d989f")
 	)
 	(junction
 		(at 384.81 452.12)
@@ -11628,16 +12393,6 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 86.36) (xy 325.12 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31a324f8-d5d0-4c9c-a5d4-f7df6d6ec4e9")
-	)
-	(wire
-		(pts
 			(xy 76.2 210.82) (xy 76.2 223.52)
 		)
 		(stroke
@@ -11775,6 +12530,16 @@
 			(type default)
 		)
 		(uuid "373445ab-12e2-42f9-ba75-5480f7b638d8")
+	)
+	(wire
+		(pts
+			(xy 328.93 86.36) (xy 334.01 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3757885e-b909-4150-abbd-7247b346703c")
 	)
 	(wire
 		(pts
@@ -12328,16 +13093,6 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 86.36) (xy 314.96 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57509cf3-02cf-4938-936f-f67ad91f4040")
-	)
-	(wire
-		(pts
 			(xy 144.78 97.79) (xy 148.59 97.79)
 		)
 		(stroke
@@ -12505,16 +13260,6 @@
 			(type default)
 		)
 		(uuid "641b3c0b-7120-450e-a881-244d181b8e52")
-	)
-	(wire
-		(pts
-			(xy 21.59 109.22) (xy 21.59 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64a89067-467e-4cad-a7d2-c94b87024534")
 	)
 	(wire
 		(pts
@@ -12808,6 +13553,16 @@
 	)
 	(wire
 		(pts
+			(xy 303.53 86.36) (xy 314.96 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74090014-bfd7-48f7-8bac-edc479d47bb7")
+	)
+	(wire
+		(pts
 			(xy 132.08 177.8) (xy 132.08 198.12)
 		)
 		(stroke
@@ -12828,7 +13583,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 101.6) (xy 334.01 106.68)
+			(xy 334.01 101.6) (xy 334.01 104.14)
 		)
 		(stroke
 			(width 0)
@@ -12965,6 +13720,16 @@
 			(type default)
 		)
 		(uuid "7e319c72-cca3-4735-b7f2-2ca23b3b8b78")
+	)
+	(wire
+		(pts
+			(xy 334.01 104.14) (xy 334.01 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e66d300-e6db-400c-b7d3-fc9429f0238b")
 	)
 	(wire
 		(pts
@@ -13758,6 +14523,16 @@
 	)
 	(wire
 		(pts
+			(xy 325.12 86.36) (xy 328.93 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7846e41-c6e1-4937-80ff-334b97def871")
+	)
+	(wire
+		(pts
 			(xy 82.55 233.68) (xy 76.2 233.68)
 		)
 		(stroke
@@ -13848,6 +14623,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 139.7) (xy 21.59 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdcda933-1180-4747-9d0f-7aa99c8df088")
+	)
+	(wire
+		(pts
 			(xy 195.58 85.09) (xy 193.04 85.09)
 		)
 		(stroke
@@ -13915,6 +14700,16 @@
 			(type default)
 		)
 		(uuid "c2c63aff-aefc-4044-b1af-20ffef3120c0")
+	)
+	(wire
+		(pts
+			(xy 21.59 107.95) (xy 21.59 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6303db5-0b9d-4ced-a107-b7281eebd2df")
 	)
 	(wire
 		(pts
@@ -28798,7 +29593,7 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 309.88 86.36 90)
+		(at 313.69 86.36 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28807,7 +29602,7 @@
 		)
 		(uuid "dc42273e-2f28-49cd-8ceb-c93cf6f96583")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 309.88 86.36 0)
+			(at 313.69 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29088,6 +29883,26 @@
 		(uuid "ef0f9d8d-d26b-4d8a-acc7-d3709b04734b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 69.85 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "THERMISTOR2"
+		(shape input)
+		(at 21.59 142.24 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "efd2dd9b-f9a1-4a61-b735-e251957a0be7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 21.59 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29550,6 +30365,7 @@
 		)
 	)
 	(symbol
+		(lib_name "HX25003-2WAP_1")
 		(lib_id "V1.4-Wifi-easyedapro:HX25003-2WAP")
 		(at 153.67 152.4 0)
 		(unit 1)
@@ -29640,6 +30456,15 @@
 			)
 		)
 		(property "LCSC Part Name" "1x2P 间距:2.5mm 弯插 系列:XH 母座"
+			(at 153.67 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 153.67 152.4 0)
 			(effects
 				(font
@@ -30388,6 +31213,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "17d4cad4-e8b9-41cc-bd32-69fc3e93ea88")
 		(property "Reference" "#PWR0113"
 			(at 304.8 207.01 0)
@@ -32949,6 +33775,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" ""
+			(at 20.32 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "732e4822-d49d-4a58-9a41-633a64934a60")
 		)
@@ -34900,6 +35735,7 @@
 		)
 	)
 	(symbol
+		(lib_name "U254-051T-4BH83-S1S_1")
 		(lib_id "V1.4-Wifi-easyedapro:U254-051T-4BH83-S1S")
 		(at 359.41 185.42 180)
 		(unit 1)
@@ -34990,6 +35826,15 @@
 			)
 		)
 		(property "LCSC Part Name" "Micro-B母座卧贴"
+			(at 359.41 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -35250,6 +36095,15 @@
 					(size 0.8382 0.8382)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 220.98 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -42185,6 +43039,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 334.01 104.14 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c982047f-db8e-4dae-8782-672e18c2de33")
+		(property "Reference" "#FLG03"
+			(at 335.915 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 337.82 104.1399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 334.01 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 334.01 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 334.01 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f89e9af-4c30-4deb-a5c0-b12d7e9a9853")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:CAP")
 		(at 415.29 130.81 90)
 		(unit 1)
@@ -42493,6 +43414,15 @@
 					(size 0.8382 0.8382)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 185.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -43251,6 +44181,7 @@
 		)
 	)
 	(symbol
+		(lib_name "PM254V-11-03-H85_1")
 		(lib_id "V1.4-Wifi-easyedapro:PM254V-11-03-H85")
 		(at 345.44 142.24 0)
 		(unit 1)
@@ -43350,6 +44281,15 @@
 					(size 0.8382 0.8382)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 345.44 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -45876,6 +46816,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 328.93 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4dacacd-1ee3-42cb-a538-ca3e593b859a")
+		(property "Reference" "#FLG02"
+			(at 328.93 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 328.93 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 328.93 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 328.93 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 328.93 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5fdd4b04-9adf-4cee-a70a-81b59eca4714")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
 		(at 426.72 144.78 0)
 		(unit 1)
@@ -46073,6 +47079,72 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 303.53 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9771596-322d-4e40-a7f5-c913388b9be7")
+		(property "Reference" "#FLG01"
+			(at 303.53 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 303.53 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 303.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 303.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 303.53 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c556b593-fc34-4dc3-842b-b6ac25e72cea")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
