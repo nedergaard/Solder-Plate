@@ -20284,7 +20284,7 @@
 				)
 			)
 		)
-		(property "Value" "MBR0520"
+		(property "Value" "B0520LW-7-F"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "4ed6d77a-4fcc-427f-a2b5-d3d86cae06a7")
@@ -20295,7 +20295,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20319,7 +20319,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MBR0520"
+		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20332,7 +20332,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJ(江苏长电/长晶)"
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20546,6 +20546,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a21aa84a-d57a-4b50-82cc-0f4ab44620eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B0520LW-7-F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e520a48a-f18e-4661-9b3e-40093db343ae")
 			(effects
 				(font
 					(size 1 1)
@@ -20855,7 +20868,7 @@
 				)
 			)
 		)
-		(property "Value" "MBR0520"
+		(property "Value" "B0520LW-7-F"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "beb13370-2b01-41fd-84a0-b504c9facd15")
@@ -20866,7 +20879,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -20890,7 +20903,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MBR0520"
+		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -20903,7 +20916,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJ(江苏长电/长晶)"
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21117,6 +21130,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3994495a-98dd-4c3f-97dc-6e5eb8d0171e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B0520LW-7-F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e2c84e9c-74b2-48a1-9386-00fb1345ba7b")
 			(effects
 				(font
 					(size 1 1)
@@ -31419,7 +31445,7 @@
 				)
 			)
 		)
-		(property "Value" "MBR0520"
+		(property "Value" "B0520LW-7-F"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "27e4b9e4-1e5f-4ebe-b241-412dd3739a2f")
@@ -31430,7 +31456,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31454,7 +31480,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MBR0520"
+		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31467,7 +31493,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJ(江苏长电/长晶)"
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31681,6 +31707,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e69d6733-d42a-4302-8b7a-7b4cb41832cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B0520LW-7-F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dea1b9f-0cad-49fd-b893-af571fd479ba")
 			(effects
 				(font
 					(size 1 1)
@@ -35620,7 +35659,7 @@
 				)
 			)
 		)
-		(property "Value" "MBR0520"
+		(property "Value" "B0520LW-7-F"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1a9a091c-367d-40fe-af5f-2c1fd748f3f0")
@@ -35631,7 +35670,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35655,7 +35694,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MBR0520"
+		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35668,7 +35707,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJ(江苏长电/长晶)"
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35882,6 +35921,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec16cbef-94fe-454c-aac3-cc78de8a8b7a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B0520LW-7-F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0602b0d3-d7c5-4647-bdfb-fc16bc7c2168")
 			(effects
 				(font
 					(size 1 1)
@@ -71305,7 +71357,7 @@
 				)
 			)
 		)
-		(property "Value" "MBR0520"
+		(property "Value" "B0520LW-7-F"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "5d2ad048-9d7d-4a92-acfd-e3f6c0de1424")
@@ -71316,7 +71368,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -71340,7 +71392,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MBR0520"
+		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71353,7 +71405,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJ(江苏长电/长晶)"
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -71567,6 +71619,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "170a3729-623a-42be-8c5a-b6c2bb47e784")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B0520LW-7-F"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5055c5fd-86ed-471d-9404-af0112a87987")
 			(effects
 				(font
 					(size 1 1)
@@ -72389,7 +72454,7 @@
 				)
 			)
 		)
-		(property "Value" "MBR0520"
+		(property "Value" "B0520LW-7-F"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "f345b3c0-27e6-410a-bd7d-7d42c2e225af")
@@ -72400,7 +72465,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160702/1467448303289.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -72424,7 +72489,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MBR0520"
+		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72437,7 +72502,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CJ(江苏长电/长晶)"
+		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72651,6 +72716,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "834a69e1-6f19-4352-9038-1817bcaae3d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "B0520LW-7-F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10b20322-169a-437e-9986-c8d0eb1c7f3d")
 			(effects
 				(font
 					(size 1 1)
