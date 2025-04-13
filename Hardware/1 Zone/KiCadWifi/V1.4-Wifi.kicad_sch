@@ -37568,7 +37568,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "SMD250L-30V"
+		(property "Value" "1812L050/30PR"
 			(at 203.2 86.36 0)
 			(effects
 				(font
@@ -37577,7 +37577,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:F2920"
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -37586,7 +37586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230404/E0CF3962C255B31D348123E93B01E396.pdf"
+		(property "Datasheet" "https://www.littelfuse.com/assetdocs/resettable-ptcs-1812l-datasheet"
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -37604,7 +37604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "SMD500L-30V"
+		(property "Manufacturer Part" "1812L050/30PR"
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -37614,7 +37614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "台湾陆海"
+		(property "Manufacturer" "Littelfuse"
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -37758,6 +37758,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 205.74 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "1812L050/30PR"
 			(at 205.74 82.55 0)
 			(effects
 				(font
