@@ -659,13 +659,13 @@
           "group_by": false,
           "label": "Supplier",
           "name": "Supplier",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Supplier Part",
           "name": "Supplier Part",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
