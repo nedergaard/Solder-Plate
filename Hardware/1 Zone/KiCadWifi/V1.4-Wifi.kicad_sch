@@ -50265,7 +50265,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "IRLML2502"
+		(property "Value" "PJA3404A"
 			(at 372.11 288.29 90)
 			(effects
 				(font
@@ -50274,7 +50274,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -50283,7 +50283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20220307/AAAD5BDC6FFDBB80D7FFBAA8C73FC5AC.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/1057/PJA3404A-1867251.pdf"
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -50301,7 +50301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "IRLML2502"
+		(property "Manufacturer Part" "PJA3404A_R1_00001"
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -50310,7 +50310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UMW(友台半导体)"
+		(property "Manufacturer" "Panjit"
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -50443,6 +50443,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 368.3 290.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "PJA3404A_R1_00001"
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -53609,7 +53617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170726/C123008_1501054486996843958.pdf"
+		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/digital/imh3at110-e.pdf"
 			(at 461.01 435.61 0)
 			(effects
 				(font
@@ -53637,7 +53645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ROHM(罗姆)"
+		(property "Manufacturer" "ROHM"
 			(at 461.01 435.61 90)
 			(effects
 				(font
