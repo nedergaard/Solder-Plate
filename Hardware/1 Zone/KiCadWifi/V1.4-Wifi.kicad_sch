@@ -13815,16 +13815,6 @@
 	)
 	(wire
 		(pts
-			(xy 283.21 35.56) (xy 293.37 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "738f1dce-53f1-41d1-be59-86eb3870eaa3")
-	)
-	(wire
-		(pts
 			(xy 293.37 317.5) (xy 288.29 317.5)
 		)
 		(stroke
@@ -24240,7 +24230,25 @@
 			"AAA9IAAAD5AAAKa6BABAoOkw/38AAD0gAAAPkAAAq7oEAFCg6TD/fwAAPSAAAA+QAACwugQAYKDp"
 			"MP9/AAA9IAAAD5AAALW6BABwoOkw/38AAD0gAAAPkAAAuroEAICg6TD/fwAAPSAAAA+QAAC/ugQA"
 			"kKDpMP9/AAA9IAAAD5AAAMS6BACgoOkw/38AAD0gAAAPkAAAyboEALCg6TD/fwAAPSAAAA+QAADO"
-			"ugQAwKDpMP9/AAA9IAAAD5AAANO6BADQoOkw/38AAD0gAAAPkAAA2LoEAOCg6TD/fw=="
+			"ugQAwKDpMP9/AAA9IAAAD5AAANO6BADQoOkw/38AAD0gAAAPkAAA2LoEAOCg6TD/fwAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
 		)
 	)
 	(image
@@ -27092,6 +27100,24 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAA"
+			"AAAAAAAAfwAAAAAAAAAAAAAAAAAAAAAHAOTNAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAUwEQAQsCAQAAAAAAAAAAABAAAAB/AAAAAAAAAAAAAAAAAAAAAAHkAAAAAAADAAAA"
+			"AAAAAH8AAAAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAA"
+			"AAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAA"
+			"AAB/AAAAAAAAAAAAAAAAAAAAAAcA5M4CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAABBNABAAEPAAAAAAABAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAAAAeQAAAAAAAEAAAAAAAAA"
+			"fwAAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAAEAVAAAAAAAAIAAAAAAAAAfwAAAAAAAAAA"
+			"AAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8A"
+			"AAAAAAAAAAAAAAAAAAAABwDkzwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"ACQC0AEAAQEAAAAAAAIAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAAMBAAAAAAAACQAAAAAAAAB/AAAA"
+			"AAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAA"
+			"AAAAfwAAAAAAAAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwAAAAAA"
+			"AAAAAAAAAAAAAAAHAOTQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwbQ"
+			"AQABAQAAAAAAAQAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAAAHkAAAAAAABAAAAAAAAAH8AAAAAAAAA"
+			"AAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAAAHkAAAAAAACAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/"
+			"AAAAAAAAAAAAAAAAAAAABAHkAAAAAAADAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AAAAAAAAAAAA"
+			"AAAAAAAAAAcA5NECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAtABAAEB"
 			"AAAAAA=="
 		)
 	)
@@ -36059,7 +36085,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
-		(at 283.21 35.56 180)
+		(at 293.37 35.56 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36067,7 +36093,7 @@
 		(dnp no)
 		(uuid "34a73d6e-de6d-4a12-9e3b-25e4fdc516bd")
 		(property "Reference" "#PWR0108"
-			(at 283.21 35.56 0)
+			(at 293.37 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36076,7 +36102,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 283.21 29.21 0)
+			(at 293.37 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36084,7 +36110,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 283.21 35.56 0)
+			(at 293.37 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36093,7 +36119,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 283.21 35.56 0)
+			(at 293.37 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36102,7 +36128,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 283.21 35.56 0)
+			(at 293.37 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36375,7 +36401,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "NCD1206O1"
+		(property "Value" "Red"
 			(at 234.95 317.5 90)
 			(effects
 				(font
@@ -36393,7 +36419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C130716_FB690F3C88618721E8D554623CE0FE83.pdf"
+		(property "Datasheet" "https://eu.mouser.com/ProductDetail/LITEON/LTST-C150KRKT"
 			(at 231.14 314.96 0)
 			(effects
 				(font
@@ -36411,7 +36437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "LED_R"
+		(property "Manufacturer Part" "LTST-C150KRKT"
 			(at 231.14 314.96 90)
 			(effects
 				(font
@@ -36421,7 +36447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "国星光电"
+		(property "Manufacturer" "Liteon"
 			(at 231.14 314.96 90)
 			(effects
 				(font
@@ -36567,6 +36593,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 231.14 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LTST-C150KRKT"
 			(at 231.14 314.96 0)
 			(effects
 				(font
@@ -43965,7 +43999,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "NCD1206O1"
+		(property "Value" "Green"
 			(at 250.19 317.5 90)
 			(effects
 				(font
@@ -43983,7 +44017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C130716_FB690F3C88618721E8D554623CE0FE83.pdf"
+		(property "Datasheet" ""
 			(at 246.38 314.96 0)
 			(effects
 				(font
@@ -44001,7 +44035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "LED_G"
+		(property "Manufacturer Part" "LTST-C150KGKT"
 			(at 246.38 314.96 90)
 			(effects
 				(font
@@ -44011,7 +44045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "国星光电"
+		(property "Manufacturer" "Liteon"
 			(at 246.38 314.96 90)
 			(effects
 				(font
@@ -44157,6 +44191,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 246.38 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LTST-C150KGKT"
 			(at 246.38 314.96 0)
 			(effects
 				(font
@@ -52620,7 +52662,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Green"
 			(at 293.37 30.48 0)
 			(effects
 				(font
@@ -52752,6 +52794,30 @@
 			)
 		)
 		(property "Version" ""
+			(at 293.37 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LTST-C171KGKT"
+			(at 293.37 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Liteon"
+			(at 293.37 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "LTST-C171KGKT"
 			(at 293.37 30.48 0)
 			(effects
 				(font
@@ -58401,7 +58467,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "NCD1206O1"
+		(property "Value" "Yellow"
 			(at 219.71 317.5 90)
 			(effects
 				(font
@@ -58419,7 +58485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C130716_FB690F3C88618721E8D554623CE0FE83.pdf"
+		(property "Datasheet" ""
 			(at 215.9 314.96 0)
 			(effects
 				(font
@@ -58437,7 +58503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "LED_Y"
+		(property "Manufacturer Part" "LTST-C150YKT"
 			(at 215.9 314.96 90)
 			(effects
 				(font
@@ -58447,7 +58513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "国星光电"
+		(property "Manufacturer" "Liteon"
 			(at 215.9 314.96 90)
 			(effects
 				(font
@@ -58593,6 +58659,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 215.9 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "LTST-C150YKT"
 			(at 215.9 314.96 0)
 			(effects
 				(font
