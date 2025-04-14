@@ -55936,7 +55936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170925/C99124_1506321783193990586.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/196/Infineon_IPD90N04S4_03_DS_v01_00_en-1227371.pdf"
 			(at 224.79 156.21 0)
 			(effects
 				(font
@@ -55954,7 +55954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "AOD4184A"
+		(property "Manufacturer Part" "IPD90N04S403ATMA1"
 			(at 224.79 156.21 0)
 			(effects
 				(font
@@ -55963,7 +55963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AOS"
+		(property "Manufacturer" "Infineon"
 			(at 224.79 156.21 0)
 			(effects
 				(font
@@ -56096,6 +56096,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 224.79 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "IPD90N04S403ATMA1"
 			(at 224.79 156.21 0)
 			(effects
 				(font
