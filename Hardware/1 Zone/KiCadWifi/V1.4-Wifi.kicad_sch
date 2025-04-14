@@ -36202,7 +36202,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "S8050"
+		(property "Value" "BC816-16VL"
 			(at 212.09 163.83 0)
 			(effects
 				(font
@@ -36211,7 +36211,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
 			(at 210.82 162.56 0)
 			(effects
 				(font
@@ -36220,7 +36220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230807/2EB23ED2C820E6EDA7BD0AA9F6E62B00.pdf"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BC816_SER.pdf"
 			(at 210.82 162.56 0)
 			(effects
 				(font
@@ -36238,7 +36238,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "S8050"
+		(property "Manufacturer Part" "BC816-16VL"
 			(at 210.82 162.56 0)
 			(effects
 				(font
@@ -36248,7 +36248,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "JSMSEMI(杰盛微)"
+		(property "Manufacturer" "Nexperia"
 			(at 210.82 162.56 0)
 			(effects
 				(font
@@ -36394,6 +36394,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 210.82 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BC816-16VL"
 			(at 210.82 162.56 0)
 			(effects
 				(font
