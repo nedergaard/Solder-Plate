@@ -10668,7 +10668,7 @@
 	)
 	(text "~320ma MAX due to inductor rating and didode rating.\n\nMore possible with larger footprint inductor\n\nSS24 (2A) + CDRH127-221 220uh is 1.14A - 12.3*12.3 footprint"
 		(exclude_from_sim no)
-		(at 397.51 104.14 0)
+		(at 397.764 113.284 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10998,7 +10998,7 @@
 		)
 		(uuid "b3afd16a-d194-426c-b343-7455988e84ef")
 	)
-	(text "Refreance Voltage"
+	(text "Reference Voltage"
 		(exclude_from_sim no)
 		(at 400.05 289.56 0)
 		(effects
@@ -12755,16 +12755,6 @@
 	)
 	(wire
 		(pts
-			(xy 430.53 317.5) (xy 429.26 317.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3378bea4-74ce-4724-a7e2-9137b061a3df")
-	)
-	(wire
-		(pts
 			(xy 447.04 25.4) (xy 447.04 29.21)
 		)
 		(stroke
@@ -14425,7 +14415,7 @@
 	)
 	(wire
 		(pts
-			(xy 430.53 300.99) (xy 430.53 317.5)
+			(xy 429.26 300.99) (xy 429.26 317.5)
 		)
 		(stroke
 			(width 0)
@@ -15482,16 +15472,6 @@
 			(type default)
 		)
 		(uuid "e9d5577a-fe58-425e-a847-e7db8a422889")
-	)
-	(wire
-		(pts
-			(xy 430.53 339.09) (xy 429.26 339.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9e3d595-757a-4303-bc93-b5b645984366")
 	)
 	(wire
 		(pts
@@ -24284,7 +24264,25 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAawBsAGQA"
+			"aQBBAE0AVQBOAC8AcQAyAFEAMgBvAHIAYQBVAGkAQQBiAGIAMwB2AGoANgBaAEQAZAA1AG8ASgBv"
+			"AHUAYwBkAEUAcABiAEEATgBNAGUASwBhAEgAdABEAHUASwB0AEwAYgBSAGcAbwAxAEQASwBjAFAA"
+			"SQBMAEkAZwB1AFQAOQBQAHUAagBzACsAagBZADEASQBCAGcAZQBkADQAcwB1AHYAbgBBADUAVABl"
+			"AG8ARABlAGQAeAA4AEIANQBrAGkAMgBxAHcAMQBqAE4ASAA5AEEAbABIAGcAKwBPAFkAdABCADAA"
+			"OABzADMAQQBuAFkARAB4AEcAZQAwAEcAdwBJAHkATwBNAEIAMQBzAG0ASQB6AHIAUgBnAEQANgBL"
+			"AGQAegA1AGsAWQAvADgAVABJACsAQQBTAG4AdwBjAE0AeABLAE0AVAB2AEoANAAzAGwAcQBQAEoA"
+			"YgBoAEMAcgBsAGUATQByAGEAVABCAFoAUABBAE0ARwBLAGMARAAvAFgASgB5AFkAbQA5AEsAOABX"
+			"AFoALwBiAGEAcgBhAGEAbABJAE4AYQBWAEUAawBHAEQAbQBpAGQARgB3ADEASwB2ADIAKwBpAHAA"
+			"SwB6AFQATwBlAFEAcgBIAGUAYQBlAGMALwBtAEMAcQAvAE8AVABhAGYARQBtADIAegBlAFQARwBu"
+			"AGQAYwB1AEoAcABRAEoAUAA5AHEARABWAEEARgB2AGsAdwBVAE0ASwBJACsAOAAwACsAVAAzAEMA"
+			"ZQBsAC8AeQBpAEsAZABYACsAZQBrAGEAZABaAHAAQgAvADMAQgBQAFIAUAA0AFgASwBzAGYAVgB2"
+			"AHUAZQB4AHgAZQBxADYAMQBhAEIARwBnAEEAagA2AE4AcgBmAHEARQB5AGwARABEAFEAbAB5AEsA"
+			"OQBYAGgAVgA1AHMAdABlAHEANAA0ADIAWgBjAHQARQBHAHQATwBiAGUAdQBQAGQAcwBMADcAOQBD"
+			"AHgAbwB2AEYAagAzAHgAdgAxAFIAMQArAG0AYwBaAFEAagB2AGwASQBtADkAeQA5AGMAKwBpAEIA"
+			"SwA1AEoAWQBVAHIANwBsAGIATgBLAFIARgAxAFoAdABnAHcATQA4ADQATABUAHcAYwBxAFMANwBS"
+			"AGwAbABYAHYAWQBqAFUAdQAyAEQAYgBHAG0AMgBYAEQANgBSADUAVABEAFMANgByAE0AVQBDAHIA"
+			"SwBlAHQAQwBpAFcAcABMAGIAbwBEADYAUwArAHoAYgBMADQAMQBWAG0AaABTADcATwBsAHYAQwA2"
+			"AGgAQQB0AHAAUwBuAFkAawBTAEoAUwAwAFIAZwAyADYAeQBmAHUAZwArAE4ASgAzAA=="
 		)
 	)
 	(image
@@ -27190,7 +27188,25 @@
 			"VQBJAEYATwBvAFUAQwB0AGcAYQB2AFcALwBJAHoAYgAvACsAZwBMAHIAcgA0AFQAMQB4AG4AMgB1"
 			"AEMAYgBaADAAdABGAFoAaABlAFAARwA1AFEAdQB1AGEAZgBOAEQAYwBQAFYAZAB2AFQAeQBQAEMA"
 			"bABBAEIASwBsAEEAZABDAGgAQgBjAHEAMgBNAGUATwBBAG8AcQBRAEEAVwBvAFEATgBVAHIAVQBH"
-			"AHYAZw=="
+			"AHYAZwCgkv+P1AEAAKCS/4/UAQAAoJL/j9QBAACgkv+P1AEAAKCS/4/UAQAAoJL/j9QBAACgkv+P"
+			"1AEAAKCS/4/UAQAAAAAAAAAAAABfj1iDAHoEgACW/4/UAQAAAJb/j9QBAAAAlv+P1AEAAAEBAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoj2GDAHsE"
+			"gAAAAAAAAAAAkJb/j9QBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABxj2qDAHwEgAAAAAAAAAAAIJf/j9QBAACQLpCQ1AEAAJAu"
+			"kJDUAQAAkC6QkNQBAACQLpCQ1AEAAJAukJDUAQAAkC6QkNQBAACQLpCQ1AEAAJAukJDUAQAAkC6Q"
+			"kNQBAACQLpCQ1AEAAJAukJDUAQAAkC6QkNQBAACQLpCQ1AEAAJAukJDUAQAAAAAAAAAAAAB6j3OD"
+			"AH0EgLCX/4/UAQAAsJf/j9QBAACwl/+P1AEAAAEB/4/UAQAAkHv/j9QBAACQe/+P1AEAAJB7/4/U"
+			"AQAAkHv/j9QBAACQe/+P1AEAAJB7/4/UAQAAkHv/j9QBAACQe/+P1AEAAJB7/4/UAQAAkHv/j9QB"
+			"AACQe/+P1AEAAJB7/4/UAQAAAAAAAAAAAACDj4SDAH4EgLAakZDUAQAAsBqRkNQBAACwGpGQ1AEA"
+			"ALAakZDUAQAAsBqRkNQBAACwGpGQ1AEAALAakZDUAQAAsBqRkNQBAACwGpGQ1AEAALAakZDUAQAA"
+			"sBqRkNQBAACwGpGQ1AEAALAakZDUAQAAsBqRkNQBAACwGpGQ1AEAALAakZDUAQAAAAAAAAAAAACM"
+			"j42DAH8EgIB//4/UAQAAgH//j9QBAACAf/+P1AEAAIB//4/UAQAAgH//j9QBAACAf/+P1AEAAIB/"
+			"/4/UAQAAgH//j9QBAACAf/+P1AEAAIB//4/UAQAAgH//j9QBAACAf/+P1AEAAIB//4/UAQAAgH//"
+			"j9QBAACAf/+P1AEAAIB//4/UAQAAAAAAAAAAAACVj5aDAIAEgAAAAAAAAAAAYJn/j9QBAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAA=="
 		)
 	)
 	(label "ESP_ENABLE"
@@ -30739,7 +30755,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100nF 0805"
+		(property "Value" "22uF 0805"
 			(at 406.4 88.9 90)
 			(effects
 				(font
@@ -31166,7 +31182,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 129.54 205.74 90)
 			(effects
 				(font
@@ -32132,7 +32148,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 213.36 148.59 90)
 			(effects
 				(font
@@ -32597,7 +32613,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 55.88 240.03 90)
 			(effects
 				(font
@@ -33466,7 +33482,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
-		(at 430.53 339.09 0)
+		(at 429.26 339.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33474,7 +33490,7 @@
 		(dnp no)
 		(uuid "1d81775b-ade1-4d78-b219-f96173cc2c20")
 		(property "Reference" "#PWR0129"
-			(at 430.53 339.09 0)
+			(at 429.26 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33483,7 +33499,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 430.53 345.44 0)
+			(at 429.26 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33491,7 +33507,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 430.53 339.09 0)
+			(at 429.26 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33500,7 +33516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 430.53 339.09 0)
+			(at 429.26 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33509,7 +33525,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 430.53 339.09 0)
+			(at 429.26 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34205,7 +34221,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 129.54 185.42 90)
 			(effects
 				(font
@@ -34767,7 +34783,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 430.53 295.91 90)
+		(at 429.26 295.91 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34775,7 +34791,7 @@
 		(dnp no)
 		(uuid "2affa9f7-1f71-42ec-b71d-6ade988f7d60")
 		(property "Reference" "R40"
-			(at 433.07 295.91 90)
+			(at 431.8 295.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34783,8 +34799,8 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
-			(at 433.07 298.45 90)
+		(property "Value" "750R 0805"
+			(at 431.8 298.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34793,7 +34809,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34802,7 +34818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34811,7 +34827,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34820,7 +34836,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34828,7 +34844,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34836,7 +34852,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34844,7 +34860,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34852,7 +34868,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34860,7 +34876,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34868,7 +34884,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34876,7 +34892,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34884,7 +34900,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34892,7 +34908,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34900,7 +34916,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34908,7 +34924,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34916,7 +34932,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 430.53 295.91 0)
+			(at 429.26 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35021,7 +35037,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "100R 0805"
 			(at 280.67 321.31 0)
 			(effects
 				(font
@@ -36000,7 +36016,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "2K 0805"
 			(at 74.93 109.22 0)
 			(effects
 				(font
@@ -37111,7 +37127,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0805"
 			(at 336.55 114.3 90)
 			(effects
 				(font
@@ -37509,7 +37525,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 69.85 203.2 90)
 			(effects
 				(font
@@ -38050,7 +38066,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "2K 0805"
 			(at 74.93 135.89 0)
 			(effects
 				(font
@@ -38716,7 +38732,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 57.15 203.2 90)
 			(effects
 				(font
@@ -39115,7 +39131,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0805"
 			(at 194.31 166.37 0)
 			(effects
 				(font
@@ -41302,7 +41318,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 76.2 203.2 90)
 			(effects
 				(font
@@ -41459,7 +41475,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Power-5V")
-		(at 430.53 290.83 0)
+		(at 429.26 290.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41467,7 +41483,7 @@
 		(dnp no)
 		(uuid "6a8b94ae-44fb-4acb-8802-bb0509b977e4")
 		(property "Reference" "#PWR0127"
-			(at 430.53 290.83 0)
+			(at 429.26 290.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41476,7 +41492,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 430.53 285.75 0)
+			(at 429.26 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41484,7 +41500,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 430.53 290.83 0)
+			(at 429.26 290.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41493,7 +41509,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 430.53 290.83 0)
+			(at 429.26 290.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41502,7 +41518,7 @@
 			)
 		)
 		(property "Description" "Power-5V"
-			(at 430.53 290.83 0)
+			(at 429.26 290.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42317,7 +42333,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0603"
 			(at 330.2 425.45 0)
 			(effects
 				(font
@@ -42564,7 +42580,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "15K"
+		(property "Value" "2K 0805"
 			(at 72.39 91.44 90)
 			(effects
 				(font
@@ -43430,7 +43446,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100nF 0805"
+		(property "Value" "1nF 0805"
 			(at 276.86 48.26 90)
 			(effects
 				(font
@@ -43611,7 +43627,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 336.55 99.06 90)
 			(effects
 				(font
@@ -43784,7 +43800,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "15K 0805"
 			(at 72.39 82.55 0)
 			(effects
 				(font
@@ -44327,7 +44343,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "15K 0805"
 			(at 72.39 123.19 0)
 			(effects
 				(font
@@ -45330,7 +45346,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 82.55 203.2 90)
 			(effects
 				(font
@@ -45684,7 +45700,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 185.42 198.12 0)
 			(effects
 				(font
@@ -46307,7 +46323,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "15K 0805"
 			(at 72.39 151.13 0)
 			(effects
 				(font
@@ -46726,7 +46742,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 372.11 307.34 0)
 			(effects
 				(font
@@ -47149,7 +47165,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 62.23 240.03 90)
 			(effects
 				(font
@@ -47322,7 +47338,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 81.28 240.03 90)
 			(effects
 				(font
@@ -48154,7 +48170,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 236.22 110.49 90)
 			(effects
 				(font
@@ -48392,7 +48408,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100nF 0805"
+		(property "Value" "100nF 0603"
 			(at 336.55 462.28 90)
 			(effects
 				(font
@@ -49542,7 +49558,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0805"
 			(at 218.44 307.34 90)
 			(effects
 				(font
@@ -50007,7 +50023,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0603"
 			(at 285.75 29.21 0)
 			(effects
 				(font
@@ -50180,7 +50196,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 129.54 245.11 90)
 			(effects
 				(font
@@ -51726,7 +51742,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 63.5 203.2 90)
 			(effects
 				(font
@@ -52126,7 +52142,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "47R 0805"
 			(at 264.16 74.93 90)
 			(effects
 				(font
@@ -52585,7 +52601,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 48.26 240.03 90)
 			(effects
 				(font
@@ -53266,7 +53282,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "3K6 0603"
 			(at 345.44 425.45 0)
 			(effects
 				(font
@@ -53506,7 +53522,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100nF 0805"
+		(property "Value" "220pF 0805"
 			(at 407.67 134.62 90)
 			(effects
 				(font
@@ -54230,7 +54246,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" ".33R 0805"
 			(at 445.77 127 0)
 			(effects
 				(font
@@ -55195,7 +55211,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "47R 0805"
 			(at 222.25 74.93 90)
 			(effects
 				(font
@@ -55368,7 +55384,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 74.93 240.03 90)
 			(effects
 				(font
@@ -55841,7 +55857,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 204.47 160.02 90)
 			(effects
 				(font
@@ -56865,7 +56881,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 49.53 203.2 90)
 			(effects
 				(font
@@ -57589,7 +57605,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K5 0805"
 			(at 440.69 153.67 90)
 			(effects
 				(font
@@ -57827,7 +57843,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 68.58 240.03 90)
 			(effects
 				(font
@@ -59465,7 +59481,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0805"
 			(at 248.92 307.34 90)
 			(effects
 				(font
@@ -60161,7 +60177,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "7K5 0805"
 			(at 424.18 148.59 0)
 			(effects
 				(font
@@ -60399,7 +60415,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 129.54 223.52 90)
 			(effects
 				(font
@@ -60638,7 +60654,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "10K 0805"
 			(at 295.91 325.12 90)
 			(effects
 				(font
@@ -60811,7 +60827,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "4K7 0805"
 			(at 185.42 203.2 0)
 			(effects
 				(font
@@ -61244,7 +61260,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "10K 0603"
+		(property "Value" "1K 0805"
 			(at 233.68 307.34 90)
 			(effects
 				(font
