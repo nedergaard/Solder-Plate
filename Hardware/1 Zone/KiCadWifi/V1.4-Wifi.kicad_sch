@@ -11208,7 +11208,7 @@
 		(uuid "23a054ea-6d22-4ed6-9781-829b63ff585c")
 	)
 	(junction
-		(at 334.01 104.14)
+		(at 316.23 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2714661a-1873-448f-aefb-af3b8746f28b")
@@ -13855,7 +13855,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 101.6) (xy 334.01 104.14)
+			(xy 316.23 33.02) (xy 316.23 35.56)
 		)
 		(stroke
 			(width 0)
@@ -13995,7 +13995,7 @@
 	)
 	(wire
 		(pts
-			(xy 334.01 104.14) (xy 334.01 106.68)
+			(xy 316.23 35.56) (xy 316.23 38.1)
 		)
 		(stroke
 			(width 0)
@@ -24300,7 +24300,25 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFoAUgB1AHUA"
+			"TwB2ADAARQBXAGwAcQA3AGMAKwBLAFoAWgAxAEgAcABhAEcAZgA2AGcAdwA5AHEASgA5ADYAVgAz"
+			"AHgAbQBoAFQAdgBxAG4AbgBYAEUARwBMAFgAMQA2AE0AdgAyAGgAaAA5AG0AeQBZAFQAMgB0AGgA"
+			"UwBhAGQAYgAvAFEAYwBSAFIATQB2AGsAcQBmAGQAOQBDAEMAMQA3AEwAUgBvAEkAUQB3AEsASwBT"
+			"AFoAWgBqAGsAMgA1AFYATwBXAHcAdwB3AGMAegBaAE0AZwBSAEcAUABsAG0ASABDAFAAbQA0AGYA"
+			"dgB1AEkAZgBZAHEAYgBOACsAKwBuAFoANwA3AEgAYwBDAHAAawA4AC8AVABBAG8ARgBrAFEATAAr"
+			"AGwAYQBYADkAcgBGAHQAagBoADAAYQBWAHkAcABsAEEAegBmAFoAZQAvAHQAcABUAGwAeQA1AFoA"
+			"UwBxADUAVgAwAGMAeQB6AFgAcwBtAGUAUABnACsAbQB6AC8AMwA3ADAASAB6AFIAUQB1ADkAQgBs"
+			"AGMAVQBmAFAAWgB0AFAASQB0ADEAcQBOAHIARwB1AHgAYwBkADAANgBYAG4AagB1AGUAWgBXAGMA"
+			"QgBYADQAdABkAFcAZwBYAGsAegBDAFYAZgBPADMAWgBEAGYAWQAvAEEAKwBqAHkAbABYAE4AdQAr"
+			"ADQANABDADkARgBwADcAUwBTAFYAUQA2AHMATgBnAHUAYgB5AHgAYwBUAHQALwB1AHUAZABCAEYA"
+			"aQA5AGYAeQArAGIAMgBFAHMAMQBOAEwAZgBUAHAAMQBvAE0AUABUAGoANgBCAFUAMABiADIAdwB6"
+			"AEMAcQB0AEUAVwBXAFUAcABtAHAAbABEAEcAZABZAGsAcgBIAHQAWQBVAGkANwBaAEMARQBWAGUA"
+			"VgAvAHUANwAwAE8AdwBlAGwAOQBHAEsAYgBRAG0ASgB0ADcARQBoAG0AMgBGAHMALwBsAFcAbQBq"
+			"AE0AbgA0AEoAYQBxAFoAUQAxAG8AcwBuAFMAYwBYAGoANwA4ADcAQwBuAEEAWABwAE0ASQBLAHgA"
+			"cABJAGwATwBZAGQASwBuAEoAcABFAGgAQgBsAEEAVQA0ADUAMwBjAGsAZAAzADkAeQBsAHgAMQAw"
+			"AE8AZQBkAHEARwBYAEwAbgBmAFoAZABrAHcAbABmAFUANwBqAHUAMABiAGMAdwAzAHAAbQBMAGUA"
+			"YwB5AFgARwBwAGgAWAA0AGQAbwBiAEkAcwBzAGcAYQBWAFkAeQBSADcANABlAHoAYgA2AHoATABC"
+			"AEkAUwBDAFkAQgBIACsAZQBCAEIAMgBhAFMAVgBKADEAcwBaAG8AUABnAEEAKwArAA=="
 		)
 	)
 	(image
@@ -27242,7 +27260,25 @@
 			"TgB4AEkATwB3AFgAWAB0AFEAZgBmAE8AZgB5AEEAaQA5AHMAVwBxAGcAdwB2AEwAWgBQAC8AdgBs"
 			"AFAAQgBSADcAWABZADQANwAvAHAATgBoAEEAWABPADMAZwBDAHQAdQBIAG4AbgBDAGsARABEAC8A"
 			"MQBrADkATABRAHYANAAvAFIAWQB1AGUAbQByAGIATAA2AHcAVAAvAEoAbQA0ADgAOQBHACsAbQBW"
-			"ADUAbg=="
+			"ADUAbgAzAG8AVwBWAG0ARgBmAGQAcABKAHEAKwBPAEsATABNAFoAeABCAHoAegBBAE4AcwB3AHkA"
+			"cQA3AEMAUAAwAGoAeQBIAEMAbABBAEIASwBsAEEAOQBDAGgAQgBjAHEAMgBjAHUATwBCAEkAcQBR"
+			"AEEAVwBvAFEARgBVAHIANABBAE8AdQBMAHQAQgBXAE0ANwBqAGEAWQBzAE4AVABDAG8AQgBGAHEA"
+			"QwA4AGcAOQBKADYANwA3AHkAagB3AG0AbQBhAEYAQwB1AFAANgBZADQANwAvAGwAQQBCAGsAdABR"
+			"AFkAcwBNAGcAMQAzAHgAbABCAGgAWgBCAGUAZQBkAFAAbQBGAHMAdQBvADMARAA1AHAALwA5AGwA"
+			"SAB0ADQASgByAG4AQgBpAEsANAA1AGwARwBMADUAMQBJAEIASwBrAEEARgBPAGwANABCAGcAbQB2"
+			"AEgAegB3AEYASABRAEEAVwBvAEEAQgBYAG8ARgBBAHIAWQB5AFoAbABtAFgAWAAxADIAVQBlAEkA"
+			"YwBoAEYAagBDAHEANwBYAHcAOABXAFcAUgBQAFoAMABGAFgATwAwAEoAMABKAEkANABtAGwAZwBK"
+			"ADcAMgBXAEIAcQAzAHQAOQBaADAAegBPADEATgBDAHYAagB4AHoAeAB3ADAAdQBNAEsAWABiAHQA"
+			"VgBsADkAdwBSAFUASwBrAHAAQgBJADQAZABoAHQAcABIAGwAZgBmAE4AcgBLAFMATQAvAG4AYwBV"
+			"AEUAbgBnADYAagBzAEcAMQB3ADYAZgBQAG4AawBPAEYAYQBBAEMAVgBJAEEASwBsAEsANABBAHcA"
+			"YgBWADAANwBYAGcAbABGAGEAQQBDAFYASwBCAEwASwBXAEQAdgBjAGQAVgA2AG0AUQBnAEwAQgBx"
+			"AHgATQBQAFcANgBDADIAZQBQAHEAWgBvAEcAdABaAG4AQQBGAG8ASgA1ADAANgBtAG4AaQBoAGcA"
+			"YgBEADgANABvAEQAVwBZAEgAMQBTAE4AdgBqAHUAbQBYAFQAcABpAGgANwBzAEoANABQAHoANgB1"
+			"AGQANABLAGsAegA3AEgARQBGAHQASwBKAHUANgB6AHYAUABMAFMAOQBZADEAeAB0AFgAdgBPAG8A"
+			"VgBLAG8AdwB5AE0AcABxAE4AVgB4AHMAQQBCAEcATABQAHEAVgAzAFcASgBnAGwAYwBVAGYANABH"
+			"ADYAKwByADIARwB4ADgAbwA2AEIAOQByAEMAKwAxAG8AMABpAGEAOABtAFEAUwB1ADgAUABpADcA"
+			"eQBhAEIAdwBQAHQAcQB3AEgANgBqAGcATgBaACsAcwB3AG4AbgBzADYARgBJAGYAQgBqAFMAVwBD"
+			"AGwAQQ=="
 		)
 	)
 	(label "ESP_ENABLE"
@@ -27397,7 +27433,7 @@
 	)
 	(global_label "VCC"
 		(shape input)
-		(at 334.01 91.44 0)
+		(at 316.23 22.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27406,7 +27442,7 @@
 		)
 		(uuid "058d3fae-7f64-40d0-aee6-a93771d771c1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 334.01 91.44 0)
+			(at 316.23 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28237,7 +28273,7 @@
 	)
 	(global_label "VCC-DIV"
 		(shape input)
-		(at 334.01 104.14 180)
+		(at 316.23 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28246,7 +28282,7 @@
 		)
 		(uuid "477fe684-73c7-493a-8eb5-31bfb0452629")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 334.01 104.14 0)
+			(at 316.23 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37147,7 +37183,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 334.01 111.76 90)
+		(at 316.23 43.18 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37155,7 +37191,7 @@
 		(dnp no)
 		(uuid "3e88024a-5b58-4da7-a5a5-334eca7ed6b4")
 		(property "Reference" "R5"
-			(at 336.55 111.76 90)
+			(at 318.77 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37164,7 +37200,7 @@
 			)
 		)
 		(property "Value" "1K 0805"
-			(at 336.55 114.3 90)
+			(at 318.77 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37173,7 +37209,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37182,7 +37218,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37191,7 +37227,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37200,7 +37236,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37208,7 +37244,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37216,7 +37252,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37224,7 +37260,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37232,7 +37268,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37240,7 +37276,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37248,7 +37284,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37256,7 +37292,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37264,7 +37300,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37272,7 +37308,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37280,7 +37316,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37288,7 +37324,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37296,7 +37332,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 334.01 111.76 0)
+			(at 316.23 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39100,6 +39136,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Page Size" ""
@@ -43061,6 +43098,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Page Size" ""
@@ -43647,7 +43685,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 334.01 96.52 90)
+		(at 316.23 27.94 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -43655,7 +43693,7 @@
 		(dnp no)
 		(uuid "762cb3fc-4c8f-4bb7-882e-85c4b2063899")
 		(property "Reference" "R4"
-			(at 336.55 96.52 90)
+			(at 318.77 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43664,7 +43702,7 @@
 			)
 		)
 		(property "Value" "4K7 0805"
-			(at 336.55 99.06 90)
+			(at 318.77 30.48 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43673,7 +43711,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43682,7 +43720,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43691,7 +43729,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43700,7 +43738,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43708,7 +43746,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43716,7 +43754,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43724,7 +43762,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43732,7 +43770,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43740,7 +43778,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43748,7 +43786,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43756,7 +43794,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43764,7 +43802,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43772,7 +43810,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43780,7 +43818,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43788,7 +43826,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43796,7 +43834,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 334.01 96.52 0)
+			(at 316.23 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46068,6 +46106,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Page Size" ""
@@ -47879,6 +47918,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Page Size" ""
@@ -51511,6 +51551,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Manufacturer" "MCC"
@@ -53475,7 +53516,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 334.01 104.14 270)
+		(at 316.23 35.56 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -53484,7 +53525,7 @@
 		(fields_autoplaced yes)
 		(uuid "c982047f-db8e-4dae-8782-672e18c2de33")
 		(property "Reference" "#FLG03"
-			(at 335.915 104.14 0)
+			(at 318.135 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53493,7 +53534,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 337.82 104.1399 90)
+			(at 320.04 35.5599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53502,7 +53543,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 334.01 104.14 0)
+			(at 316.23 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53511,7 +53552,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 334.01 104.14 0)
+			(at 316.23 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53520,7 +53561,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 334.01 104.14 0)
+			(at 316.23 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55812,7 +55853,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
-		(at 334.01 116.84 0)
+		(at 316.23 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -55820,7 +55861,7 @@
 		(dnp no)
 		(uuid "d62c22da-ebbd-4448-be95-6290014ffcb4")
 		(property "Reference" "#PWR0119"
-			(at 334.01 116.84 0)
+			(at 316.23 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55829,7 +55870,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 334.01 123.19 0)
+			(at 316.23 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55837,7 +55878,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 334.01 116.84 0)
+			(at 316.23 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55846,7 +55887,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 334.01 116.84 0)
+			(at 316.23 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55855,7 +55896,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 334.01 116.84 0)
+			(at 316.23 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57155,7 +57196,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "AO4409"
+		(property "Value" "DMPH4015SSSQ-13"
 			(at 246.38 86.36 90)
 			(effects
 				(font
@@ -57164,7 +57205,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOP-8_L4.9-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 240.03 87.63 0)
 			(effects
 				(font
@@ -57173,7 +57214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20230906/D6A265D86B96344FA90E674527BF0B3C.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0013030236_1-2543857.pdf"
 			(at 240.03 87.63 0)
 			(effects
 				(font
@@ -57191,7 +57232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "AO4409"
+		(property "Manufacturer Part" ""
 			(at 240.03 87.63 90)
 			(effects
 				(font
@@ -57201,7 +57242,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TECHPUBLIC(台舟)"
+		(property "Manufacturer" ""
 			(at 240.03 87.63 90)
 			(effects
 				(font
@@ -57211,7 +57252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C7603375"
+		(property "Supplier Part" ""
 			(at 240.03 87.63 90)
 			(effects
 				(font
@@ -57221,7 +57262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 240.03 87.63 90)
 			(effects
 				(font
@@ -57231,7 +57272,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "AO4409"
+		(property "LCSC Part Name" ""
 			(at 240.03 87.63 0)
 			(effects
 				(font
@@ -57342,6 +57383,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "DMPH4015SSSQ-13"
+			(at 240.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
