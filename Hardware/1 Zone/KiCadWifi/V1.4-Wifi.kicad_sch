@@ -51595,7 +51595,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "AMS1117-5.0"
+		(property "Value" "LDI1117-05H"
 			(at 414.02 86.36 0)
 			(effects
 				(font
@@ -51604,7 +51604,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOT-223-3_L6.7-W3.7-P2.30-LS7.0-BR"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51613,7 +51613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20211201/578FEEF9766904D398893791CE3EC879.pdf"
+		(property "Datasheet" "https://diotec.com/request/datasheet/ldi1117h.pdf"
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51622,7 +51622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Output Type:-"
+		(property "Description" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51631,7 +51631,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "AMS1117-5.0"
+		(property "Manufacturer Part" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51640,7 +51640,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "JSMSEMI(杰盛微)"
+		(property "Manufacturer" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51649,7 +51649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C917153"
+		(property "Supplier Part" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51658,7 +51658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51667,7 +51667,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "AMS1117-5.0SOT-223"
+		(property "LCSC Part Name" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -51778,6 +51778,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "LDI1117-05H"
+			(at 421.64 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "4"
