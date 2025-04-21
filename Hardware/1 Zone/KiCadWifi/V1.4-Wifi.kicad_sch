@@ -40977,7 +40977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Wireless-tag(启明云端)"
+		(property "Manufacturer" ""
 			(at 364.49 448.31 0)
 			(effects
 				(font
@@ -40986,7 +40986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C477829"
+		(property "Supplier Part" ""
 			(at 364.49 448.31 0)
 			(effects
 				(font
@@ -40995,7 +40995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 364.49 448.31 0)
 			(effects
 				(font
@@ -41004,7 +41004,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "WT8266-S5ESP-12F"
+		(property "LCSC Part Name" ""
 			(at 364.49 448.31 0)
 			(effects
 				(font
@@ -41115,6 +41115,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" ""
+			(at 364.49 448.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "18"
@@ -48730,7 +48739,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "AMS1117-3.3"
+		(property "Value" "LD1117S33CTR"
 			(at 426.72 48.26 0)
 			(effects
 				(font
@@ -48739,7 +48748,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-223"
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48748,7 +48757,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20180727/C6186_7A095716F0823C02F1997A905E26C086.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/389/ld1117-1849389.pdf"
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48766,7 +48775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "AMS1117-3.3"
+		(property "Manufacturer Part" ""
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48775,7 +48784,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "AMS"
+		(property "Manufacturer" ""
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48784,7 +48793,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C6186"
+		(property "Supplier Part" ""
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48793,7 +48802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48802,7 +48811,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "输出3.3V1A"
+		(property "LCSC Part Name" ""
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -48867,12 +48876,13 @@
 				)
 			)
 		)
-		(property "Company" ""
+		(property "Company" "STMicroelectronics"
 			(at 435.61 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Drawed" ""
@@ -48913,6 +48923,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "LD1117S33CTR"
+			(at 435.61 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -58296,6 +58315,14 @@
 				)
 			)
 		)
+		(property "MPN" "CH340C"
+			(at 407.67 502.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "bd2fc2bb-8d5d-4c8d-a76a-754cf63f0eee")
 		)
@@ -59499,6 +59526,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" "CH340C"
+			(at 422.91 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
