@@ -10666,17 +10666,6 @@
 		)
 		(uuid "00ad11cf-e095-4e08-a551-1f8e1f1713c8")
 	)
-	(text "~320ma MAX due to inductor rating and didode rating.\n\nMore possible with larger footprint inductor\n\nSS24 (2A) + CDRH127-221 220uh is 1.14A - 12.3*12.3 footprint"
-		(exclude_from_sim no)
-		(at 397.764 113.284 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "04633912-7a6b-4d65-b01c-4ab3706917f1")
-	)
 	(text "Extra usb debug header"
 		(exclude_from_sim no)
 		(at 173.99 273.05 0)
@@ -24318,7 +24307,43 @@
 			"cABJAGwATwBZAGQASwBuAEoAcABFAGgAQgBsAEEAVQA0ADUAMwBjAGsAZAAzADkAeQBsAHgAMQAw"
 			"AE8AZQBkAHEARwBYAEwAbgBmAFoAZABrAHcAbABmAFUANwBqAHUAMABiAGMAdwAzAHAAbQBMAGUA"
 			"YwB5AFgARwBwAGgAWAA0AGQAbwBiAEkAcwBzAGcAYQBWAFkAeQBSADcANABlAHoAYgA2AHoATABC"
-			"AEkAUwBDAFkAQgBIACsAZQBCAEIAMgBhAFMAVgBKADEAcwBaAG8AUABnAEEAKwArAA=="
+			"AEkAUwBDAFkAQgBIACsAZQBCAEIAMgBhAFMAVgBKADEAcwBaAG8AUABnAEEAKwArAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOjba8EuBAAq"
+			"U4UQAMD8Abs7AgAAYHzHvzsCAACAwtU9I/XDQe5wa8GAwtU9DdLDQdpNa8GAwtU9gN7DQQwca8GA"
+			"wtU9lgHEQSA/a8GAwtU96f3DQVJJa8GAwtU9LeLDQdoRa8GAwtU9oe7DQfP4asGAwtU9XQrEQWsw"
+			"a8GAwtU9RAXEQcQ3a8GAwtU9uvPDQZrxasGAwtU9oQzEQbPYasGAwtU9Kx7EQd0ea8GAwtU9ZhXE"
+			"QQEja8GAwtU9ZhXEQY/UasGAwtU9qFPEQY/UasGAwtU9qFPEQQEja8GAwtU940rEQd0ea8GAwtU9"
+			"bVzEQbPYasGAwtU9VHXEQZrxasGAwtU9ymPEQcQ3a8GAwtU9sV7EQWowa8GAwtU9bXrEQfT4asGA"
+			"wtU94IbEQdsRa8GAwtU9JGvEQVFJa8GAwtU9eGfEQSE/a8GAwtU9jIrEQQsca8GAwtU9AJfEQdlN"
+			"a8GAwtU97HPEQe9wa8GAwtU92nHEQWRfa8GAwtU9EpnEQWRfa8GAwtU9EpnEQejba8GAwtU92nHE"
+			"Qejba8GAwtU97HPEQV3Ka8GAwtU9AJfEQXPta8GAwtU9jIrEQUEfbMGAwtU9eGfEQSv8a8GAwtU9"
+			"JGvEQfvxa8GAwtU94IbEQXEpbMGAwtU9bXrEQVhCbMGAwtU9sV7EQeIKbMGAwtU9l5PDQQu4acGA"
+			"wtU9X2zDQQu4acGAwtU9X2zDQT2GacGAwtU9l5PDQT2GacGAwtU9hZHDQciXacGAwtU9cW7DQbJ0"
+			"acGAwtU95XrDQeRCacGAwtU9+Z3DQfplacGAwtU9TZrDQSpwacGAwtU9kX7DQbQ4acGAwtU9BIvD"
+			"Qc0facGAwtU9wKbDQUNXacGAwtU9p6HDQZ1eacGAwtU9HZDDQXMYacGAwtU9BKnDQYv/aMGAwtU9"
+			"jrrDQbVFacGAwtU9i7bDQa1IacGAwtU9B63DQZP8aMGAwtU91t7DQazjaMGAwtU9WujDQcYvacGA"
+			"wtU9mOPDQfIwacGAwtU9mOPDQYDiaMGAwtU92SHEQYDiaMGAwtU92SHEQfIwacGAwtU9Fx3EQcYv"
+			"acGAwtU9mybEQazjaMGAwtU9aljEQZP8aMGAwtU95k7EQa1IacGAwtU940rEQbVFacGAwtU9bVzE"
+			"QYv/aMGAwtU9VHXEQXMYacGAwtU9ymPEQZ1eacGAwtU9sV7EQUNXacGAwtU9bXrEQc0facGAwtU9"
+			"4IbEQbQ4acGAwtU9JGvEQSpwacGAwtU9eGfEQfplacGAwtU9jIrEQeRCacGAwtU9AJfEQbJ0acGA"
+			"wtU97HPEQciXacGAwtU92nHEQT2GacGAwtU9EpnEQT2GacGAwtU9EpnEQQu4acGAwg=="
 		)
 	)
 	(image
@@ -27278,7 +27303,43 @@
 			"VgBLAG8AdwB5AE0AcABxAE4AVgB4AHMAQQBCAEcATABQAHEAVgAzAFcASgBnAGwAYwBVAGYANABH"
 			"ADYAKwByADIARwB4ADgAbwA2AEIAOQByAEMAKwAxAG8AMABpAGEAOABtAFEAUwB1ADgAUABpADcA"
 			"eQBhAEIAdwBQAHQAcQB3AEgANgBqAGcATgBaACsAcwB3AG4AbgBzADYARgBJAGYAQgBqAFMAVwBD"
-			"AGwAQQ=="
+			"AGwAQQIAALDSFzU7AgAAsNIXNTsCAAABAQAAAAAAAAAAAAAAAAAA6YBcmABhAoDg0hc1OwIAAODS"
+			"FzU7AgAA4NIXNTsCAAABAQAAAAAAAAAAAAAAAAAA9IBfmABiAoAQ0xc1OwIAABDTFzU7AgAAENMX"
+			"NTsCAAABAQAAAAAAAAAAAAAAAAAA94BCmABjAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/AADwny01"
+			"OwIAAAAAAID7IQlA8oBFmABkAoBw0xc1OwIAAHDTFzU7AgAAcNMXNTsCAAABAQAAAAAAAAAAAAAA"
+			"AAAA/YBImABlAoCg0xc1OwIAAKDTFzU7AgAAoNMXNTsCAAABAQAAAAAAAAAAAAAAAAAA+IBLmABm"
+			"AoDQ0xc1OwIAANDTFzU7AgAA0NMXNTsCAAABAQAAAAAAAAAAAAAAAAAA+4BOmABnAoB4AyMo/n8A"
+			"AAAAAAAAAAAAWP4iKP5/AABgvC01OwIAAAAAAID7IQlAhoAxmABoAoAw1Bc1OwIAADDUFzU7AgAA"
+			"MNQXNTsCAAABAQAAAAAAAAAAAAAAAAAAgYA0mABpAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/AADQ"
+			"vi01OwIAAAAAAID7IQlAjIA3mABqAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/AACgvy01OwIAAAAA"
+			"AID7IQlAj4A6mABrAoDA1Bc1OwIAAMDUFzU7AgAAwNQXNTsCAAABAQAAAAAAAAAAAAAAAAAAioA9"
+			"mABsAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/AADgtS01OwIAAAAAAID7IQlAlYAgmABtAoB4AyMo"
+			"/n8AAAAAAAAAAAAAWP4iKP5/AAAgxi01OwIAAAAAAID7IQlAkIAjmABuAoB4AyMo/n8AAAAAAAAA"
+			"AAAAWP4iKP5/AACQri01OwIAAAAAAID7IQlAk4AmmABvAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/"
+			"AAAwvS01OwIAAAAAAID7IQlAnoApmABwAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/AABAwS01OwIA"
+			"AAAAAID7IQlAmYAsmABxAoB4AyMo/n8AAAAAAAAAAAAAWP4iKP5/AACwwy01OwIAAAAAAID7IQlA"
+			"pIAvmAByAoAQ1hc1OwIAABDWFzU7AgAAENYXNTsCAAABAQAAAAAAAAAAAAAAAAAAp4ASmABzAoBA"
+			"1hc1OwIAAEDWFzU7AgAAQNYXNTsCAAABAQAAAAAAAAAAAAAAAAAAooAVmAB0AoB4AyMo/n8AAAAA"
+			"AAAAAAAAWP4iKP5/AACgsi01OwIAAAAAAID7IQlArYAYmAB1AoB4AyMo/n8AAAAAAAAAAAAAWP4i"
+			"KP5/AGluIGlucHV0IGxpbmUgKGF0IDExLjQzIDAgMTgwKSAobGVuZ3RoIDIuNTQpKG5hbWUgIlZP"
+			"VVQiIChlZmZlY3RzIChmb250IChzaXplIDEuMjcgMS4yNykpKSkobnVtYmVyICI0IiAoZWZmZWN0"
+			"cyAoZm9udCAoc2l6ZSAxLjI3IDEuMjcpKSkpKSkoZW1iZWRkZWRfZm9udHMgbm8pKShzeW1ib2wg"
+			"IlYxLjQtV2lmaS1lYXN5ZWRhcHJvOkFNUzExMTctNS4wX0M5MTcxNTMiKGV4Y2x1ZGVfZnJvbV9z"
+			"aW0gbm8pKGluX2JvbSB5ZXMpKG9uX2JvYXJkIHllcykocHJvcGVydHkgICJSZWZlcmVuY2UiICJV"
+			"IiAoYXQgMCAwIDApKGVmZmVjdHMoZm9udChzaXplIDEuMjcgMS4yNykpKSkocHJvcGVydHkgICJW"
+			"YWx1ZSIgIiIgKGF0IDAgMCAwKShlZmZlY3RzKGZvbnQoc2l6ZSAxLjI3IDEuMjcpKSkpKHByb3Bl"
+			"cnR5ICAiRm9vdHByaW50IiAiVjEuNC1XaWZpLWVhc3llZGFwcm86U09ULTIyMy0zX0w2LjctVzMu"
+			"Ny1QMi4zMC1MUzcuMC1CUiIgKGF0IDAgMCAwKShlZmZlY3RzKGZvbnQoc2l6ZSAxLjI3IDEuMjcp"
+			"KShoaWRlIHllcykpKShwcm9wZXJ0eSAgIkRhdGFzaGVldCIgImh0dHBzOi8vYXR0YS5zemxjc2Mu"
+			"Y29tL3VwbG9hZC9wdWJsaWMvcGRmL3NvdXJjZS8yMDIxMTIwMS81NzhGRUVGOTc2NjkwNEQzOTg4"
+			"OTM3OTFDRTNFQzg3OS5wZGYiIChhdCAwIDAgMCkoZWZmZWN0cyhmb250KHNpemUgMS4yNyAxLjI3"
+			"KSkoaGlkZSB5ZXMpKSkocHJvcGVydHkgICJEZXNjcmlwdGlvbiIgIk91dHB1dCBUeXBlOi0iIChh"
+			"dCAwIDAgMCkoZWZmZWN0cyhmb250KHNpemUgMS4yNyAxLjI3KSkoaGlkZSB5ZXMpKSkocHJvcGVy"
+			"dHkgICJNYW51ZmFjdHVyZXIgUGFydCIgIkFNUzExMTctNS4wIiAoYXQgMCAwIDApKGVmZmVjdHMo"
+			"Zm9udChzaXplIDEuMjcgMS4yNykpKGhpZGUgeWVzKSkpKHByb3BlcnR5ICAiTWFudWZhY3R1cmVy"
+			"IiAiSlNNU0VNSSjmnbDnm5vlvq4pIiAoYXQgMCAwIDApKGVmZmVjdHMoZm9udChzaXplIDEuMjcg"
+			"MS4yNykpKGhpZGUgeWVzKSkpKHByb3BlcnR5ICAiU3VwcGxpZXIgUGFydCIgIkM5MTcxNTMiIChh"
+			"dCAwIA=="
 		)
 	)
 	(label "ESP_ENABLE"
@@ -31798,7 +31859,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -31807,7 +31868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20161108/1478586379195.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/389/mc34063ab-1849936.pdf"
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -31834,7 +31895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ST(意法半导体)"
+		(property "Manufacturer" "STMicro"
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -31967,6 +32028,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 433.07 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "MC34063ECD-TR"
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -41703,7 +41772,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "B0520LW-7-F"
+		(property "Value" "SK34SMA-3G"
 			(at 392.43 133.35 90)
 			(effects
 				(font
@@ -41712,7 +41781,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:SOD-123_L2.8-W1.8-LS3.7-RD"
+		(property "Footprint" "Diode_SMD:D_SMA_Handsoldering"
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41721,7 +41790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
+		(property "Datasheet" "https://diotec.com/request/datasheet/sk34sma-3g.pdf"
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41730,7 +41799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Reverse Voltage (Vr):20V Average Rectified Current (Io):500mA Forward Voltage (Vf@If):450mV@500mA"
+		(property "Description" ""
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41739,7 +41808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
+		(property "Manufacturer Part" "SK34SMA-3G"
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41748,7 +41817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Diodes Incorporated"
+		(property "Manufacturer" "Diotec Semiconductor"
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41757,7 +41826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C77335"
+		(property "Supplier Part" ""
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41766,7 +41835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41775,7 +41844,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "20V500mA450mV@500mA"
+		(property "LCSC Part Name" ""
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -41888,12 +41957,13 @@
 				)
 			)
 		)
-		(property "MPN" "B0520LW-7-F"
+		(property "MPN" "SK34SMA-3G "
 			(at 405.13 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -44961,7 +45031,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "22uH"
+		(property "Value" "100uH"
 			(at 389.89 125.73 0)
 			(effects
 				(font
@@ -44970,7 +45040,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_TDK_SLF6045"
+		(property "Footprint" "Inductor_SMD:L_Coilcraft_MSS1048-XXX"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -44997,7 +45067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "VLS6045EX-220M-H"
+		(property "Manufacturer Part" "MSS1048-104MLC"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -45007,7 +45077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TDK"
+		(property "Manufacturer" "Coilcraft"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -45159,7 +45229,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "MSS1048-104MLC"
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -53741,6 +53811,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Page Size" ""
