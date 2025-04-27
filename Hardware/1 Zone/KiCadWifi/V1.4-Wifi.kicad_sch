@@ -3165,7 +3165,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "V1.4-Wifi-easyedapro:TQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
+			(property "Footprint" "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3202,7 +3202,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer" "MICROCHIP(美国微芯)"
+			(property "Manufacturer" "MICROCHIP"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3212,7 +3212,7 @@
 					(hide yes)
 				)
 			)
-			(property "Supplier Part" "C189475"
+			(property "Supplier Part" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3222,7 +3222,7 @@
 					(hide yes)
 				)
 			)
-			(property "Supplier" "LCSC"
+			(property "Supplier" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3232,7 +3232,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part Name" "ATMEGA4809-AFR"
+			(property "LCSC Part Name" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3241,7 +3241,7 @@
 					(hide yes)
 				)
 			)
-			(property "JLCPCB Part Class" "ExtendedPart"
+			(property "JLCPCB Part Class" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -3260,10 +3260,114 @@
 					(hide yes)
 				)
 			)
+			(property "@Create Date" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "@Page Count" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "@Page Name" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "@Page No" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "@Project Name" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "@Schematic Name" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "@Update Date" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Company" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Drawed" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Page Size" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Part Number" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Reviewed" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Version" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
 			(symbol "ATMEGA4809-AFR_1_0"
 				(rectangle
-					(start -22.86 -17.78)
-					(end 20.32 17.78)
+					(start -22.86 17.78)
+					(end 20.32 -17.78)
 					(stroke
 						(width 0)
 						(type default)
@@ -3492,6 +3596,24 @@
 						)
 					)
 					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 20.32 270)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "49"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -11209,7 +11331,7 @@
 		(uuid "28bcadf8-276c-4a0f-b30c-cbcb6262314e")
 	)
 	(junction
-		(at 191.77 198.12)
+		(at 191.77 193.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2ad046f4-2855-4c7e-ae0d-8022b76ae96d")
@@ -11269,12 +11391,6 @@
 		(uuid "35e2efcc-fd6b-43a6-a79b-3e8ca1ada38c")
 	)
 	(junction
-		(at 210.82 203.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "36e476ab-4fe6-4f75-bc6f-70d089eb04c4")
-	)
-	(junction
 		(at 278.13 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11297,6 +11413,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "432a2535-370b-4918-b9f1-038c87307ef9")
+	)
+	(junction
+		(at 210.82 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44a56e98-949a-40b7-ad43-0565d34d86e9")
 	)
 	(junction
 		(at 347.98 45.72)
@@ -12144,7 +12266,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 200.66) (xy 208.28 200.66)
+			(xy 201.93 195.58) (xy 208.28 195.58)
 		)
 		(stroke
 			(width 0)
@@ -12584,7 +12706,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 198.12) (xy 191.77 186.69)
+			(xy 191.77 193.04) (xy 191.77 186.69)
 		)
 		(stroke
 			(width 0)
@@ -12654,7 +12776,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 198.12) (xy 201.93 200.66)
+			(xy 201.93 193.04) (xy 201.93 195.58)
 		)
 		(stroke
 			(width 0)
@@ -13984,6 +14106,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 207.01) (xy 203.2 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e43afba-a78e-4274-85da-007adc61103c")
+	)
+	(wire
+		(pts
 			(xy 316.23 35.56) (xy 316.23 38.1)
 		)
 		(stroke
@@ -14234,6 +14366,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 198.12) (xy 210.82 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94366454-2e0d-4582-899a-a9f550ba7c56")
+	)
+	(wire
+		(pts
 			(xy 118.11 78.74) (xy 137.16 78.74)
 		)
 		(stroke
@@ -14454,7 +14596,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 198.12) (xy 191.77 203.2)
+			(xy 191.77 193.04) (xy 191.77 198.12)
 		)
 		(stroke
 			(width 0)
@@ -14894,7 +15036,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 207.01) (xy 208.28 200.66)
+			(xy 208.28 207.01) (xy 208.28 195.58)
 		)
 		(stroke
 			(width 0)
@@ -15011,16 +15153,6 @@
 			(type default)
 		)
 		(uuid "c88bfe9f-9208-4eb5-9e1b-4ba12e2583c0")
-	)
-	(wire
-		(pts
-			(xy 210.82 203.2) (xy 210.82 200.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8b32399-0838-4035-a9a0-872c3785b558")
 	)
 	(wire
 		(pts
@@ -15194,16 +15326,6 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 207.01) (xy 210.82 203.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6398b42-3731-411c-8d77-65d6a1a86146")
-	)
-	(wire
-		(pts
 			(xy 382.27 447.04) (xy 375.92 447.04)
 		)
 		(stroke
@@ -15284,7 +15406,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 203.2) (xy 210.82 203.2)
+			(xy 201.93 198.12) (xy 210.82 198.12)
 		)
 		(stroke
 			(width 0)
@@ -15391,16 +15513,6 @@
 			(type default)
 		)
 		(uuid "e5f36405-93f7-4d07-aba1-cb8547e6a06f")
-	)
-	(wire
-		(pts
-			(xy 195.58 207.01) (xy 205.74 207.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e712d8f3-fffb-44ee-a3b4-dd36c7f722e8")
 	)
 	(wire
 		(pts
@@ -15674,6 +15786,16 @@
 	)
 	(wire
 		(pts
+			(xy 210.82 198.12) (xy 210.82 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f68b4af3-f13d-43c1-89a2-2b93dfd214f0")
+	)
+	(wire
+		(pts
 			(xy 269.24 50.8) (xy 266.7 50.8)
 		)
 		(stroke
@@ -15714,7 +15836,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 207.01) (xy 195.58 210.82)
+			(xy 205.74 207.01) (xy 205.74 201.93)
 		)
 		(stroke
 			(width 0)
@@ -27514,7 +27636,7 @@
 	)
 	(global_label "I2C_SCL"
 		(shape input)
-		(at 208.28 200.66 90)
+		(at 208.28 195.58 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27523,7 +27645,7 @@
 		)
 		(uuid "05dd8914-8242-4eae-a956-f5dca285b351")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 208.28 200.66 0)
+			(at 208.28 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28374,7 +28496,7 @@
 	)
 	(global_label "I2C_SDA"
 		(shape input)
-		(at 210.82 200.66 90)
+		(at 210.82 195.58 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28383,7 +28505,7 @@
 		)
 		(uuid "4ba3c5a9-9ead-42a9-86e8-68ca5592b03f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 210.82 200.66 0)
+			(at 210.82 195.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30154,7 +30276,7 @@
 	)
 	(global_label "MOSI"
 		(shape output)
-		(at 195.58 210.82 180)
+		(at 205.74 201.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30163,7 +30285,7 @@
 		)
 		(uuid "e203781d-7ba2-4952-b0e8-9a11fa5f3a87")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.58 210.82 0)
+			(at 205.74 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40631,7 +40753,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:TQFP-48_L7.0-W7.0-P0.50-LS9.0-BL"
+		(property "Footprint" "Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm"
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -40668,7 +40790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MICROCHIP(美国微芯)"
+		(property "Manufacturer" "MICROCHIP"
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -40678,7 +40800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C189475"
+		(property "Supplier Part" ""
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -40688,7 +40810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -40698,7 +40820,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "ATMEGA4809-AFR"
+		(property "LCSC Part Name" ""
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -40707,7 +40829,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part Class" "ExtendedPart"
+		(property "JLCPCB Part Class" ""
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -40973,6 +41095,9 @@
 		)
 		(pin "34"
 			(uuid "0681cbee-ba30-4ac9-aba9-7f60478e2541")
+		)
+		(pin "49"
+			(uuid "28701755-a129-4f7e-973c-ed6affe9138a")
 		)
 		(instances
 			(project ""
@@ -45655,6 +45780,71 @@
 		)
 	)
 	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
+		(at 199.39 207.01 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7eb2b723-e1d0-4685-b1b9-16147d119260")
+		(property "Reference" "#PWR0172"
+			(at 199.39 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 193.04 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "V1.4-Wifi-easyedapro:"
+			(at 199.39 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fe1d4732-c907-4a6b-b8d2-447bcee25d30")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "#PWR0172")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:CAP")
 		(at 121.92 247.65 0)
 		(unit 1)
@@ -45837,7 +46027,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 196.85 198.12 0)
+		(at 196.85 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -45845,7 +46035,7 @@
 		(dnp no)
 		(uuid "7f5d1514-56ce-4ff1-be4c-0a184edf8701")
 		(property "Reference" "R15"
-			(at 194.31 196.85 0)
+			(at 194.31 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45854,7 +46044,7 @@
 			)
 		)
 		(property "Value" "4K7 0805"
-			(at 185.42 198.12 0)
+			(at 185.42 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45863,7 +46053,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45872,7 +46062,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45881,7 +46071,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45890,7 +46080,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45898,7 +46088,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45906,7 +46096,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45914,7 +46104,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45922,7 +46112,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45930,7 +46120,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45938,7 +46128,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45946,7 +46136,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45954,7 +46144,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45962,7 +46152,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45970,7 +46160,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45978,7 +46168,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45986,7 +46176,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 196.85 198.12 0)
+			(at 196.85 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61021,7 +61211,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 196.85 203.2 0)
+		(at 196.85 198.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -61029,7 +61219,7 @@
 		(dnp no)
 		(uuid "faee1d70-c4c0-43f8-9c61-104f58371bd3")
 		(property "Reference" "R16"
-			(at 194.31 201.93 0)
+			(at 194.31 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61038,7 +61228,7 @@
 			)
 		)
 		(property "Value" "4K7 0805"
-			(at 185.42 203.2 0)
+			(at 185.42 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61047,7 +61237,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61056,7 +61246,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61065,7 +61255,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61074,7 +61264,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61082,7 +61272,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61090,7 +61280,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61098,7 +61288,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61106,7 +61296,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61114,7 +61304,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61122,7 +61312,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61130,7 +61320,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61138,7 +61328,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61146,7 +61336,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61154,7 +61344,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61162,7 +61352,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -61170,7 +61360,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 196.85 203.2 0)
+			(at 196.85 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
