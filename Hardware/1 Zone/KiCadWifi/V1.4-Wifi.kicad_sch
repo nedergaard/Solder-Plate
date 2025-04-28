@@ -30846,7 +30846,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 327.66 441.96 0)
 			(effects
 				(font
@@ -35071,7 +35071,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 429.26 295.91 0)
 			(effects
 				(font
@@ -42610,7 +42610,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1K 0603"
+		(property "Value" "1K 0805"
 			(at 330.2 425.45 0)
 			(effects
 				(font
@@ -42857,7 +42857,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2K 0805"
+		(property "Value" "2K"
 			(at 72.39 91.44 90)
 			(effects
 				(font
@@ -47881,7 +47881,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 414.02 444.5 0)
 			(effects
 				(font
@@ -49774,7 +49774,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 391.16 454.66 0)
 			(effects
 				(font
@@ -50403,7 +50403,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "1K 0603"
+		(property "Value" "1K 0805"
 			(at 285.75 29.21 0)
 			(effects
 				(font
@@ -53508,7 +53508,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 80.01 92.71 0)
 			(effects
 				(font
@@ -54646,7 +54646,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 448.31 123.19 0)
 			(effects
 				(font
@@ -58014,7 +58014,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 438.15 151.13 0)
 			(effects
 				(font
@@ -59465,7 +59465,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 414.02 452.12 0)
 			(effects
 				(font
@@ -60611,7 +60611,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 426.72 144.78 0)
 			(effects
 				(font
