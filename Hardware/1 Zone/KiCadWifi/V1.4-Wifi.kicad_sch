@@ -40277,7 +40277,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "U254-051T-4BH83-S1S"
+		(property "Value" "10118193-0001LF"
 			(at 351.79 195.6054 0)
 			(effects
 				(font
@@ -40286,7 +40286,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:MICRO-USB-SMD_U254-051T-4BH83-S1S"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal"
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40295,7 +40295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200303/C482359_94FADDBDAD8A1CD1662C83166295E6D9.pdf"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf"
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40304,7 +40304,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Connector Type:Micro-B Standard:USB 2.0 Gender:Female Number of Contacts:5 Number of Ports:1 Mounting Style:Surface Mount Current Rating - Power (Max):1.8A Contact Material:Copper Alloy Contact Plating:Gold Operating Temperature Range:-20°C~+85°C Operating"
+		(property "Description" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40313,7 +40313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "U254-051T-4BH83-S1S"
+		(property "Manufacturer Part" "10118193-0001LF"
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40322,7 +40322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XKBConnectivity(中国星坤)"
+		(property "Manufacturer" "Amphenol"
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40331,7 +40331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C319160"
+		(property "Supplier Part" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40340,7 +40340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40349,7 +40349,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "Micro-B母座卧贴"
+		(property "LCSC Part Name" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40358,7 +40358,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "10118193-0001LF"
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40839,7 +40839,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "ATMEGA4809-AFR"
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -47451,6 +47451,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 254 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ACS712ELCTR-20A-T"
 			(at 254 39.37 0)
 			(effects
 				(font
@@ -60281,7 +60289,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "U254-051T-4BH83-S1S"
+		(property "Value" "10118193-0001LF"
 			(at 332.74 511.81 0)
 			(effects
 				(font
@@ -60290,7 +60298,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:MICRO-USB-SMD_U254-051T-4BH83-S1S"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Amphenol_10118193-0001LF_Horizontal"
 			(at 340.36 501.65 0)
 			(effects
 				(font
@@ -60299,7 +60307,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200303/C482359_94FADDBDAD8A1CD1662C83166295E6D9.pdf"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_micro.pdf"
 			(at 340.36 501.65 0)
 			(effects
 				(font
@@ -60317,7 +60325,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "U254-051T-4BH83-S1S"
+		(property "Manufacturer Part" "10118193-0001LF"
 			(at 340.36 501.65 0)
 			(effects
 				(font
@@ -60326,7 +60334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "XKBConnectivity(中国星坤)"
+		(property "Manufacturer" "Amphenol"
 			(at 340.36 501.65 0)
 			(effects
 				(font
@@ -60459,6 +60467,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 340.36 501.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "10118193-0001LF"
 			(at 340.36 501.65 0)
 			(effects
 				(font
