@@ -31446,7 +31446,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 127 203.2 0)
 			(effects
 				(font
@@ -32885,7 +32885,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 57.15 228.6 0)
 			(effects
 				(font
@@ -34493,7 +34493,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 127 182.88 0)
 			(effects
 				(font
@@ -47104,7 +47104,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 374.65 303.53 0)
 			(effects
 				(font
@@ -47535,7 +47535,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 63.5 228.6 0)
 			(effects
 				(font
@@ -47708,7 +47708,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 82.55 228.6 0)
 			(effects
 				(font
@@ -48541,7 +48541,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 233.68 107.95 0)
 			(effects
 				(font
@@ -48770,7 +48770,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "100nF 0603"
+		(property "Value" "100nF 0805"
 			(at 336.55 462.28 90)
 			(effects
 				(font
@@ -50585,7 +50585,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 127 242.57 0)
 			(effects
 				(font
@@ -52541,7 +52541,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 261.62 72.39 0)
 			(effects
 				(font
@@ -53000,7 +53000,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 49.53 228.6 0)
 			(effects
 				(font
@@ -55611,7 +55611,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 219.71 72.39 0)
 			(effects
 				(font
@@ -55784,7 +55784,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 76.2 228.6 0)
 			(effects
 				(font
@@ -56257,7 +56257,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 201.93 157.48 0)
 			(effects
 				(font
@@ -58252,7 +58252,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 69.85 228.6 0)
 			(effects
 				(font
@@ -60849,7 +60849,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 127 220.98 0)
 			(effects
 				(font
@@ -61088,7 +61088,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:R0603"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 293.37 322.58 0)
 			(effects
 				(font
