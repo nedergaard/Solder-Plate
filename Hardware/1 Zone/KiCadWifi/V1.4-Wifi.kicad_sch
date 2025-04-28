@@ -46452,7 +46452,7 @@
 				(justify right top)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:BUZ-SMD_4P-L8.5-W8.5-P8.50-BR"
+		(property "Footprint" "Buzzer_Beeper:MagneticBuzzer_CUI_CMT-8504-100-SMT"
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46461,7 +46461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170522/1495448322339.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/1628/cmt_8504_100_smt_tr-3509255.pdf"
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46470,7 +46470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Oscillator Circuit:无源(外部驱动) Technology Type:电磁式 Rated Voltage:3.6V Operating Voltage:2.5V~4.5V Operating Voltage:2.5V~4.5V Frequency:2700Hz Sound Pressure Level (SPL):80dB@5V,10cm Length:8.5mm Width:8.5mm Height:3.3mm"
+		(property "Description" ""
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46479,7 +46479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "MLT-8530"
+		(property "Manufacturer Part" "CMT-8530S-SMT-TRCMT-8504-100-SMT-TR"
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46488,7 +46488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "华能"
+		(property "Manufacturer" "Same Sky"
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46497,7 +46497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier Part" "C94599"
+		(property "Supplier Part" ""
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46506,7 +46506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Supplier" "LCSC"
+		(property "Supplier" ""
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46515,7 +46515,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Name" "MLT-8530"
+		(property "LCSC Part Name" ""
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46626,6 +46626,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" ""
+			(at 345.44 283.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
