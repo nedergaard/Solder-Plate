@@ -31118,7 +31118,7 @@
 				)
 			)
 		)
-		(property "MPN" "22uF 0805"
+		(property "MPN" ""
 			(at 402.59 86.36 0)
 			(effects
 				(font
@@ -31364,7 +31364,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 266.7 30.48 0)
 			(effects
 				(font
@@ -31718,7 +31718,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 364.49 204.47 0)
 			(effects
 				(font
@@ -31899,7 +31899,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 121.92 226.06 0)
 			(effects
 				(font
@@ -32157,7 +32157,7 @@
 				)
 			)
 		)
-		(property "MPN" "MC34063ECD-TR"
+		(property "MPN" ""
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -32769,7 +32769,7 @@
 				)
 			)
 		)
-		(property "MPN" "B0520LW-7-F"
+		(property "MPN" ""
 			(at 309.88 209.55 0)
 			(effects
 				(font
@@ -33496,7 +33496,7 @@
 				)
 			)
 		)
-		(property "MPN" "B0520LW-7-F"
+		(property "MPN" ""
 			(at 350.52 302.26 0)
 			(effects
 				(font
@@ -34378,7 +34378,7 @@
 				)
 			)
 		)
-		(property "MPN" "B0520LW-7-F"
+		(property "MPN" ""
 			(at 491.49 30.48 0)
 			(effects
 				(font
@@ -34989,7 +34989,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 250.19 191.77 0)
 			(effects
 				(font
@@ -36716,7 +36716,7 @@
 				)
 			)
 		)
-		(property "MPN" "BC816-16VL"
+		(property "MPN" ""
 			(at 210.82 162.56 0)
 			(effects
 				(font
@@ -36959,7 +36959,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C150KRKT"
+		(property "MPN" ""
 			(at 231.14 314.96 0)
 			(effects
 				(font
@@ -37739,7 +37739,7 @@
 				)
 			)
 		)
-		(property "MPN" "B5819WSL-TP"
+		(property "MPN" ""
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -38158,7 +38158,7 @@
 				)
 			)
 		)
-		(property "MPN" "1812L050/30PR"
+		(property "MPN" ""
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -39321,7 +39321,7 @@
 				)
 			)
 		)
-		(property "MPN" "EEUFC1V681L"
+		(property "MPN" ""
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -39907,7 +39907,7 @@
 				)
 			)
 		)
-		(property "MPN" "PJA3404A_R1_00001"
+		(property "MPN" ""
 			(at 293.37 308.61 0)
 			(effects
 				(font
@@ -40358,7 +40358,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "10118193-0001LF"
+		(property "MPN" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40702,7 +40702,7 @@
 				)
 			)
 		)
-		(property "MPN" "T491B107M010AT"
+		(property "MPN" ""
 			(at 386.08 127 0)
 			(effects
 				(font
@@ -40839,7 +40839,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "ATMEGA4809-AFR"
+		(property "MPN" ""
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -41521,7 +41521,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 387.35 191.77 0)
 			(effects
 				(font
@@ -42082,7 +42082,7 @@
 				)
 			)
 		)
-		(property "MPN" "SK34SMA-3G "
+		(property "MPN" ""
 			(at 405.13 128.27 0)
 			(effects
 				(font
@@ -42439,7 +42439,7 @@
 				)
 			)
 		)
-		(property "MPN" "B0520LW-7-F"
+		(property "MPN" ""
 			(at 494.03 43.18 0)
 			(effects
 				(font
@@ -43296,7 +43296,7 @@
 				)
 			)
 		)
-		(property "MPN" "EEUFC1V681L"
+		(property "MPN" ""
 			(at 303.53 90.17 0)
 			(effects
 				(font
@@ -43832,7 +43832,7 @@
 				)
 			)
 		)
-		(property "MPN" "1nF 0805"
+		(property "MPN" ""
 			(at 273.05 45.72 0)
 			(effects
 				(font
@@ -44580,7 +44580,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C150KGKT"
+		(property "MPN" ""
 			(at 246.38 314.96 0)
 			(effects
 				(font
@@ -44902,7 +44902,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 441.96 205.74 0)
 			(effects
 				(font
@@ -45083,7 +45083,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 372.11 502.92 0)
 			(effects
 				(font
@@ -45354,7 +45354,7 @@
 				)
 			)
 		)
-		(property "MPN" "MSS1048-104MLC"
+		(property "MPN" ""
 			(at 393.7 123.19 0)
 			(effects
 				(font
@@ -45970,7 +45970,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 121.92 247.65 0)
 			(effects
 				(font
@@ -46369,7 +46369,7 @@
 				)
 			)
 		)
-		(property "MPN" "EEUFC1V681L"
+		(property "MPN" ""
 			(at 290.83 90.17 0)
 			(effects
 				(font
@@ -47022,7 +47022,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 121.92 208.28 0)
 			(effects
 				(font
@@ -47314,7 +47314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "ALLEGRO(美国埃戈罗)"
+		(property "Manufacturer" "ALLEGRO"
 			(at 254 39.37 0)
 			(effects
 				(font
@@ -47467,7 +47467,7 @@
 				)
 			)
 		)
-		(property "MPN" "ACS712ELCTR-20A-T"
+		(property "MPN" ""
 			(at 254 39.37 0)
 			(effects
 				(font
@@ -48198,7 +48198,7 @@
 				)
 			)
 		)
-		(property "MPN" "EEUFC1V681L"
+		(property "MPN" ""
 			(at 278.13 90.17 0)
 			(effects
 				(font
@@ -48878,7 +48878,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 332.74 459.74 0)
 			(effects
 				(font
@@ -49202,7 +49202,7 @@
 				)
 			)
 		)
-		(property "MPN" "LD1117S33CTR"
+		(property "MPN" ""
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -49500,7 +49500,7 @@
 				)
 			)
 		)
-		(property "MPN" "LM4040DIM3-2.5+T"
+		(property "MPN" ""
 			(at 435.61 318.77 0)
 			(effects
 				(font
@@ -50934,7 +50934,7 @@
 				)
 			)
 		)
-		(property "MPN" "PJA3404A_R1_00001"
+		(property "MPN" ""
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -51164,7 +51164,7 @@
 				)
 			)
 		)
-		(property "MPN" "T491B107M010AT"
+		(property "MPN" ""
 			(at 444.5 82.55 0)
 			(effects
 				(font
@@ -51600,7 +51600,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 275.59 191.77 0)
 			(effects
 				(font
@@ -51849,7 +51849,7 @@
 				)
 			)
 		)
-		(property "MPN" "B5819WSL-TP"
+		(property "MPN" ""
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -52084,7 +52084,7 @@
 				)
 			)
 		)
-		(property "MPN" "LDI1117-05H"
+		(property "MPN" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -52491,7 +52491,7 @@
 				)
 			)
 		)
-		(property "MPN" "T491B107M010AT"
+		(property "MPN" ""
 			(at 351.79 204.47 0)
 			(effects
 				(font
@@ -53303,7 +53303,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C171KGKT"
+		(property "MPN" ""
 			(at 293.37 30.48 0)
 			(effects
 				(font
@@ -54020,7 +54020,7 @@
 				)
 			)
 		)
-		(property "MPN" "220pF 0805"
+		(property "MPN" ""
 			(at 415.29 130.81 0)
 			(effects
 				(font
@@ -54995,7 +54995,7 @@
 				)
 			)
 		)
-		(property "MPN" "B0520LW-7-F"
+		(property "MPN" ""
 			(at 311.15 293.37 0)
 			(effects
 				(font
@@ -55144,7 +55144,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 443.23 177.8 0)
 			(effects
 				(font
@@ -56606,7 +56606,7 @@
 				)
 			)
 		)
-		(property "MPN" "IPD90N04S403ATMA1"
+		(property "MPN" ""
 			(at 224.79 156.21 0)
 			(effects
 				(font
@@ -56758,7 +56758,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 262.89 191.77 0)
 			(effects
 				(font
@@ -57134,7 +57134,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 121.92 187.96 0)
 			(effects
 				(font
@@ -57699,7 +57699,7 @@
 				)
 			)
 		)
-		(property "MPN" "DMPH4015SSSQ-13"
+		(property "MPN" ""
 			(at 240.03 87.63 0)
 			(effects
 				(font
@@ -57867,7 +57867,7 @@
 				)
 			)
 		)
-		(property "MPN" "10uF 0805"
+		(property "MPN" ""
 			(at 219.71 93.98 0)
 			(effects
 				(font
@@ -58601,7 +58601,7 @@
 				)
 			)
 		)
-		(property "MPN" "CH340C"
+		(property "MPN" ""
 			(at 407.67 502.92 0)
 			(effects
 				(font
@@ -58857,7 +58857,7 @@
 				)
 			)
 		)
-		(property "MPN" "100nF 0805"
+		(property "MPN" ""
 			(at 427.99 488.95 0)
 			(effects
 				(font
@@ -59194,7 +59194,7 @@
 				)
 			)
 		)
-		(property "MPN" "LTST-C150YKT"
+		(property "MPN" ""
 			(at 215.9 314.96 0)
 			(effects
 				(font
@@ -59814,7 +59814,7 @@
 				)
 			)
 		)
-		(property "MPN" "CH340C"
+		(property "MPN" ""
 			(at 422.91 191.77 0)
 			(effects
 				(font
@@ -60116,7 +60116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG(三星)"
+		(property "Manufacturer" "SAMSUNG"
 			(at 441.96 25.4 0)
 			(effects
 				(font
@@ -60256,7 +60256,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL31A107MQHNNNE"
+		(property "MPN" ""
 			(at 441.96 25.4 0)
 			(effects
 				(font
@@ -60483,7 +60483,7 @@
 				)
 			)
 		)
-		(property "MPN" "10118193-0001LF"
+		(property "MPN" ""
 			(at 340.36 501.65 0)
 			(effects
 				(font
