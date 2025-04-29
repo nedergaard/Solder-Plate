@@ -31008,7 +31008,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "22uF 0805"
+		(property "Value" "22uF 1206"
 			(at 406.4 88.9 90)
 			(effects
 				(font
@@ -31017,7 +31017,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:C0805"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 402.59 86.36 0)
 			(effects
 				(font
