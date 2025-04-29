@@ -30667,16 +30667,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "PM254V-11-03-H85"
-			(at 194.31 279.4 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 194.31 279.4 0)
 			(effects
@@ -30794,6 +30784,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 194.31 279.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "PM254V-11-03-H85"
 			(at 194.31 279.4 0)
 			(effects
 				(font
@@ -31118,14 +31116,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 402.59 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 402.59 86.36 0)
 			(effects
@@ -31357,14 +31347,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 266.7 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 266.7 30.48 0)
 			(effects
 				(font
@@ -31718,14 +31700,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 364.49 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 364.49 204.47 0)
 			(effects
@@ -31899,14 +31873,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 121.92 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 121.92 226.06 0)
 			(effects
@@ -32000,15 +31966,6 @@
 			)
 		)
 		(property "Description" "Function:Buck-boost type Synchronous Rectification:NO Number of Outputs:1 Topology:Boost；Step-down Input Voltage:3V~40V Input Voltage:3V~40V Output Voltage:1.25V~38V Output Voltage:1.25V~38V Output Current (Max):1.5A Switching Frequency:100kHz"
-			(at 433.07 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "MC34063ECD-TR"
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -32157,7 +32114,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "MC34063ECD-TR"
 			(at 433.07 124.46 0)
 			(effects
 				(font
@@ -32620,15 +32577,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 309.88 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 309.88 209.55 0)
 			(effects
@@ -32769,7 +32717,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 309.88 209.55 0)
 			(effects
 				(font
@@ -33085,16 +33033,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "A2541HWR-2x6P"
-			(at 355.6 41.91 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "CJT(长江连接器)"
 			(at 355.6 41.91 0)
 			(effects
@@ -33248,6 +33186,14 @@
 				)
 			)
 		)
+		(property "mpn" "A2541HWR-2x6P"
+			(at 355.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "d73ef4c2-6b19-427b-a32f-cf43ca996c48")
 		)
@@ -33339,15 +33285,6 @@
 			)
 		)
 		(property "Description" "Reverse Voltage (Vr):20V Average Rectified Current (Io):500mA Forward Voltage (Vf@If):450mV@500mA"
-			(at 350.52 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "B0520LW-7-F"
 			(at 350.52 302.26 0)
 			(effects
 				(font
@@ -33496,7 +33433,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 350.52 302.26 0)
 			(effects
 				(font
@@ -33565,15 +33502,6 @@
 			)
 		)
 		(property "Description" "Contact Current:50mA Voltage Rating (DC):12V Insulation Resistance:100MΩ Circuit:SPST Mounting Style:Straight Actuator Style:Round Button With Lamp:- Operating Force:180gf@±30gf Mechanical Life:100000 Operating Temperature:-25°C~+85°C Operating Temperature:"
-			(at 139.7 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
 			(at 139.7 226.06 0)
 			(effects
 				(font
@@ -33715,6 +33643,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 139.7 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
 			(at 139.7 226.06 0)
 			(effects
 				(font
@@ -33881,16 +33817,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B-2200S07P-A120"
-			(at 114.3 289.56 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 114.3 289.56 0)
 			(effects
@@ -34008,6 +33934,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 114.3 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "B-2200S07P-A120"
 			(at 114.3 289.56 0)
 			(effects
 				(font
@@ -34229,15 +34163,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 491.49 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 491.49 30.48 0)
 			(effects
@@ -34378,7 +34303,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 491.49 30.48 0)
 			(effects
 				(font
@@ -34693,15 +34618,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 139.7 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 139.7 205.74 0)
 			(effects
@@ -34835,6 +34751,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 139.7 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
 			(at 139.7 205.74 0)
 			(effects
 				(font
@@ -34982,14 +34906,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 250.19 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 250.19 191.77 0)
 			(effects
 				(font
@@ -35575,15 +35491,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" ""
-			(at 142.24 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 142.24 91.44 0)
 			(effects
@@ -35724,15 +35631,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 142.24 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "2"
 			(uuid "4160d527-5cc2-49bb-a931-82086538bde7")
 		)
@@ -35829,16 +35727,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "A2541HWR-2x6P"
-			(at 355.6 16.51 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -35995,6 +35883,14 @@
 				)
 			)
 		)
+		(property "mpn" "A2541HWR-2x6P"
+			(at 355.6 16.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "12"
 			(uuid "125bfef6-41a9-423d-8eea-9859ebbc4ce0")
 		)
@@ -36086,15 +35982,6 @@
 			)
 		)
 		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
 			(at 80.01 99.06 0)
 			(effects
 				(font
@@ -36236,6 +36123,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 80.01 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
 			(at 80.01 99.06 0)
 			(effects
 				(font
@@ -36553,16 +36448,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "BC816-16VL"
-			(at 210.82 162.56 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Nexperia"
 			(at 210.82 162.56 0)
 			(effects
@@ -36716,7 +36601,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "BC816-16VL"
 			(at 210.82 162.56 0)
 			(effects
 				(font
@@ -36793,16 +36678,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "LTST-C150KRKT"
-			(at 231.14 314.96 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
 				(hide yes)
 			)
 		)
@@ -36959,7 +36834,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LTST-C150KRKT"
 			(at 231.14 314.96 0)
 			(effects
 				(font
@@ -37037,16 +36912,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "A2541HWR-2x4P"
-			(at 44.45 100.33 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "CJT(长江连接器)"
 			(at 44.45 100.33 90)
 			(effects
@@ -37093,15 +36958,6 @@
 					(size 0.8382 0.8382)
 				)
 				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 44.45 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -37202,6 +37058,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 44.45 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "A2541HWR-2x4P"
 			(at 44.45 100.33 0)
 			(effects
 				(font
@@ -37599,15 +37463,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B5819WSL-TP"
-			(at 226.06 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Supplier Part" "C179553"
 			(at 226.06 142.24 0)
 			(effects
@@ -37739,7 +37594,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "Manufacturer" "MCC"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -37747,7 +37602,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "MCC"
+		(property "mpn" "B5819WSL-TP"
 			(at 226.06 142.24 0)
 			(effects
 				(font
@@ -37997,16 +37852,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "1812L050/30PR"
-			(at 205.74 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Littelfuse"
 			(at 205.74 82.55 0)
 			(effects
@@ -38158,7 +38003,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "1812L050/30PR"
 			(at 205.74 82.55 0)
 			(effects
 				(font
@@ -38538,15 +38383,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 139.7 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 139.7 245.11 0)
 			(effects
@@ -38680,6 +38516,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 139.7 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
 			(at 139.7 245.11 0)
 			(effects
 				(font
@@ -39204,15 +39048,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 265.43 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 265.43 90.17 0)
 			(effects
@@ -39321,15 +39156,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 265.43 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Page Size" ""
 			(at 265.43 90.17 0)
 			(effects
@@ -39355,6 +39181,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 265.43 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -39744,16 +39578,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "PJA3404A_R1_00001"
-			(at 293.37 308.61 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panjit"
 			(at 293.37 308.61 90)
 			(effects
@@ -39907,7 +39731,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "PJA3404A_R1_00001"
 			(at 293.37 308.61 0)
 			(effects
 				(font
@@ -40313,15 +40137,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "10118193-0001LF"
-			(at 359.41 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Amphenol"
 			(at 359.41 185.42 0)
 			(effects
@@ -40350,15 +40165,6 @@
 			)
 		)
 		(property "LCSC Part Name" ""
-			(at 359.41 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
 			(at 359.41 185.42 0)
 			(effects
 				(font
@@ -40471,6 +40277,14 @@
 				)
 			)
 		)
+		(property "mpn" "10118193-0001LF"
+			(at 359.41 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "279ff484-e1bf-4314-8a8e-cf0571de5249")
 		)
@@ -40544,15 +40358,6 @@
 			)
 		)
 		(property "Description" "Capacitance: Tolerance:±20% Tolerance:±20% Rated Voltage: Equivalent Series Resistance(ESR):1Ω@100kHz Operating Temperature:-55°C~+125°C Operating Temperature:-55°C~+125°C"
-			(at 386.08 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "T491B107M010AT"
 			(at 386.08 127 0)
 			(effects
 				(font
@@ -40702,13 +40507,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "T491B107M010AT"
 			(at 386.08 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -40780,16 +40584,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "ATMEGA4809-AFR"
-			(at 220.98 227.33 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "MICROCHIP"
 			(at 220.98 227.33 0)
 			(effects
@@ -40836,15 +40630,6 @@
 					(size 0.8382 0.8382)
 				)
 				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 220.98 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -40945,6 +40730,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 220.98 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "ATMEGA4809-AFR"
 			(at 220.98 227.33 0)
 			(effects
 				(font
@@ -41162,15 +40955,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "WT8266-S5ESP-12F"
-			(at 364.49 448.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 364.49 448.31 0)
 			(effects
@@ -41311,13 +41095,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "WT8266-S5ESP-12F"
 			(at 364.49 448.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "18"
@@ -41514,14 +41297,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 387.35 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 387.35 191.77 0)
 			(effects
 				(font
@@ -41933,15 +41708,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "SK34SMA-3G"
-			(at 405.13 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Diotec Semiconductor"
 			(at 405.13 128.27 0)
 			(effects
@@ -42082,13 +41848,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "SK34SMA-3G"
 			(at 405.13 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -42290,15 +42055,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 494.03 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 494.03 43.18 0)
 			(effects
@@ -42439,7 +42195,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 494.03 43.18 0)
 			(effects
 				(font
@@ -42893,15 +42649,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 80.01 86.36 0)
 			(effects
@@ -43035,6 +42782,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 80.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
 			(at 80.01 86.36 0)
 			(effects
 				(font
@@ -43179,15 +42934,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 303.53 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 303.53 90.17 0)
 			(effects
@@ -43296,15 +43042,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 303.53 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Page Size" ""
 			(at 303.53 90.17 0)
 			(effects
@@ -43330,6 +43067,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 303.53 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
 			(at 303.53 90.17 0)
 			(effects
 				(font
@@ -43471,15 +43216,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 139.7 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 139.7 186.69 0)
 			(effects
@@ -43613,6 +43349,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 139.7 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
 			(at 139.7 186.69 0)
 			(effects
 				(font
@@ -43825,14 +43569,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 273.05 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 273.05 45.72 0)
 			(effects
 				(font
@@ -44417,16 +44153,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C150KGKT"
-			(at 246.38 314.96 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 246.38 314.96 90)
 			(effects
@@ -44580,7 +44306,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LTST-C150KGKT"
 			(at 246.38 314.96 0)
 			(effects
 				(font
@@ -44902,14 +44628,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 441.96 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 441.96 205.74 0)
 			(effects
@@ -45083,14 +44801,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 372.11 502.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 372.11 502.92 0)
 			(effects
@@ -45189,16 +44899,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "MSS1048-104MLC"
-			(at 393.7 123.19 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -45354,13 +45054,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "MSS1048-104MLC"
 			(at 393.7 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -45442,16 +45141,6 @@
 			)
 		)
 		(property "Manufacturer" "BOOMELE(博穆精密)"
-			(at 307.34 142.24 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "2.54-1*4P母"
 			(at 307.34 142.24 0)
 			(effects
 				(font
@@ -45578,6 +45267,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 307.34 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "2.54-1*4P母"
 			(at 307.34 142.24 0)
 			(effects
 				(font
@@ -45970,14 +45667,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 121.92 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 121.92 247.65 0)
 			(effects
@@ -46252,15 +45941,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 290.83 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 290.83 90.17 0)
 			(effects
@@ -46369,15 +46049,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 290.83 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Page Size" ""
 			(at 290.83 90.17 0)
 			(effects
@@ -46403,6 +46074,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 290.83 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
 			(at 290.83 90.17 0)
 			(effects
 				(font
@@ -46471,15 +46150,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 345.44 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "CMT-8530S-SMT-TRCMT-8504-100-SMT-TR"
 			(at 345.44 283.21 0)
 			(effects
 				(font
@@ -46628,13 +46298,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CMT-8530S-SMT-TRCMT-8504-100-SMT-TR"
 			(at 345.44 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -47022,14 +46691,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 121.92 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 121.92 208.28 0)
 			(effects
@@ -47304,16 +46965,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "ACS712ELCTR-20A-T"
-			(at 254 39.37 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "ALLEGRO"
 			(at 254 39.37 0)
 			(effects
@@ -47467,7 +47118,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "ACS712ELCTR-20A-T"
 			(at 254 39.37 0)
 			(effects
 				(font
@@ -48081,15 +47732,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 278.13 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 278.13 90.17 0)
 			(effects
@@ -48198,15 +47840,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 278.13 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Page Size" ""
 			(at 278.13 90.17 0)
 			(effects
@@ -48232,6 +47865,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 278.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
 			(at 278.13 90.17 0)
 			(effects
 				(font
@@ -48878,14 +48519,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 332.74 459.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 332.74 459.74 0)
 			(effects
@@ -49052,15 +48685,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" ""
-			(at 435.61 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 435.61 40.64 0)
 			(effects
@@ -49202,15 +48826,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 435.61 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "1bc4f8e3-893f-4826-8a38-0cffae413ca2")
 		)
@@ -49343,15 +48958,6 @@
 			)
 		)
 		(property "Description" "Reference Type:parallel connection Output Type:Fixed Input Voltage:- Input Voltage:- Output Current:15mA Tolerance:±1% Tolerance:±1% Temperature Coefficient:150ppm/°C Supply Current:- Noise - 1/10Hz to 10Hz:- Noise - 10Hz to 10kHz:35uVrms Operating Tempera"
-			(at 435.61 318.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "LM4040DIM3-2.5+T"
 			(at 435.61 318.77 0)
 			(effects
 				(font
@@ -49500,7 +49106,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LM4040DIM3-2.5+T"
 			(at 435.61 318.77 0)
 			(effects
 				(font
@@ -49572,15 +49178,6 @@
 			)
 		)
 		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
 			(at 80.01 127 0)
 			(effects
 				(font
@@ -49722,6 +49319,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 80.01 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
 			(at 80.01 127 0)
 			(effects
 				(font
@@ -50147,15 +49752,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" ""
-			(at 283.21 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 283.21 294.64 0)
 			(effects
@@ -50294,15 +49890,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "MPN" ""
-			(at 283.21 294.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -50785,15 +50372,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "PJA3404A_R1_00001"
-			(at 368.3 290.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Panjit"
 			(at 368.3 290.83 0)
 			(effects
@@ -50934,7 +50512,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "PJA3404A_R1_00001"
 			(at 368.3 290.83 0)
 			(effects
 				(font
@@ -51006,15 +50584,6 @@
 			)
 		)
 		(property "Description" "Capacitance: Tolerance:±20% Tolerance:±20% Rated Voltage: Equivalent Series Resistance(ESR):1Ω@100kHz Operating Temperature:-55°C~+125°C Operating Temperature:-55°C~+125°C"
-			(at 444.5 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "T491B107M010AT"
 			(at 444.5 82.55 0)
 			(effects
 				(font
@@ -51164,7 +50733,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "T491B107M010AT"
 			(at 444.5 82.55 0)
 			(effects
 				(font
@@ -51298,15 +50867,6 @@
 			)
 		)
 		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
 			(at 80.01 111.76 0)
 			(effects
 				(font
@@ -51449,6 +51009,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
 			(at 80.01 111.76 0)
 			(effects
 				(font
@@ -51600,14 +51168,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 275.59 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 275.59 191.77 0)
 			(effects
@@ -51701,15 +51261,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 320.04 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "B5819WSL-TP"
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -51849,16 +51400,15 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "Manufacturer" "MCC"
 			(at 320.04 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MCC"
+		(property "mpn" "B5819WSL-TP"
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -51927,15 +51477,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 421.64 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" ""
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -52082,15 +51623,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "MPN" ""
-			(at 421.64 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "4"
@@ -52341,15 +51873,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "T491B107M010AT"
-			(at 351.79 204.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "KEMET"
 			(at 351.79 204.47 0)
 			(effects
@@ -52491,7 +52014,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "T491B107M010AT"
 			(at 351.79 204.47 0)
 			(effects
 				(font
@@ -52741,15 +52264,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 80.01 140.97 0)
 			(effects
@@ -52883,6 +52397,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 80.01 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
 			(at 80.01 140.97 0)
 			(effects
 				(font
@@ -53303,14 +52825,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 293.37 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 293.37 30.48 0)
 			(effects
@@ -53319,7 +52833,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C171KGKT"
+		(property "mpn" "LTST-C171KGKT"
 			(at 293.37 30.48 0)
 			(effects
 				(font
@@ -54020,15 +53534,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 415.29 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Page Size" ""
 			(at 415.29 130.81 0)
 			(effects
@@ -54127,16 +53632,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "UMH3NTN"
-			(at 461.01 435.61 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
 				(hide yes)
 			)
 		)
@@ -54293,6 +53788,14 @@
 				)
 			)
 		)
+		(property "mpn" "UMH3NTN"
+			(at 461.01 435.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "6"
 			(uuid "67faaf27-82b3-443f-93cc-210ec97ecdce")
 		)
@@ -54374,16 +53877,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "POWER-JACK"
-			(at 185.42 85.09 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Supplier Part" "C9900001795"
 			(at 185.42 85.09 0)
 			(effects
@@ -54420,15 +53913,6 @@
 					(size 0.8382 0.8382)
 				)
 				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 185.42 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -54529,6 +54013,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 185.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "POWER-JACK"
 			(at 185.42 85.09 0)
 			(effects
 				(font
@@ -54846,15 +54338,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 311.15 293.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 311.15 293.37 0)
 			(effects
@@ -54995,7 +54478,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 311.15 293.37 0)
 			(effects
 				(font
@@ -55137,14 +54620,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 443.23 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 443.23 177.8 0)
 			(effects
 				(font
@@ -56004,16 +55479,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "PM254V-11-03-H85"
-			(at 345.44 142.24 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 345.44 142.24 0)
 			(effects
@@ -56031,15 +55496,6 @@
 					(size 0.8382 0.8382)
 				)
 				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MPN" ""
-			(at 345.44 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -56140,6 +55596,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 345.44 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "PM254V-11-03-H85"
 			(at 345.44 142.24 0)
 			(effects
 				(font
@@ -56457,15 +55921,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "IPD90N04S403ATMA1"
-			(at 224.79 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Infineon"
 			(at 224.79 156.21 0)
 			(effects
@@ -56606,7 +56061,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "IPD90N04S403ATMA1"
 			(at 224.79 156.21 0)
 			(effects
 				(font
@@ -56751,14 +56206,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 262.89 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 262.89 191.77 0)
 			(effects
 				(font
@@ -57127,14 +56574,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 121.92 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 121.92 187.96 0)
 			(effects
 				(font
@@ -57546,16 +56985,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" ""
-			(at 240.03 87.63 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 240.03 87.63 90)
 			(effects
@@ -57697,15 +57126,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "MPN" ""
-			(at 240.03 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
 			)
 		)
 		(pin "6"
@@ -57860,14 +57280,6 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 219.71 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MPN" ""
 			(at 219.71 93.98 0)
 			(effects
 				(font
@@ -58452,15 +57864,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "CH340C"
-			(at 407.67 502.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "WCH(南京沁恒)"
 			(at 407.67 502.92 0)
 			(effects
@@ -58601,7 +58004,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CH340C"
 			(at 407.67 502.92 0)
 			(effects
 				(font
@@ -58857,14 +58260,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 427.99 488.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 427.99 488.95 0)
 			(effects
@@ -59031,16 +58426,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C150YKT"
-			(at 215.9 314.96 90)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 215.9 314.96 90)
 			(effects
@@ -59194,7 +58579,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LTST-C150YKT"
 			(at 215.9 314.96 0)
 			(effects
 				(font
@@ -59263,15 +58648,6 @@
 			)
 		)
 		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
 			(at 80.01 72.39 0)
 			(effects
 				(font
@@ -59413,6 +58789,14 @@
 			)
 		)
 		(property "Version" ""
+			(at 80.01 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
 			(at 80.01 72.39 0)
 			(effects
 				(font
@@ -59665,15 +59049,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "CH340C"
-			(at 422.91 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "WCH(南京沁恒)"
 			(at 422.91 191.77 0)
 			(effects
@@ -59814,13 +59189,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CH340C"
 			(at 422.91 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -60107,15 +59481,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part" "CL31A107MQHNNNE"
-			(at 441.96 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Manufacturer" "SAMSUNG"
 			(at 441.96 25.4 0)
 			(effects
@@ -60256,13 +59621,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CL31A107MQHNNNE"
 			(at 441.96 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -60326,15 +59690,6 @@
 			)
 		)
 		(property "Description" "Connector Type:Micro-B Standard:USB 2.0 Gender:Female Number of Contacts:5 Number of Ports:1 Mounting Style:Surface Mount Current Rating - Power (Max):1.8A Contact Material:Copper Alloy Contact Plating:Gold Operating Temperature Range:-20°C~+85°C Operating"
-			(at 340.36 501.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "10118193-0001LF"
 			(at 340.36 501.65 0)
 			(effects
 				(font
@@ -60483,7 +59838,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "10118193-0001LF"
 			(at 340.36 501.65 0)
 			(effects
 				(font
