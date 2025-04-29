@@ -36663,7 +36663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://eu.mouser.com/ProductDetail/LITEON/LTST-C150KRKT"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/239/Lite_On_LTST_C150KRKT-1175298.pdf"
 			(at 231.14 314.96 0)
 			(effects
 				(font
@@ -44135,7 +44135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/239/LTST_C150KGKT-1143771.pdf"
 			(at 246.38 314.96 0)
 			(effects
 				(font
@@ -49543,7 +49543,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "1K 0805"
+		(property "Value" "150 0805"
 			(at 218.44 307.34 90)
 			(effects
 				(font
@@ -49990,7 +49990,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "1K 0805"
+		(property "Value" "750 0805"
 			(at 285.75 29.21 0)
 			(effects
 				(font
@@ -52703,7 +52703,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/239/LTST_C150KGKT-1143771.pdf"
 			(at 293.37 30.48 0)
 			(effects
 				(font
@@ -58408,7 +58408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/239/LITE_ON_12_07_2017_LTST_C150YKT-1275311.pdf"
 			(at 215.9 314.96 0)
 			(effects
 				(font
@@ -59272,7 +59272,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "1K 0805"
+		(property "Value" "750 0805"
 			(at 248.92 307.34 90)
 			(effects
 				(font
