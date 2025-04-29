@@ -678,8 +678,8 @@
         },
         {
           "group_by": false,
-          "label": "Manufacturer Part",
-          "name": "Manufacturer Part",
+          "label": "mpn",
+          "name": "mpn",
           "show": true
         },
         {
@@ -720,12 +720,6 @@
         },
         {
           "group_by": false,
-          "label": "MPN",
-          "name": "MPN",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "@Create Date",
           "name": "@Create Date",
           "show": false
@@ -741,6 +735,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -748,7 +748,7 @@
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "MPN"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

@@ -48685,7 +48685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicro"
 			(at 435.61 40.64 0)
 			(effects
 				(font
@@ -51485,7 +51485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Diotec Semiconductor"
 			(at 421.64 78.74 0)
 			(effects
 				(font
@@ -53013,7 +53013,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10K 0805"
+		(property "Value" "2K 0805"
 			(at 74.93 96.52 0)
 			(effects
 				(font
@@ -54129,7 +54129,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ".33R 0805"
+		(property "Value" "0.33 0805"
 			(at 445.77 127 0)
 			(effects
 				(font

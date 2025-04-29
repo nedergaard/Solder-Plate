@@ -1938,19 +1938,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B-2200S07P-A120"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2878f873-64b7-44be-af05-bb3b5e03a894")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 0 0 90)
 			(unlocked yes)
@@ -2139,6 +2126,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae2198e7-abcb-4be7-a03d-adffadbad0c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "B-2200S07P-A120"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "275606cc-7a7e-4fcb-ac9b-ce9dde4ce840")
 			(effects
 				(font
 					(size 1 1)
@@ -3221,19 +3221,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "PM254V-11-03-H85"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a3a41124-0a77-4710-b31f-eceb182c7ce9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 0 0 270)
 			(unlocked yes)
@@ -3253,19 +3240,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d3912a4-5ada-4a9b-b740-f8aefdba32e9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "479bef6f-fae4-4985-a90a-c7243db54946")
 			(effects
 				(font
 					(size 1 1)
@@ -3435,6 +3409,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c707a143-5a69-41f5-a4af-991208c30306")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "PM254V-11-03-H85"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21b9e6de-28d2-4686-ac3e-3eeff9f99d0f")
 			(effects
 				(font
 					(size 1 1)
@@ -4526,19 +4513,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "T491B107M010AT"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8129d112-f404-427d-9c1d-8a8e179d250c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "KEMET"
 			(at 0 0 180)
 			(unlocked yes)
@@ -4760,12 +4734,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "T491B107M010AT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3951e72b-8fea-4f7b-a145-92d3033d15d8")
+			(uuid "1559551f-c461-4275-9462-07471a3f68bf")
 			(effects
 				(font
 					(size 1 1)
@@ -5072,19 +5046,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5babff41-d3fd-45b7-bee8-7794abb57ece")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 0 0 90)
 			(unlocked yes)
@@ -5254,19 +5215,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c88ebfd4-9e61-4161-8f6a-3bbb52d4806c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 0 0 90)
 			(unlocked yes)
@@ -5312,6 +5260,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "029757ab-87c4-40d6-a4b6-81344aa180da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a22aa66-d363-456c-858d-2065b699cd48")
 			(effects
 				(font
 					(size 1 1)
@@ -7763,19 +7724,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C150KGKT"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "71683c53-f2f8-409d-8e2b-a3891906d53f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 0 0 270)
 			(unlocked yes)
@@ -8010,12 +7958,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LTST-C150KGKT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "59d67b65-65b8-496c-991a-79774ff06464")
+			(uuid "4e5c316c-6643-4de4-9493-b7673340d94b")
 			(effects
 				(font
 					(size 1 1)
@@ -8330,19 +8278,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C150YKT"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f1288e62-0d23-49f8-a5f0-6bba136aab6b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 0 0 270)
 			(unlocked yes)
@@ -8577,12 +8512,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LTST-C150YKT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "938a58a7-c703-4a3f-8a19-d7b0694e4fa4")
+			(uuid "df464ceb-999e-45b5-96a6-b01d664647b9")
 			(effects
 				(font
 					(size 1 1)
@@ -9066,19 +9001,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "38cc6898-d8ae-470b-a355-6ccfdad35548")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 0 0 270)
 			(unlocked yes)
@@ -9092,12 +9014,12 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C171KGKT"
+		(property "mpn" "LTST-C171KGKT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "48c19f85-fc49-4436-88d0-7d22ddb1ee82")
+			(uuid "f3a6dfe7-7732-4607-af8e-44900f549f0a")
 			(effects
 				(font
 					(size 1 1)
@@ -9402,19 +9324,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "A2541HWR-2x6P"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4288fcaa-cde2-4d25-9002-073ee7ed8c1a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "CJT(长江连接器)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -9642,6 +9551,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3d5d2643-d39c-47d1-b60e-5954ee99ff4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "A2541HWR-2x6P"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18fabb3b-b589-449b-bfe9-d198fd0661b3")
 			(effects
 				(font
 					(size 1 1)
@@ -10214,19 +10136,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6d01edc5-90fa-4053-9c10-8e894895c3c1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -10441,6 +10350,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6105e367-adc2-43bf-922d-6cf7f1c94da6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fccb45b7-b6d0-4c39-ac85-3ff57839af3a")
 			(effects
 				(font
 					(size 1 1)
@@ -11043,19 +10965,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "LTST-C150KRKT"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7b559167-f6c0-45f2-9486-783c7a634786")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Liteon"
 			(at 0 0 270)
 			(unlocked yes)
@@ -11290,12 +11199,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LTST-C150KRKT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "039d6484-dc6d-4c3d-b24b-13eb3a20a916")
+			(uuid "c0885f6b-565c-47bf-8c56-d1bcc46d5867")
 			(effects
 				(font
 					(size 1 1)
@@ -12825,19 +12734,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "ACS712ELCTR-20A-T"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "612c7883-1222-44e4-9e1c-9420fadb0092")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "ALLEGRO"
 			(at 0 0 180)
 			(unlocked yes)
@@ -13072,12 +12968,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "ACS712ELCTR-20A-T"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3a6c258-cc0e-4b17-9f29-d058cba97645")
+			(uuid "17041244-491f-4c52-991b-bcbe55c42355")
 			(effects
 				(font
 					(size 1 1)
@@ -13541,19 +13437,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b8bd7e24-4acf-4f6c-b11b-4a935433f7fb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -13768,6 +13651,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "43f90ede-a7f4-45c3-bde8-6ec2bcfeb7ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f410f86-6fe3-40ca-80d0-ab692441db05")
 			(effects
 				(font
 					(size 1 1)
@@ -14064,19 +13960,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f504814a-d60e-438b-940c-99f514d249cc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 0 0 270)
 			(unlocked yes)
@@ -14246,19 +14129,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "18318399-518a-4dd7-ada2-f47aa8dbda8e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 0 0 270)
 			(unlocked yes)
@@ -14304,6 +14174,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "79dbc3f3-c7b3-4e6c-a720-c948dc4a5a4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bb7b0f59-d43e-4759-a3b5-29983f478e0f")
 			(effects
 				(font
 					(size 1 1)
@@ -16722,7 +16605,7 @@
 				)
 			)
 		)
-		(property "Value" "10K 0805"
+		(property "Value" "2K 0805"
 			(at 0 1.65 270)
 			(layer "F.Fab")
 			(uuid "72b9826e-7e4d-41d4-b2b1-6a97e274d873")
@@ -17497,19 +17380,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e690d649-fd6f-4685-b44d-bf2cc6737fc1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
@@ -17731,12 +17601,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e520a48a-f18e-4661-9b3e-40093db343ae")
+			(uuid "c5691936-5f69-4ce8-b9f8-062cca1c5ee7")
 			(effects
 				(font
 					(size 1 1)
@@ -18085,19 +17955,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "SK34SMA-3G"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "39b3cb4a-feba-4272-9f4d-c63d62f9b796")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Diotec Semiconductor"
 			(at 0 0 90)
 			(unlocked yes)
@@ -18319,12 +18176,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "SK34SMA-3G"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d8549376-b592-40ac-b51b-9b4c4f47b1af")
+			(uuid "9a7e5afa-0f87-44bf-9eaa-1934b14861b0")
 			(effects
 				(font
 					(size 1 1)
@@ -21648,19 +21505,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "182bc04f-ed5f-4f40-a4c2-b8590b473ad8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -21875,6 +21719,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "543b1cc7-0268-4011-852f-caced764487d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "36159db4-4bc0-4ea2-9479-f1f3d2d882e6")
 			(effects
 				(font
 					(size 1 1)
@@ -22583,19 +22440,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6ec04293-35d8-428a-af2f-003346ea0a91")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 0 0 270)
 			(unlocked yes)
@@ -22765,19 +22609,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bf421902-f957-4378-aeec-7e38fca2a629")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 0 0 270)
 			(unlocked yes)
@@ -22823,6 +22654,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f2edcd3-c4a4-4c33-b8c2-99a8cf0d8d17")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa76a6f2-a36a-4e2f-bbc5-45f98d1d834a")
 			(effects
 				(font
 					(size 1 1)
@@ -26183,19 +26027,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "EEUFC1V681L"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2546dd7a-738f-43ce-b117-6bcf7c443355")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Panasonic"
 			(at 0 0 90)
 			(unlocked yes)
@@ -26365,19 +26196,6 @@
 				)
 			)
 		)
-		(property "MPN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7ea7abcf-db73-421b-a115-6deeed4d17f9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Page Size" ""
 			(at 0 0 90)
 			(unlocked yes)
@@ -26423,6 +26241,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "17baf58e-59a5-4ed3-ac37-a270cbe1e350")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "EEUFC1V681L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "97b84941-007b-4f0a-80f3-2dc9d80fbf48")
 			(effects
 				(font
 					(size 1 1)
@@ -28503,19 +28334,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "583d904f-72bc-420f-99fc-40004deb2c6f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
@@ -28737,12 +28555,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1dea1b9f-0cad-49fd-b893-af571fd479ba")
+			(uuid "63307a71-67e4-480d-a35f-5098e2508daf")
 			(effects
 				(font
 					(size 1 1)
@@ -29113,19 +28931,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "PM254V-11-03-H85"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e6b996e7-d828-42a3-952b-e6e4d462dd1d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 0 0 0)
 			(unlocked yes)
@@ -29314,6 +29119,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "19c7ba38-96cd-4da0-9448-cfdfa32e86f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "PM254V-11-03-H85"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7481c7ff-5b60-4586-af2d-554fef34487a")
 			(effects
 				(font
 					(size 1 1)
@@ -29899,7 +29717,7 @@
 				)
 			)
 		)
-		(property "Value" ".33R 0805"
+		(property "Value" "0.33 0805"
 			(at 0 1.65 180)
 			(layer "F.Fab")
 			(uuid "04738f45-e73e-45e6-9f0c-1e99b00a1876")
@@ -30303,19 +30121,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "702ad2da-07e3-4908-b4fb-c73873814b19")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 90)
 			(unlocked yes)
@@ -30537,12 +30342,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0602b0d3-d7c5-4647-bdfb-fc16bc7c2168")
+			(uuid "382bb255-9834-4554-a3b0-2efe29a04b3b")
 			(effects
 				(font
 					(size 1 1)
@@ -31262,20 +31067,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0ce5646e-ffb7-420e-8f7e-9fc0487a1c57")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "STMicro"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -31489,19 +31281,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "87c5a076-6c43-48c9-a600-a92b357ba6c1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8df6810f-df37-47cc-ab42-aa155d90ffb0")
 			(effects
 				(font
 					(size 1 1)
@@ -35147,19 +34926,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "PJA3404A_R1_00001"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "73bd1f69-9214-4af4-acd3-861646f5a358")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Panjit"
 			(at 0 0 90)
 			(unlocked yes)
@@ -35381,12 +35147,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "PJA3404A_R1_00001"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c78c1f63-40da-4583-9421-582dd3e4f602")
+			(uuid "85e14b08-af5f-4bcb-b399-30759aeab28f")
 			(effects
 				(font
 					(size 1 1)
@@ -35648,19 +35414,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1812L050/30PR"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dac45e82-73a9-401b-bf44-ee07aac7118b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Littelfuse"
 			(at 0 0 90)
 			(unlocked yes)
@@ -35895,12 +35648,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "1812L050/30PR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c8ae6e2-ad50-4d6a-b530-8ceedb4db21b")
+			(uuid "0b90be34-6aa2-44e7-b69c-8355ad98090b")
 			(effects
 				(font
 					(size 1 1)
@@ -36477,19 +36230,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "T491B107M010AT"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c8fd5548-33dd-4fff-b0be-2517e122bacd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
@@ -36711,12 +36451,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "T491B107M010AT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a467950c-6c54-4a6e-b1e7-54107881eb26")
+			(uuid "df03c91e-770b-4a27-b250-b5a6ad70d616")
 			(effects
 				(font
 					(size 1 1)
@@ -37939,19 +37679,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4580e395-893b-4d82-a90a-c9024fff1b1b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 0 0 180)
 			(unlocked yes)
@@ -38166,6 +37893,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b5b6b757-78d4-427f-84fe-ce459bc2e1c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9d7c60d-7558-4e79-bdd3-4f0173f8d190")
 			(effects
 				(font
 					(size 1 1)
@@ -38542,19 +38282,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "879a584a-810f-4f07-bdf3-85a884dd4001")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 0 0 90)
 			(unlocked yes)
@@ -38769,6 +38496,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45c26733-0170-4ed2-9d32-a6c0fce39e34")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d297913-89ec-4eb4-b6c1-cbae59fdbae8")
 			(effects
 				(font
 					(size 1 1)
@@ -39149,19 +38889,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CMT-8530S-SMT-TRCMT-8504-100-SMT-TR"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "899f3e97-5971-4b65-9563-e1f990c2c5fc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Same Sky"
 			(at 0 0 90)
 			(unlocked yes)
@@ -39383,12 +39110,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CMT-8530S-SMT-TRCMT-8504-100-SMT-TR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "90e1f168-f519-47a6-b96e-b423de4170d0")
+			(uuid "cf08f479-e30c-4cf7-9e61-b553c2eb679e")
 			(effects
 				(font
 					(size 1 1)
@@ -40254,19 +39981,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "POWER-JACK"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a1089f8b-484f-43a5-90ee-c74ced3f375c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier Part" "C9900001795"
 			(at 0 0 270)
 			(unlocked yes)
@@ -40312,19 +40026,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aea5660c-c8d2-41e4-ac44-3d40ea47068f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "93159443-f49e-4b9e-ad89-a70dd296fc4d")
 			(effects
 				(font
 					(size 1 1)
@@ -40494,6 +40195,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1193d389-40a7-4e8f-bddb-e54f0efbd5bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "POWER-JACK"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "512a8e23-b06d-4280-a2b8-98c1ab9fad0f")
 			(effects
 				(font
 					(size 1 1)
@@ -41276,19 +40990,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CH340C"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7a172d7f-95bc-40d1-93a6-2e2072890ddf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "WCH(南京沁恒)"
 			(at 0 0 90)
 			(unlocked yes)
@@ -41510,12 +41211,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CH340C"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17f5d1ec-477b-481c-92ff-939c8c6d145d")
+			(uuid "9aae1860-9ff2-4e3b-aab5-c9789c0ae326")
 			(effects
 				(font
 					(size 1 1)
@@ -42243,19 +41944,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "77b49b81-2bf4-4a19-b7d7-acb3c82fbdbc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -42470,6 +42158,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0dd69054-61e6-4c52-98d1-f131510afd55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c2e0bb7-591c-48df-9b68-0201685e80b0")
 			(effects
 				(font
 					(size 1 1)
@@ -44707,19 +44408,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL31A107MQHNNNE"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "da255dbe-eb6e-45e8-9c67-545d2964da48")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "SAMSUNG"
 			(at 0 0 180)
 			(unlocked yes)
@@ -44941,12 +44629,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CL31A107MQHNNNE"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23192f45-717a-4562-ad79-20497382fdfc")
+			(uuid "faa3e531-0aab-4b6f-a2fd-944d15d618fc")
 			(effects
 				(font
 					(size 1 1)
@@ -46650,19 +46338,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "ATMEGA4809-AFR"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0bfaa751-6915-4af2-9b5d-27860a8cb251")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "MICROCHIP"
 			(at 0 0 270)
 			(unlocked yes)
@@ -46721,19 +46396,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8f40866c-7d90-4dae-b716-b6dfe016e316")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2660db61-3066-4328-bfbb-163f1faf4a57")
 			(effects
 				(font
 					(size 1 1)
@@ -46903,6 +46565,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "70e30b96-e665-49ad-9fb2-d4565b07e7c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "ATMEGA4809-AFR"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d349aa8a-694a-47c4-a709-243f07bb03aa")
 			(effects
 				(font
 					(size 1 1)
@@ -48108,19 +47783,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "506a2bcd-dec7-4530-8063-bc5879639c15")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 0 0 0)
 			(unlocked yes)
@@ -48335,6 +47997,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "98b6fc88-17b4-4b34-8610-56c9a4fdcf40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f1f7e51-8c5c-47b2-9bb1-594aabbabf5e")
 			(effects
 				(font
 					(size 1 1)
@@ -49146,19 +48821,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MC34063ECD-TR"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "651d03d0-4493-43a3-9bf8-66d4d06d7e8c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "STMicro"
 			(at 0 0 90)
 			(unlocked yes)
@@ -49380,12 +49042,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "MC34063ECD-TR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea93e8c1-82fc-4c13-a465-a77322f86e8b")
+			(uuid "2e25e75b-fe26-4f93-a620-b3aab0cf9a58")
 			(effects
 				(font
 					(size 1 1)
@@ -49693,19 +49355,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "K2-1102DP-G3SW-04"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "879e84ab-a6b2-4055-9028-ad6382ee2447")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "韩国韩荣"
 			(at 0 0 270)
 			(unlocked yes)
@@ -49920,6 +49569,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e471ee41-c1e6-4b93-b32e-9594743ca078")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "K2-1102DP-G3SW-04"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef10dfaf-3d53-4cf3-b8c2-1c55129f15a0")
 			(effects
 				(font
 					(size 1 1)
@@ -50296,19 +49958,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "94a37b42-b4c1-4648-af12-287a5b009f38")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -50523,6 +50172,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45c8d15b-5e3a-45e0-acde-0b4637aa76f9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b4707ead-2aca-4386-ab03-4fc2d27104e2")
 			(effects
 				(font
 					(size 1 1)
@@ -51522,19 +51184,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "2.54-1*4P母"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2be50b2d-3978-4c48-8403-51584e840db3")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier" "LCSC"
 			(at 0 0 0)
 			(unlocked yes)
@@ -51723,6 +51372,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "294cdb9e-5d1a-4ed4-9938-e2c7bbc0f0cd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "2.54-1*4P母"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05e3719b-9684-4746-8851-357971e18667")
 			(effects
 				(font
 					(size 1 1)
@@ -52367,19 +52029,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "PJA3404A_R1_00001"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "de36f9dd-87f5-45c1-a973-2750de1deb31")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Panjit"
 			(at 0 0 270)
 			(unlocked yes)
@@ -52614,12 +52263,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "PJA3404A_R1_00001"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d2993d8c-814a-4fc4-ae44-2b61f1fc0bdb")
+			(uuid "ea11d9dd-d85e-4533-98b8-8a2f260b4d91")
 			(effects
 				(font
 					(size 1 1)
@@ -52881,19 +52530,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "10118193-0001LF"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d65ffce6-c75e-4a79-95dc-3abafd3b8d75")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Amphenol"
 			(at 0 0 90)
 			(unlocked yes)
@@ -52939,19 +52575,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c985c73f-bcdc-43c6-bd70-e0bf63fb418e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "89a7c9f7-f61d-436d-908a-6adc07ac7262")
 			(effects
 				(font
 					(size 1 1)
@@ -53121,6 +52744,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6841bc09-0baf-46c0-b3c9-129d7ef64ceb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "10118193-0001LF"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1709baec-493e-4355-976f-37f08626ca88")
 			(effects
 				(font
 					(size 1 1)
@@ -53994,19 +53630,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "MSS1048-104MLC"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "92d6f189-67a5-496c-84bd-1698050bb968")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Coilcraft"
 			(at 0 0 180)
 			(unlocked yes)
@@ -54241,12 +53864,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "MSS1048-104MLC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "028795e6-1261-4235-9273-7fa976d8bf1a")
+			(uuid "dac25d5c-089d-474c-9794-41cb98993543")
 			(effects
 				(font
 					(size 1 1)
@@ -54538,19 +54161,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B5819WSL-TP"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "10d6e012-ba88-4243-b7ac-a7d3fe31690c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier Part" "C179553"
 			(at 0 0 180)
 			(unlocked yes)
@@ -54759,12 +54369,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "Manufacturer" "MCC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6eb01fce-8045-41c6-a1f6-a46729dad255")
+			(uuid "c4251113-c97f-4749-a5ce-d4abb6a910b7")
 			(effects
 				(font
 					(size 1 1)
@@ -54772,12 +54382,12 @@
 				)
 			)
 		)
-		(property "Manufacturer" "MCC"
+		(property "mpn" "B5819WSL-TP"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4251113-c97f-4749-a5ce-d4abb6a910b7")
+			(uuid "4db2d1a9-1ef8-466a-851f-3c3d65babcc5")
 			(effects
 				(font
 					(size 1 1)
@@ -56268,19 +55878,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "T491B107M010AT"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bb90c728-ee6c-4956-b392-51a5e2ce5b36")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "KEMET"
 			(at 0 0 270)
 			(unlocked yes)
@@ -56502,12 +56099,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "T491B107M010AT"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e625c2fe-953e-4f84-b1e4-74c42d919660")
+			(uuid "82d92a16-0bf2-4438-a60a-d14d7d4093ec")
 			(effects
 				(font
 					(size 1 1)
@@ -56810,19 +56407,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "A2541HWR-2x4P"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7237c9bc-b6cd-451a-93b3-0676c02012b5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "CJT(长江连接器)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -56881,19 +56465,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "32e5a932-2b59-4518-8f79-61cba1953a8b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9e31765f-23f8-4adc-9993-823353160b00")
 			(effects
 				(font
 					(size 1 1)
@@ -57063,6 +56634,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1ee07d09-1b99-468a-bdb6-743ea45e9053")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "A2541HWR-2x4P"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10195e8b-d5e9-4dcb-b26e-b4733cc6bc92")
 			(effects
 				(font
 					(size 1 1)
@@ -57468,19 +57052,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "IPD90N04S403ATMA1"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "458739dd-ebe7-4970-96c8-fdfd77b8b73f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Infineon"
 			(at 0 0 270)
 			(unlocked yes)
@@ -57702,12 +57273,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "IPD90N04S403ATMA1"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "11353712-4df0-4b6e-a0e0-8f2576904e63")
+			(uuid "e5f5fe4e-914b-4a37-aa64-47fac127ac0a")
 			(effects
 				(font
 					(size 1 1)
@@ -57966,19 +57537,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B5819WSL-TP"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "111ced62-0ea1-4741-92c3-d8c255ea8d86")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Supplier Part" "C179553"
 			(at 0 0 0)
 			(unlocked yes)
@@ -58187,12 +57745,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "Manufacturer" "MCC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7f3b0351-ba97-4f27-86e3-4e32e1560db6")
+			(uuid "41ed578a-7176-414b-a377-1843fcd74fde")
 			(effects
 				(font
 					(size 1 1)
@@ -58200,12 +57758,12 @@
 				)
 			)
 		)
-		(property "Manufacturer" "MCC"
+		(property "mpn" "B5819WSL-TP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "41ed578a-7176-414b-a377-1843fcd74fde")
+			(uuid "43ca5fc5-9675-425c-bcb4-15fb55229c00")
 			(effects
 				(font
 					(size 1 1)
@@ -59325,19 +58883,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "A2541HWR-2x6P"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1be25b22-90d4-47a9-9c4a-a864b1a82560")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "CJT(长江连接器)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -59565,6 +59110,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9fa3f524-f19b-4fbf-a9fb-0c753996eb07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "A2541HWR-2x6P"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e6250f4-2115-4f5c-ad15-b84d9b0df93d")
 			(effects
 				(font
 					(size 1 1)
@@ -60510,19 +60068,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "BC816-16VL"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f35d3e2-a9ca-4b56-a511-db98304ddcf4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Nexperia"
 			(at 0 0 270)
 			(unlocked yes)
@@ -60757,12 +60302,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "BC816-16VL"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5e34438-faa9-41fe-87b8-382487d36e0e")
+			(uuid "9d4666b4-ddba-454d-ac86-abbafa34b39a")
 			(effects
 				(font
 					(size 1 1)
@@ -61020,19 +60565,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4778158e-55a7-4ad9-9870-913c6b63dd55")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 0)
 			(unlocked yes)
@@ -61254,12 +60786,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5055c5fd-86ed-471d-9404-af0112a87987")
+			(uuid "7b8f8807-2d0b-4ef6-9f44-2c88d208010b")
 			(effects
 				(font
 					(size 1 1)
@@ -61606,19 +61138,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "LM4040DIM3-2.5+T"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b93c6dbf-3cac-4064-902c-3da4a7f71e77")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Analog Devices"
 			(at 0 0 0)
 			(unlocked yes)
@@ -61840,12 +61359,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "LM4040DIM3-2.5+T"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "703741b8-5ffd-4fb4-92a3-6bea64c2a3f1")
+			(uuid "c5895917-17d3-427c-8a26-b8ddcfb401ec")
 			(effects
 				(font
 					(size 1 1)
@@ -62103,19 +61622,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "B0520LW-7-F"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a8a3b02d-d4f7-453c-8f6a-46cc8eb537cd")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "Diodes Incorporated"
 			(at 0 0 90)
 			(unlocked yes)
@@ -62337,12 +61843,12 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "B0520LW-7-F"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "10b20322-169a-437e-9986-c8d0eb1c7f3d")
+			(uuid "a694ee72-1dc6-4561-b0fd-db9606bd4043")
 			(effects
 				(font
 					(size 1 1)
@@ -62687,19 +62193,6 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "VG039NCHXTB153"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "652ab422-ac41-43a0-98f1-d4d8726451bf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Manufacturer" "HDK(北陆电气)"
 			(at 0 0 0)
 			(unlocked yes)
@@ -62914,6 +62407,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ebb13dbd-f970-4ec7-a5dd-fddf63265d29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "VG039NCHXTB153"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "30a5bb75-8ec3-41c7-9d9a-8322f36251cf")
 			(effects
 				(font
 					(size 1 1)
@@ -63149,20 +62655,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "9667c9a0-3bb3-4f57-92b4-0b3d4cbb18ab")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Diotec Semiconductor"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -63376,19 +62869,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22972128-d475-475c-84aa-a79e7ac6dcca")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "MPN" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fc9ee1a8-16d1-4c05-9f22-47f51c83a4aa")
 			(effects
 				(font
 					(size 1 1)
@@ -66497,20 +65977,6 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part" "UMH3NTN"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "ea317394-f966-4706-8bd9-329dd638d9b2")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Manufacturer" "ROHM"
 			(at 0 0 0)
 			(unlocked yes)
@@ -66755,6 +66221,20 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "966e3ceb-e768-4821-b016-ed11f5a312d3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "mpn" "UMH3NTN"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ef5d085-79ff-4066-bb15-9fe6591d427c")
 			(effects
 				(font
 					(size 1 1)
@@ -67657,20 +67137,6 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part" "CH340C"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "2823c717-849b-4c68-9d8e-f9015025ca42")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Manufacturer" "WCH(南京沁恒)"
 			(at 0 0 90)
 			(unlocked yes)
@@ -67909,12 +67375,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "CH340C"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c4652942-18c2-4500-a93e-a0f56f78f048")
+			(uuid "539f1765-852b-4d25-985e-6b72571a464d")
 			(effects
 				(font
 					(size 1 1)
@@ -70694,20 +70160,6 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part" "WT8266-S5ESP-12F"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "0ada8472-8015-498d-800b-6b39ad31bc59")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Manufacturer" ""
 			(at 0 0 180)
 			(unlocked yes)
@@ -70946,12 +70398,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "WT8266-S5ESP-12F"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "cb994aa3-9ad2-4455-a9a6-11248f492c3f")
+			(uuid "02afb84a-d478-4ade-ba18-f1f37769ff0c")
 			(effects
 				(font
 					(size 1 1)
@@ -72360,20 +71812,6 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer Part" "10118193-0001LF"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "5be26088-9185-4ad5-a07e-7e932e39f9ef")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
 		(property "Manufacturer" "Amphenol"
 			(at 0 0 90)
 			(unlocked yes)
@@ -72612,12 +72050,12 @@
 				(justify mirror)
 			)
 		)
-		(property "MPN" ""
+		(property "mpn" "10118193-0001LF"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f409f0e7-4fde-446c-a75d-b3ebd710f021")
+			(uuid "857c9638-ebef-421c-8e23-37518f02670a")
 			(effects
 				(font
 					(size 1 1)
