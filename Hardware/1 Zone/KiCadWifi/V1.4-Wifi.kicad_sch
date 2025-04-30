@@ -9405,194 +9405,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "V1.4-Wifi-easyedapro:VG039NCHXTB153"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "15kΩ"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer Part" "VG039NCHXTB153"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer" "HDK(北陆电气)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier Part" "C128547"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Supplier" "LCSC"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "LCSC Part Name" "15kΩ±25%"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "VG039NCHXTB153_1_0"
-				(polyline
-					(pts
-						(xy -0.508 0) (xy -1.778 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy -1.27 -0.508) (xy -1.27 -0.508) (xy -1.27 0.508) (xy -1.27 0.508) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -2.54) (xy 0 2.54) (xy 0 2.54) (xy 2.54 2.54) (xy 2.54 2.54) (xy 2.54 -2.54) (xy 2.54 -2.54)
-						(xy 0 -2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 1.27 5.08 270)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 1.27 -5.08 90)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 0.0254 0.0254)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "V1.4-Wifi-easyedapro:WT8266-S5 ESP-12F"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -10779,7 +10591,7 @@
 	)
 	(text "Thermistors"
 		(exclude_from_sim no)
-		(at 115.316 70.612 0)
+		(at 128.016 70.612 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10910,18 +10722,6 @@
 			(justify left bottom)
 		)
 		(uuid "4bd2ddf6-e17a-4ef1-b877-7bc78e590519")
-	)
-	(text "PLACE ONLY RESISTOR OR POTENTIOMETER, NOT BOTH!!!"
-		(exclude_from_sim no)
-		(at 48.26 68.58 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "5607ce02-8f26-4684-b3fd-3ecf7e21a022")
 	)
 	(text "TFT Connector 7Pin"
 		(exclude_from_sim no)
@@ -11229,6 +11029,12 @@
 		(uuid "03048223-afac-4ba5-b357-e65633bf54c5")
 	)
 	(junction
+		(at 71.12 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "038319aa-eb7a-4211-831b-e16a4fe793f2")
+	)
+	(junction
 		(at 355.6 290.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11281,12 +11087,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "14b37dd3-c9aa-4e04-af01-801e372d521e")
-	)
-	(junction
-		(at 71.12 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18fa9f8c-7bb6-4e8a-a443-457be38d4757")
 	)
 	(junction
 		(at 363.22 38.1)
@@ -11355,7 +11155,7 @@
 		(uuid "2d85d3c3-bcac-456b-a490-1d55124d3cb5")
 	)
 	(junction
-		(at 118.11 93.98)
+		(at 130.81 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2d89e029-91e7-4068-a692-7411326b793c")
@@ -11403,7 +11203,7 @@
 		(uuid "3a147a56-3708-4e7a-b0d4-548a2197e28f")
 	)
 	(junction
-		(at 118.11 99.06)
+		(at 130.81 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b7d3942-899f-4847-ba50-3278ed9b4351")
@@ -11439,7 +11239,7 @@
 		(uuid "47daaa36-33e8-476f-8ba1-401d83f06b11")
 	)
 	(junction
-		(at 118.11 83.82)
+		(at 130.81 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b041f68-e339-42d0-a95a-2fdab7eed0ef")
@@ -11625,12 +11425,6 @@
 		(uuid "8ad14a59-f434-4214-9999-597c3332e183")
 	)
 	(junction
-		(at 85.09 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8cd69ab8-f4b3-44f0-ae78-51fdafcef0c7")
-	)
-	(junction
 		(at 344.17 294.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11643,16 +11437,16 @@
 		(uuid "8ddee81f-95b8-41b7-b591-18b92cb22cd2")
 	)
 	(junction
+		(at 85.09 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9309d0a2-f4f3-4505-8993-3f1f3e7d20b8")
+	)
+	(junction
 		(at 462.28 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "945cec3f-be3d-403f-aaf7-541c910ac391")
-	)
-	(junction
-		(at 71.12 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "94f7b22b-d502-4746-b303-4ba5c4b1b222")
 	)
 	(junction
 		(at 363.22 40.64)
@@ -11695,12 +11489,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a91d9941-f9d1-4919-a466-6baa669f941e")
-	)
-	(junction
-		(at 85.09 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a959b55c-7b65-4254-87e9-d796af657bce")
 	)
 	(junction
 		(at 57.15 233.68)
@@ -11769,19 +11557,7 @@
 		(uuid "c2a5bbd8-9f2c-44ef-a190-8238a2a59320")
 	)
 	(junction
-		(at 71.12 138.43)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c67962ab-5a8a-4125-a9ae-3aa38e3b5bb6")
-	)
-	(junction
-		(at 71.12 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c95e9f09-371e-4d8d-855c-a62c235d6b39")
-	)
-	(junction
-		(at 118.11 88.9)
+		(at 130.81 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca260a30-210b-4af3-b03c-73fc904f20e1")
@@ -11883,7 +11659,7 @@
 		(uuid "e4c4ae5f-83e7-43b6-89f5-2bc01bde2dde")
 	)
 	(junction
-		(at 118.11 78.74)
+		(at 130.81 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e66adcac-35e6-4739-aee1-6fd5e6daf70d")
@@ -11943,22 +11719,10 @@
 		(uuid "f63bf49f-0c83-4424-bd61-8bdd02fea6a9")
 	)
 	(junction
-		(at 71.12 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f676d63b-8d2c-47f8-a8e9-505f7c2bbc71")
-	)
-	(junction
 		(at 254 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fab1ee1d-8580-46c3-bba6-bba861e17a39")
-	)
-	(junction
-		(at 71.12 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fffd0f72-636c-4253-acb3-045832f76a77")
 	)
 	(no_connect
 		(at 370.84 467.36)
@@ -11975,10 +11739,6 @@
 	(no_connect
 		(at 435.61 187.96)
 		(uuid "15b3d06a-0c9b-4341-8ed4-31edf1c0357d")
-	)
-	(no_connect
-		(at 74.93 128.27)
-		(uuid "27d16d2d-a33b-4540-86ec-7cd0b0a77d9f")
 	)
 	(no_connect
 		(at 410.21 200.66)
@@ -12025,10 +11785,6 @@
 		(uuid "718b20d6-5675-4301-982e-69ec57fb2798")
 	)
 	(no_connect
-		(at 74.93 73.66)
-		(uuid "7345c508-c5c8-4db8-89c9-dae6e873f5d4")
-	)
-	(no_connect
 		(at 480.06 26.67)
 		(uuid "735fb117-1dde-4531-9da4-b0274f3442ae")
 	)
@@ -12049,10 +11805,6 @@
 		(uuid "8601d161-18a6-4705-be44-6df44966342d")
 	)
 	(no_connect
-		(at 74.93 87.63)
-		(uuid "86f41005-a48d-412d-937c-bc859df90043")
-	)
-	(no_connect
 		(at 365.76 467.36)
 		(uuid "8afdc977-0542-4e4d-9423-64bba03389f8")
 	)
@@ -12065,10 +11817,6 @@
 		(uuid "9aa78fae-c5c1-4c3a-8167-3c1399967a7e")
 	)
 	(no_connect
-		(at 74.93 113.03)
-		(uuid "a3505673-bc6b-4d86-b4b7-473ff3ddbe32")
-	)
-	(no_connect
 		(at 195.58 222.25)
 		(uuid "a7b0e7df-89bc-41d2-8985-7b1416346e18")
 	)
@@ -12077,16 +11825,8 @@
 		(uuid "b2f94928-80b2-4ea3-9d47-7658dc3ba824")
 	)
 	(no_connect
-		(at 74.93 142.24)
-		(uuid "bfd0d9f2-9485-4ce1-8a16-f4b5c4bd7f12")
-	)
-	(no_connect
 		(at 420.37 506.73)
 		(uuid "c0908e32-32b6-48f5-81f2-f17fbd4102f7")
-	)
-	(no_connect
-		(at 74.93 100.33)
-		(uuid "c392ddab-a74b-43ec-a8b7-fd26d88a1c57")
 	)
 	(no_connect
 		(at 327.66 499.11)
@@ -12168,6 +11908,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 132.08) (xy 97.79 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02db4615-4a78-4018-8d15-72e65a06f38e")
+	)
+	(wire
+		(pts
 			(xy 386.08 123.19) (xy 388.62 123.19)
 		)
 		(stroke
@@ -12185,6 +11935,16 @@
 			(type default)
 		)
 		(uuid "04f04bc5-bbb8-4071-aa4d-2511ada81375")
+	)
+	(wire
+		(pts
+			(xy 85.09 92.71) (xy 97.79 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05178483-2fdf-48b7-bae0-ff9e9ae912b2")
 	)
 	(wire
 		(pts
@@ -12238,7 +11998,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 124.46) (xy 71.12 132.08)
+			(xy 71.12 118.11) (xy 71.12 132.08)
 		)
 		(stroke
 			(width 0)
@@ -12298,7 +12058,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 99.06) (xy 137.16 99.06)
+			(xy 130.81 99.06) (xy 149.86 99.06)
 		)
 		(stroke
 			(width 0)
@@ -12408,7 +12168,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 83.82) (xy 118.11 88.9)
+			(xy 130.81 83.82) (xy 130.81 88.9)
 		)
 		(stroke
 			(width 0)
@@ -12515,6 +12275,16 @@
 			(type default)
 		)
 		(uuid "19f942d1-b9f2-4bed-964e-53bd6dd89318")
+	)
+	(wire
+		(pts
+			(xy 71.12 87.63) (xy 71.12 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a14e249-35e8-4fa6-ae74-88635bcb6d74")
 	)
 	(wire
 		(pts
@@ -12628,7 +12398,17 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 83.82) (xy 137.16 83.82)
+			(xy 96.52 105.41) (xy 97.79 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "212428c8-1677-4177-b3be-d323d38b8719")
+	)
+	(wire
+		(pts
+			(xy 130.81 83.82) (xy 149.86 83.82)
 		)
 		(stroke
 			(width 0)
@@ -12655,16 +12435,6 @@
 			(type default)
 		)
 		(uuid "22ef9dfa-cb49-49ae-9f2c-1a6f53bcd462")
-	)
-	(wire
-		(pts
-			(xy 71.12 109.22) (xy 71.12 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "237d8e75-147a-4699-913a-8f69fd3a090a")
 	)
 	(wire
 		(pts
@@ -12728,16 +12498,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 142.24) (xy 85.09 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28788c2e-20b6-4b30-862f-f82990217fbf")
-	)
-	(wire
-		(pts
 			(xy 397.51 78.74) (xy 411.48 78.74)
 		)
 		(stroke
@@ -12795,6 +12555,16 @@
 			(type default)
 		)
 		(uuid "2d65f30d-610f-4178-b664-ea9bf7e28304")
+	)
+	(wire
+		(pts
+			(xy 96.52 118.11) (xy 97.79 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2dbba7d0-d9aa-45db-8550-27fb3a8d043f")
 	)
 	(wire
 		(pts
@@ -12888,7 +12658,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 99.06) (xy 118.11 104.14)
+			(xy 130.81 99.06) (xy 130.81 104.14)
 		)
 		(stroke
 			(width 0)
@@ -12908,7 +12678,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 78.74) (xy 118.11 83.82)
+			(xy 130.81 78.74) (xy 130.81 83.82)
 		)
 		(stroke
 			(width 0)
@@ -13058,16 +12828,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 87.63) (xy 85.09 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39900a0c-7482-4ad9-8a43-01e1ea971985")
-	)
-	(wire
-		(pts
 			(xy 262.89 196.85) (xy 275.59 196.85)
 		)
 		(stroke
@@ -13108,6 +12868,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 147.32) (xy 97.79 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b1dab5b-6702-466b-b2a3-e9169ae7c843")
+	)
+	(wire
+		(pts
 			(xy 384.81 455.93) (xy 384.81 452.12)
 		)
 		(stroke
@@ -13125,16 +12895,6 @@
 			(type default)
 		)
 		(uuid "3c303bb0-2db9-4c44-897b-c4b4b5ddb564")
-	)
-	(wire
-		(pts
-			(xy 85.09 76.2) (xy 85.09 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c7e9648-feff-4fe9-ad44-b9eb11ae3877")
 	)
 	(wire
 		(pts
@@ -13308,7 +13068,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 78.74) (xy 71.12 83.82)
+			(xy 71.12 78.74) (xy 71.12 87.63)
 		)
 		(stroke
 			(width 0)
@@ -13408,7 +13168,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 92.71) (xy 71.12 96.52)
+			(xy 71.12 92.71) (xy 71.12 105.41)
 		)
 		(stroke
 			(width 0)
@@ -13658,6 +13418,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 78.74) (xy 97.79 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6402be43-4e0f-4f85-945a-235b2ebca9b2")
+	)
+	(wire
+		(pts
 			(xy 422.91 488.95) (xy 422.91 494.03)
 		)
 		(stroke
@@ -13665,16 +13435,6 @@
 			(type default)
 		)
 		(uuid "641b3c0b-7120-450e-a881-244d181b8e52")
-	)
-	(wire
-		(pts
-			(xy 80.01 83.82) (xy 71.12 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64c91270-6172-448c-9f0d-11479b120677")
 	)
 	(wire
 		(pts
@@ -13708,7 +13468,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 93.98) (xy 137.16 93.98)
+			(xy 130.81 93.98) (xy 149.86 93.98)
 		)
 		(stroke
 			(width 0)
@@ -13828,16 +13588,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 132.08) (xy 85.09 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70034b51-a7b1-4c8e-8acb-a3ebd3733ede")
-	)
-	(wire
-		(pts
 			(xy 379.73 290.83) (xy 379.73 303.53)
 		)
 		(stroke
@@ -13895,16 +13645,6 @@
 			(type default)
 		)
 		(uuid "726613d3-f0ff-4e20-ade8-70b8ea2d156f")
-	)
-	(wire
-		(pts
-			(xy 86.36 115.57) (xy 85.09 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72995cea-e40f-485f-a5d6-4c6c748be42c")
 	)
 	(wire
 		(pts
@@ -13998,16 +13738,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 76.2) (xy 86.36 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7702481f-c12c-46e4-8d49-6c37b691f70e")
-	)
-	(wire
-		(pts
 			(xy 193.04 77.47) (xy 193.04 82.55)
 		)
 		(stroke
@@ -14015,16 +13745,6 @@
 			(type default)
 		)
 		(uuid "77dfed3f-f879-4932-9da2-8093dcbd2827")
-	)
-	(wire
-		(pts
-			(xy 80.01 109.22) (xy 71.12 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78b0f557-28ad-46b5-b259-3b321196f055")
 	)
 	(wire
 		(pts
@@ -14278,16 +13998,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 69.85) (xy 71.12 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f52947f-49e7-46ed-8b82-79f147bf8e83")
-	)
-	(wire
-		(pts
 			(xy 347.98 12.7) (xy 347.98 15.24)
 		)
 		(stroke
@@ -14295,26 +14005,6 @@
 			(type default)
 		)
 		(uuid "8ff142d2-5f5d-46d7-9315-c417ed1ced53")
-	)
-	(wire
-		(pts
-			(xy 71.12 118.11) (xy 71.12 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90045e73-deff-41ed-9179-ead68f371d3d")
-	)
-	(wire
-		(pts
-			(xy 71.12 96.52) (xy 71.12 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "90371bed-a4cf-4b84-b5cd-a62d3f280fed")
 	)
 	(wire
 		(pts
@@ -14388,7 +14078,17 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 78.74) (xy 137.16 78.74)
+			(xy 85.09 132.08) (xy 86.36 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "948a2257-1fbf-4eed-a8ab-4c35f013dc13")
+	)
+	(wire
+		(pts
+			(xy 130.81 78.74) (xy 149.86 78.74)
 		)
 		(stroke
 			(width 0)
@@ -14405,16 +14105,6 @@
 			(type default)
 		)
 		(uuid "966179b9-5d9c-4a36-8b5b-c30e0105e830")
-	)
-	(wire
-		(pts
-			(xy 80.01 138.43) (xy 71.12 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "96ac3de5-3074-4d47-8e7c-b5fa49c22339")
 	)
 	(wire
 		(pts
@@ -14478,6 +14168,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 87.63) (xy 85.09 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bf92323-c86f-4626-81e5-47caeebe60ef")
+	)
+	(wire
+		(pts
 			(xy 321.31 441.96) (xy 322.58 441.96)
 		)
 		(stroke
@@ -14518,6 +14218,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 118.11) (xy 86.36 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f73aacc-77b4-41c7-a40a-bd5dea3eef48")
+	)
+	(wire
+		(pts
 			(xy 327.66 496.57) (xy 326.39 496.57)
 		)
 		(stroke
@@ -14528,7 +14238,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 104.14) (xy 137.16 104.14)
+			(xy 130.81 104.14) (xy 149.86 104.14)
 		)
 		(stroke
 			(width 0)
@@ -14568,16 +14278,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 96.52) (xy 80.01 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3a3ea95-21ae-4344-898b-947abce16733")
-	)
-	(wire
-		(pts
 			(xy 127 226.06) (xy 127 233.68)
 		)
 		(stroke
@@ -14598,7 +14298,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 88.9) (xy 118.11 93.98)
+			(xy 130.81 88.9) (xy 130.81 93.98)
 		)
 		(stroke
 			(width 0)
@@ -14638,7 +14338,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 88.9) (xy 137.16 88.9)
+			(xy 130.81 88.9) (xy 149.86 88.9)
 		)
 		(stroke
 			(width 0)
@@ -14705,16 +14405,6 @@
 			(type default)
 		)
 		(uuid "ac1070fb-1c3a-4e9a-988b-aebe8ea039cc")
-	)
-	(wire
-		(pts
-			(xy 71.12 124.46) (xy 80.01 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aceef6d4-6ead-40d1-8e78-f89aaba49af4")
 	)
 	(wire
 		(pts
@@ -14808,7 +14498,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 93.98) (xy 118.11 99.06)
+			(xy 130.81 93.98) (xy 130.81 99.06)
 		)
 		(stroke
 			(width 0)
@@ -14958,6 +14648,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 147.32) (xy 86.36 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b91c3e4d-d4b5-4a65-af18-c875ece396a2")
+	)
+	(wire
+		(pts
 			(xy 426.72 501.65) (xy 426.72 504.19)
 		)
 		(stroke
@@ -14965,16 +14665,6 @@
 			(type default)
 		)
 		(uuid "ba4a77ff-2d0f-43ba-ac83-c52f9b45ada8")
-	)
-	(wire
-		(pts
-			(xy 85.09 73.66) (xy 85.09 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bab44e0a-26c4-455b-88f9-112a95f86895")
 	)
 	(wire
 		(pts
@@ -15068,6 +14758,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 78.74) (xy 86.36 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1dead98-e922-4687-aa24-4b59ba37ed93")
+	)
+	(wire
+		(pts
 			(xy 208.28 207.01) (xy 208.28 195.58)
 		)
 		(stroke
@@ -15148,6 +14848,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 87.63) (xy 74.93 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c73a255a-c36b-48f8-bcc9-8f8823fd5713")
+	)
+	(wire
+		(pts
 			(xy 462.28 120.65) (xy 443.23 120.65)
 		)
 		(stroke
@@ -15205,16 +14915,6 @@
 			(type default)
 		)
 		(uuid "ca321a3e-6058-42b4-bc0e-e91089a7b964")
-	)
-	(wire
-		(pts
-			(xy 85.09 113.03) (xy 85.09 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca37cc18-fe06-4b94-a693-a6faa6094c59")
 	)
 	(wire
 		(pts
@@ -15328,16 +15028,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 118.11) (xy 85.09 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3c440e7-f645-4fce-bcd0-a51cb42db255")
-	)
-	(wire
-		(pts
 			(xy 342.9 421.64) (xy 339.09 421.64)
 		)
 		(stroke
@@ -15385,16 +15075,6 @@
 			(type default)
 		)
 		(uuid "d904137a-8132-414c-bff8-91d15446937a")
-	)
-	(wire
-		(pts
-			(xy 71.12 83.82) (xy 71.12 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da2f8fd4-8c77-4388-b41e-de40a0c3c94a")
 	)
 	(wire
 		(pts
@@ -15448,7 +15128,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 132.08) (xy 71.12 138.43)
+			(xy 71.12 132.08) (xy 71.12 147.32)
 		)
 		(stroke
 			(width 0)
@@ -15535,16 +15215,6 @@
 			(type default)
 		)
 		(uuid "e5683300-8b5f-43e3-98bc-93636a256437")
-	)
-	(wire
-		(pts
-			(xy 71.12 138.43) (xy 71.12 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e5f36405-93f7-4d07-aba1-cb8547e6a06f")
 	)
 	(wire
 		(pts
@@ -15678,16 +15348,6 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 69.85) (xy 71.12 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee823828-2478-4c9e-8db9-e149bc430d39")
-	)
-	(wire
-		(pts
 			(xy 127 177.8) (xy 132.08 177.8)
 		)
 		(stroke
@@ -15738,7 +15398,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 105.41) (xy 71.12 109.22)
+			(xy 71.12 105.41) (xy 71.12 118.11)
 		)
 		(stroke
 			(width 0)
@@ -15798,6 +15458,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 105.41) (xy 86.36 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f46aabb4-fa59-4bfd-aedc-092381b3b4f3")
+	)
+	(wire
+		(pts
 			(xy 107.95 177.8) (xy 107.95 175.26)
 		)
 		(stroke
@@ -15845,16 +15515,6 @@
 			(type default)
 		)
 		(uuid "f87a4885-0f93-4e4d-8762-30e1c4bf6bfc")
-	)
-	(wire
-		(pts
-			(xy 85.09 100.33) (xy 85.09 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f983dd25-a5dd-4498-9c33-1c3f95d5e99d")
 	)
 	(wire
 		(pts
@@ -27868,7 +27528,7 @@
 	)
 	(global_label "THERMISTOR6"
 		(shape input)
-		(at 137.16 106.68 180)
+		(at 149.86 106.68 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27877,7 +27537,7 @@
 		)
 		(uuid "10b1ce42-5441-4d44-abd8-d56b4237c002")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 106.68 0)
+			(at 149.86 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27928,7 +27588,7 @@
 	)
 	(global_label "THERMISTOR5"
 		(shape input)
-		(at 85.09 132.08 0)
+		(at 97.79 132.08 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27937,7 +27597,7 @@
 		)
 		(uuid "1682e618-683d-4866-b467-24091bb2bf8a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.09 132.08 0)
+			(at 97.79 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28128,7 +27788,7 @@
 	)
 	(global_label "THERMISTOR1"
 		(shape input)
-		(at 137.16 81.28 180)
+		(at 149.86 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28137,7 +27797,7 @@
 		)
 		(uuid "32735f56-f08f-419b-9c15-052bff304237")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 81.28 0)
+			(at 149.86 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28348,7 +28008,7 @@
 	)
 	(global_label "THERMISTOR4"
 		(shape input)
-		(at 86.36 115.57 0)
+		(at 97.79 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28357,7 +28017,7 @@
 		)
 		(uuid "3d880d5c-ae4c-4a25-b2f3-1353adad1fd8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.36 115.57 0)
+			(at 97.79 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28428,7 +28088,7 @@
 	)
 	(global_label "THERMISTOR1"
 		(shape input)
-		(at 86.36 76.2 0)
+		(at 97.79 78.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28437,7 +28097,7 @@
 		)
 		(uuid "430621df-84ad-4999-a8bf-e06da684e7ec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.36 76.2 0)
+			(at 97.79 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28628,7 +28288,7 @@
 	)
 	(global_label "THERMISTOR3"
 		(shape input)
-		(at 137.16 91.44 180)
+		(at 149.86 91.44 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28637,7 +28297,7 @@
 		)
 		(uuid "578ddf20-7b0f-48d8-b8a3-1cd5e7fa7c7b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 91.44 0)
+			(at 149.86 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29228,7 +28888,7 @@
 	)
 	(global_label "THERMISTOR5"
 		(shape input)
-		(at 137.16 101.6 180)
+		(at 149.86 101.6 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29237,7 +28897,7 @@
 		)
 		(uuid "8b3e8d5d-af0e-44d7-85a8-6fcbb70a4b34")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 101.6 0)
+			(at 149.86 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29308,7 +28968,7 @@
 	)
 	(global_label "THERMISTOR3"
 		(shape input)
-		(at 85.09 102.87 0)
+		(at 97.79 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29317,7 +28977,7 @@
 		)
 		(uuid "8cf43fb7-98e4-4998-a8fb-50151823a770")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.09 102.87 0)
+			(at 97.79 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29428,7 +29088,7 @@
 	)
 	(global_label "THERMISTOR2"
 		(shape input)
-		(at 137.16 86.36 180)
+		(at 149.86 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -29437,7 +29097,7 @@
 		)
 		(uuid "993e91ba-df9d-40aa-bd92-0c882003beaa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 86.36 0)
+			(at 149.86 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30268,7 +29928,7 @@
 	)
 	(global_label "THERMISTOR2"
 		(shape input)
-		(at 85.09 90.17 0)
+		(at 97.79 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30277,7 +29937,7 @@
 		)
 		(uuid "df9e838f-5f38-4304-ba73-bad2f930dd7c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.09 90.17 0)
+			(at 97.79 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30508,7 +30168,7 @@
 	)
 	(global_label "THERMISTOR6"
 		(shape input)
-		(at 85.09 146.05 0)
+		(at 97.79 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30517,7 +30177,7 @@
 		)
 		(uuid "eee86750-4bc9-4d2e-b829-6de92da1137a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.09 146.05 0)
+			(at 97.79 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30608,7 +30268,7 @@
 	)
 	(global_label "THERMISTOR4"
 		(shape input)
-		(at 137.16 96.52 180)
+		(at 149.86 96.52 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30617,7 +30277,7 @@
 		)
 		(uuid "fd41a4e8-fb9d-41bb-8bfd-84353496e33f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.16 96.52 0)
+			(at 149.86 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34259,6 +33919,188 @@
 		)
 	)
 	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 91.44 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1edd7839-b778-4f6e-a81a-37a20a80bec2")
+		(property "Reference" "R61"
+			(at 89.408 118.872 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100 0805"
+			(at 86.36 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 91.44 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c428ec9b-5458-4cd2-87f1-51f1eaa8a87f")
+		)
+		(pin "2"
+			(uuid "2f75ca10-9b24-4cf0-b3ee-b1739e88a78a")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
 		(at 415.29 135.89 0)
 		(unit 1)
@@ -35652,7 +35494,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x12_Pin")
-		(at 142.24 91.44 0)
+		(at 154.94 91.44 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -35661,7 +35503,7 @@
 		(dnp no)
 		(uuid "2fcdc603-46d0-4639-ac55-9ae279c2b201")
 		(property "Reference" "CN11"
-			(at 144.78 87.63 0)
+			(at 157.48 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35670,7 +35512,7 @@
 			)
 		)
 		(property "Value" "Pinheader 1x02 P2.54 Horizontal"
-			(at 144.78 97.79 0)
+			(at 157.48 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35679,7 +35521,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Horizontal"
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35688,7 +35530,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35697,7 +35539,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x12, script generated"
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35706,7 +35548,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35715,7 +35557,7 @@
 			)
 		)
 		(property "Supplier Part" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35724,7 +35566,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35733,7 +35575,7 @@
 			)
 		)
 		(property "LCSC Part Name" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35742,7 +35584,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35750,7 +35592,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35758,7 +35600,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35766,7 +35608,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35774,7 +35616,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35782,7 +35624,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35790,7 +35632,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35798,7 +35640,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35806,7 +35648,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35814,7 +35656,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35822,7 +35664,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35830,7 +35672,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35838,7 +35680,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 142.24 91.44 0)
+			(at 154.94 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36151,226 +35993,6 @@
 		)
 	)
 	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:VG039NCHXTB153")
-		(at 80.01 99.06 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "31f92844-57d9-4854-b010-424ec2c8a2e4")
-		(property "Reference" "R9"
-			(at 77.47 104.1654 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "15K"
-			(at 72.39 104.14 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "HDK(北陆电气)"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C128547"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "15kΩ±25%"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mpn" "VG039NCHXTB153"
-			(at 80.01 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "7c1f932d-7c88-4277-b3bb-2253724fd9cf")
-		)
-		(pin "1"
-			(uuid "931800c1-74e6-47bc-b6ab-223b875dcfad")
-		)
-		(pin "2"
-			(uuid "0616ca61-eaf7-4f83-8091-18fb035b02b9")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
 		(at 80.01 105.41 0)
 		(unit 1)
@@ -36380,7 +36002,7 @@
 		(dnp no)
 		(uuid "335acad8-dc42-4198-9d8f-1ee0755ffce9")
 		(property "Reference" "R51"
-			(at 77.47 109.22 0)
+			(at 77.978 106.172 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36388,7 +36010,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2K 0805"
+		(property "Value" "2K2 0805"
 			(at 74.93 109.22 0)
 			(effects
 				(font
@@ -38380,7 +38002,7 @@
 		(dnp no)
 		(uuid "4da7087b-e138-45bf-89d6-dd41ab7cf5f9")
 		(property "Reference" "R53"
-			(at 77.47 135.89 0)
+			(at 77.47 133.096 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38388,7 +38010,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2K 0805"
+		(property "Value" "470 0805"
 			(at 74.93 135.89 0)
 			(effects
 				(font
@@ -39600,7 +39222,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Power-5V")
-		(at 118.11 78.74 0)
+		(at 130.81 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39608,7 +39230,7 @@
 		(dnp no)
 		(uuid "5c8e26b8-426b-4c5b-a2d1-836ecbc557ff")
 		(property "Reference" "#PWR0154"
-			(at 118.11 78.74 0)
+			(at 130.81 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39617,7 +39239,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 118.11 73.66 0)
+			(at 130.81 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39625,7 +39247,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 118.11 78.74 0)
+			(at 130.81 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39634,7 +39256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 78.74 0)
+			(at 130.81 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39643,7 +39265,7 @@
 			)
 		)
 		(property "Description" "Power-5V"
-			(at 118.11 78.74 0)
+			(at 130.81 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39652,7 +39274,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 118.11 78.74 0)
+			(at 130.81 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40167,6 +39789,188 @@
 		)
 	)
 	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 91.44 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "61ea0656-f527-4e08-a05b-67acb8aa7f7b")
+		(property "Reference" "R62"
+			(at 89.408 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "100 0805"
+			(at 86.36 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 91.44 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d45fe687-db46-4ac7-81b9-564a11e39a65")
+		)
+		(pin "2"
+			(uuid "de0d01ad-77b3-4ac7-a005-319173ecd4ca")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
 		(at 424.18 38.1 180)
 		(unit 1)
@@ -40291,6 +40095,188 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "#PWR0151")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 91.44 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6487307e-0b79-4cdb-8c09-a0a57c279dd4")
+		(property "Reference" "R58"
+			(at 89.408 79.502 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "300 0805"
+			(at 86.36 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 91.44 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fb39962-71c5-47d0-a6de-f3b77f2ec5a6")
+		)
+		(pin "2"
+			(uuid "630bdcbc-b264-44f4-b7ef-e8afbd3cc473")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R58")
 					(unit 1)
 				)
 			)
@@ -42810,226 +42796,6 @@
 		)
 	)
 	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:VG039NCHXTB153")
-		(at 80.01 86.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "70236a29-9cf6-434c-9707-64c502df1e4a")
-		(property "Reference" "R11"
-			(at 77.47 91.4654 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "2K"
-			(at 72.39 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "HDK(北陆电气)"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C128547"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "15kΩ±25%"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mpn" "VG039NCHXTB153"
-			(at 80.01 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "4108a311-bcad-4b17-add4-97e9a0ea7d7f")
-		)
-		(pin "1"
-			(uuid "38bcee8c-f8e2-42f1-a9f6-60fa88908d6e")
-		)
-		(pin "3"
-			(uuid "f3c66121-4729-416b-b438-5d37b6b17217")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "R11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
 		(at 233.68 113.03 0)
 		(unit 1)
@@ -44020,7 +43786,7 @@
 		(dnp no)
 		(uuid "773216b8-520c-4619-bea8-ca8edd846b7a")
 		(property "Reference" "R49"
-			(at 77.47 82.55 0)
+			(at 77.978 79.502 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44028,8 +43794,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "15K 0805"
-			(at 72.39 82.55 0)
+		(property "Value" "2K2 0805"
+			(at 75.184 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44166,6 +43932,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" ""
+			(at 80.01 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -44553,7 +44328,7 @@
 		(dnp no)
 		(uuid "7a6a0d24-fc22-4ce7-8544-b770b313d25d")
 		(property "Reference" "R52"
-			(at 77.47 121.92 0)
+			(at 77.724 119.126 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44561,8 +44336,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "15K 0805"
-			(at 72.39 123.19 0)
+		(property "Value" "470 0805"
+			(at 74.93 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44711,6 +44486,179 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "R52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 91.44 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a7fee2c-51cd-4606-bd6c-d8b8f8c3ad3c")
+		(property "Reference" "R63"
+			(at 89.408 148.082 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1K 0805"
+			(at 87.63 150.622 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 91.44 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a9cdbfdd-9968-40b0-929d-fa7e19341076")
+		)
+		(pin "2"
+			(uuid "877e1f04-e7a0-4d6b-87d8-e56835886fef")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R63")
 					(unit 1)
 				)
 			)
@@ -46551,7 +46499,7 @@
 		(dnp no)
 		(uuid "867bb804-391e-4e03-882d-d98fd8d2614d")
 		(property "Reference" "R54"
-			(at 77.47 151.13 0)
+			(at 77.47 148.336 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46559,8 +46507,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "15K 0805"
-			(at 72.39 151.13 0)
+		(property "Value" "4K7 0805"
+			(at 75.692 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49520,226 +49468,6 @@
 		)
 	)
 	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:VG039NCHXTB153")
-		(at 80.01 127 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a9a2b82c-b251-4305-a738-0e869cc385b4")
-		(property "Reference" "R14"
-			(at 77.47 132.1054 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "15K"
-			(at 72.39 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "HDK(北陆电气)"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C128547"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "15kΩ±25%"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mpn" "VG039NCHXTB153"
-			(at 80.01 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "d6c0a189-7351-4ab5-b66b-92fa5ff85171")
-		)
-		(pin "1"
-			(uuid "c3ee8f6f-7561-4752-ad05-98414ab79201")
-		)
-		(pin "3"
-			(uuid "b3b6e9ee-3edf-4b53-b05e-bdcfd7c4d32c")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
 		(at 391.16 454.66 0)
 		(unit 1)
@@ -50706,6 +50434,179 @@
 		)
 	)
 	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 80.01 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b04b6e5f-4023-42e9-a5d0-db9112889495")
+		(property "Reference" "R59"
+			(at 77.978 88.392 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "1K 0805"
+			(at 76.2 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 80.01 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35160cd2-d903-4210-a2fe-b4e03c75e419")
+		)
+		(pin "2"
+			(uuid "b880a2f6-0f53-4670-a026-67072826131e")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:IRLML2502")
 		(at 368.3 290.83 90)
 		(unit 1)
@@ -51203,227 +51104,6 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "#PWR0156")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:VG039NCHXTB153")
-		(at 80.01 111.76 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b2f842c9-432e-4361-984d-19f1c44a37d9")
-		(property "Reference" "R13"
-			(at 77.47 116.8654 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "15K"
-			(at 72.39 116.84 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "HDK(北陆电气)"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C128547"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "C128547"
-			(at 80.01 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mpn" "VG039NCHXTB153"
-			(at 80.01 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9875a586-09ff-44b3-b8c9-cc82668965b0")
-		)
-		(pin "1"
-			(uuid "a46b767d-c255-42f1-9ea1-b6d124043bc7")
-		)
-		(pin "3"
-			(uuid "a1f14001-731d-43f3-91f0-0e4dab6362be")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -52598,226 +52278,6 @@
 		)
 	)
 	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:VG039NCHXTB153")
-		(at 80.01 140.97 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c15374ba-370b-4e81-9478-b93c3122bcca")
-		(property "Reference" "R12"
-			(at 77.47 146.0754 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "15K"
-			(at 72.39 146.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "HDK(北陆电气)"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C128547"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "15kΩ±25%"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mpn" "VG039NCHXTB153"
-			(at 80.01 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cab3515d-8efc-436b-96a7-56877b4a842c")
-		)
-		(pin "3"
-			(uuid "1d63607b-9882-47c9-9b8e-80e4588cac8e")
-		)
-		(pin "2"
-			(uuid "0c4b133e-daa7-4716-aef1-2876664b3bb4")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
 		(at 394.97 494.03 180)
 		(unit 1)
@@ -53392,7 +52852,7 @@
 		(dnp no)
 		(uuid "c859b39e-08af-481d-b71e-e106c2926ab1")
 		(property "Reference" "R50"
-			(at 77.47 96.52 0)
+			(at 77.978 93.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53400,8 +52860,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "2K 0805"
-			(at 74.93 96.52 0)
+		(property "Value" "10K 0805"
+			(at 75.692 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53790,6 +53250,188 @@
 			(project "V1.4-Wifi"
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 91.44 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cb32f8af-f0ea-4b96-b9a3-c8dab9120f6b")
+		(property "Reference" "R60"
+			(at 89.408 106.172 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "300 0805"
+			(at 86.36 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 91.44 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "196f2809-81b1-47f3-8c89-48612b6da6f4")
+		)
+		(pin "2"
+			(uuid "3af50d14-c5ab-4408-a372-1ed9789b01c2")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -58984,226 +58626,6 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "LED9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:VG039NCHXTB153")
-		(at 80.01 72.39 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed59ae47-c10d-4991-aaa4-d12410633cb1")
-		(property "Reference" "R10"
-			(at 77.47 77.4954 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "15K"
-			(at 72.39 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:RES-ADJ-SMD_VG039NCHXTB153"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20170824/C128547_1503566142591907481.pdf"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistance: Tolerance:±25% Tolerance:±25%"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "HDK(北陆电气)"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C128547"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "15kΩ±25%"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mpn" "VG039NCHXTB153"
-			(at 80.01 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "096eb0e0-4975-43bb-8385-164bef7f4df7")
-		)
-		(pin "2"
-			(uuid "ff9dd552-66a1-462f-9051-d3a05c3f34f8")
-		)
-		(pin "1"
-			(uuid "c13ecd29-2c9c-4b0d-88e0-dbb8ebacbabb")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "R10")
 					(unit 1)
 				)
 			)
