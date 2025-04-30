@@ -37528,7 +37528,7 @@
 				)
 			)
 		)
-		(property "Value" "750 0805"
+		(property "Value" "750R 0805"
 			(at 0 1.65 270)
 			(layer "F.Fab")
 			(uuid "d815c7a9-1826-4d08-a55a-1f864add88ca")
@@ -51509,7 +51509,7 @@
 				)
 			)
 		)
-		(property "Value" "150 0805"
+		(property "Value" "150R 0805"
 			(at 0 1.65 270)
 			(layer "F.Fab")
 			(uuid "7ad701b6-e338-4ec2-b93b-f455f085ece0")
@@ -69931,7 +69931,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "1K 0805"
+		(property "Value" "2K2 0805"
 			(at 0 -1.65 90)
 			(layer "B.Fab")
 			(uuid "788e1c53-6f32-450c-987a-437a2897d89b")
@@ -71579,7 +71579,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "3K6 0805"
+		(property "Value" "3K3 0805"
 			(at 0 -1.65 270)
 			(layer "B.Fab")
 			(uuid "2176643a-d492-4318-820f-96d1c85d037f")
