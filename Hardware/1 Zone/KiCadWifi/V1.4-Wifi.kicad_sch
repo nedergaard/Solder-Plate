@@ -11367,6 +11367,12 @@
 		(uuid "306043f4-fd80-4971-a9c2-45b57047f4ec")
 	)
 	(junction
+		(at 254 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31ef4429-d9a6-40f3-aca6-ff115ca38c1d")
+	)
+	(junction
 		(at 328.93 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11941,6 +11947,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f676d63b-8d2c-47f8-a8e9-505f7c2bbc71")
+	)
+	(junction
+		(at 254 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fab1ee1d-8580-46c3-bba6-bba861e17a39")
 	)
 	(junction
 		(at 71.12 83.82)
@@ -14256,7 +14268,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 67.31) (xy 261.62 67.31)
+			(xy 219.71 67.31) (xy 254 67.31)
 		)
 		(stroke
 			(width 0)
@@ -14966,6 +14978,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 67.31) (xy 261.62 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bae53f83-8a05-47ac-8163-0a737bd1bc62")
+	)
+	(wire
+		(pts
 			(xy 368.3 303.53) (xy 368.3 295.91)
 		)
 		(stroke
@@ -14983,6 +15005,16 @@
 			(type default)
 		)
 		(uuid "bca62268-05bf-4d5e-ba95-573f29acb7c3")
+	)
+	(wire
+		(pts
+			(xy 254 77.47) (xy 254 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcf3627a-a754-4bc9-9681-56f6dc74c2e5")
 	)
 	(wire
 		(pts
@@ -47507,6 +47539,179 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
+		(at 254 72.39 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9038e455-a9e3-4023-96c3-140f8d11926b")
+		(property "Reference" "R56"
+			(at 256.54 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+			)
+		)
+		(property "Value" "4K7 0805"
+			(at 256.54 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right top)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "@Create Date" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Count" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page Name" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Page No" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Project Name" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Schematic Name" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "@Update Date" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Company" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Drawed" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Page Size" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Reviewed" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Version" ""
+			(at 254 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "11532af2-720c-4fd7-851e-f3e1c28b095a")
+		)
+		(pin "2"
+			(uuid "09f2c4f9-0570-4ab8-b080-bbebd0c3724d")
+		)
+		(instances
+			(project "V1.4-Wifi"
+				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
+					(reference "R56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "V1.4-Wifi-easyedapro:Res")
 		(at 414.02 444.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -52055,7 +52260,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "47R 0805"
+		(property "Value" "4K7 0805"
 			(at 264.16 74.93 90)
 			(effects
 				(font
@@ -56950,7 +57155,7 @@
 			)
 		)
 		(property "Value" "DMPH4015SSSQ-13"
-			(at 246.38 86.36 90)
+			(at 234.188 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
