@@ -2261,7 +2261,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x07 P2.54 vertical tall"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "525e9bfb-6e0d-4506-bc00-f1cdf119997b")
@@ -3544,7 +3544,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x03 P2.54 vertical tall"
 			(at 0 0 270)
 			(layer "F.Fab")
 			(uuid "f95d10fb-bdf6-4b54-88c0-3acb6a39707b")
@@ -18647,7 +18647,7 @@
 				)
 			)
 		)
-		(property "Value" "Pinheader 1x02 P2.54 Horizontal"
+		(property "Value" "Pinheader 1x12 P2.54 Horizontal"
 			(at 4.385 30.21 0)
 			(layer "F.Fab")
 			(uuid "45bb2b51-6cd4-4a0d-a970-ab01edf824b0")
@@ -28533,7 +28533,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x03 P2.54 vertical tall"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b8d40869-3b5d-4331-81cc-d9e6722c80d5")
@@ -46088,7 +46088,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x08 P2.54 vertical tall"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(uuid "c561323a-f4d6-4e57-a0e4-c5f4a6b7a491")
@@ -51009,7 +51009,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x04 P2.54 vertical tall"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "cb04a013-13d3-4249-b2f4-82f32ac170d0")

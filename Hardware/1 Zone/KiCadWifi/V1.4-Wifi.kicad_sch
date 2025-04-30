@@ -30304,7 +30304,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x03 P2.54 vertical tall"
 			(at 194.31 279.4 0)
 			(effects
 				(font
@@ -33636,7 +33636,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x07 P2.54 vertical tall"
 			(at 114.3 289.56 0)
 			(effects
 				(font
@@ -35511,7 +35511,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "Pinheader 1x02 P2.54 Horizontal"
+		(property "Value" "Pinheader 1x12 P2.54 Horizontal"
 			(at 157.48 97.79 0)
 			(effects
 				(font
@@ -45257,7 +45257,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x04 P2.54 vertical tall"
 			(at 307.34 142.24 0)
 			(effects
 				(font
@@ -54721,7 +54721,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x08 P2.54 vertical tall"
 			(at 50.8 289.56 0)
 			(effects
 				(font
@@ -55453,7 +55453,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Female 1x03 P2.54 vertical tall"
 			(at 345.44 142.24 0)
 			(effects
 				(font
