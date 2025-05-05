@@ -5302,7 +5302,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5328,7 +5328,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5549,7 +5549,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7602,7 +7602,7 @@
 				)
 			)
 		)
-		(property "Value" "1K 0805"
+		(property "Value" "100R 0805"
 			(at 0 1.65 270)
 			(layer "F.Fab")
 			(uuid "58fb1eb6-82db-4c87-80ba-823869d67fc7")
@@ -7801,6 +7801,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3c07299e-b355-4526-a413-224cec7cac0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6b9be06f-b213-4475-8f89-24174fff7534")
 			(effects
 				(font
 					(size 1 1)
@@ -13684,7 +13697,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13710,7 +13723,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13931,7 +13944,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21706,7 +21719,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21732,7 +21745,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -21953,7 +21966,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25664,7 +25677,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25690,7 +25703,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25911,7 +25924,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -49399,6 +49412,19 @@
 				)
 			)
 		)
+		(property "MPN" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ee5ebb5-48b7-4af2-a2e5-b922158532c3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1089f9fc-1148-44ea-8d99-74a0d4839a2f")
 		(sheetname "/")
 		(sheetfile "V1.4-Wifi.kicad_sch")
@@ -53036,7 +53062,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "f21c0d25-b8aa-4f4b-aefb-83e7bc79e98e")
+			(uuid "4705441e-f463-47f8-86b7-03edb28c5c7e")
 		)
 		(pad "6" smd roundrect
 			(at -1.2 0 90)
@@ -53046,7 +53072,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "f21c0d25-b8aa-4f4b-aefb-83e7bc79e98e")
+			(uuid "91788b66-ac2f-4503-9d0e-90f36029ebf9")
 		)
 		(pad "6" smd roundrect
 			(at 1.2 0 90)
@@ -53056,7 +53082,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "f21c0d25-b8aa-4f4b-aefb-83e7bc79e98e")
+			(uuid "a033b2ec-fb2f-4537-92b6-3facdf399aad")
 		)
 		(pad "6" smd roundrect
 			(at 3.2 -2.45 90)
@@ -53066,7 +53092,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "f21c0d25-b8aa-4f4b-aefb-83e7bc79e98e")
+			(uuid "13c54bb0-255c-4ead-9780-91051b55164c")
 		)
 		(pad "6" thru_hole oval
 			(at 3.3 0 180)
@@ -53078,7 +53104,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "f21c0d25-b8aa-4f4b-aefb-83e7bc79e98e")
+			(uuid "98fb046c-8c53-4cbc-a433-d0401b080c31")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118193-0001LF_Horizontal.wrl"
@@ -72645,7 +72671,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "5cc297e7-cedb-448b-bbbd-8efdf0ac27a9")
+			(uuid "a6531610-7e83-4b55-8e0c-80d6ba392635")
 		)
 		(pad "6" smd roundrect
 			(at 1.2 0 90)
@@ -72655,7 +72681,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "5cc297e7-cedb-448b-bbbd-8efdf0ac27a9")
+			(uuid "33613ca2-739d-4a79-bda0-b3efe15634f7")
 		)
 		(pad "6" smd roundrect
 			(at 1.2 0 90)
@@ -72665,7 +72691,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "5cc297e7-cedb-448b-bbbd-8efdf0ac27a9")
+			(uuid "77b1f7da-c157-47cb-b14f-ab44b78f6c72")
 		)
 		(pad "6" smd roundrect
 			(at 3.2 2.45 90)
@@ -72675,7 +72701,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "5cc297e7-cedb-448b-bbbd-8efdf0ac27a9")
+			(uuid "cd56ddd3-8d04-4fbc-94bf-0380873233a9")
 		)
 		(pad "6" thru_hole oval
 			(at 3.3 0)
@@ -72687,7 +72713,7 @@
 			(net 1 "GND")
 			(pinfunction "EH")
 			(pintype "input")
-			(uuid "5cc297e7-cedb-448b-bbbd-8efdf0ac27a9")
+			(uuid "a5aea296-de8b-40e1-9579-914b145f301d")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_Micro-B_Amphenol_10118193-0001LF_Horizontal.wrl"
@@ -94966,7 +94992,7 @@
 		)
 		(polygon
 			(pts
-				(xy 149 66.3) (xy 149 75.65) (xy 151.95 75.65) (xy 151.95 75.65) (xy 155.55 75.65) (xy 155.55 66.3)
+				(xy 149 66.3) (xy 149 75.65) (xy 151.95 75.65) (xy 155.55 75.65) (xy 155.55 66.3)
 			)
 		)
 		(filled_polygon

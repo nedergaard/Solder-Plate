@@ -10692,7 +10692,7 @@
 	)
 	(text "Vout = 1.25(1 + (R7+R57)/R8)"
 		(exclude_from_sim no)
-		(at 364.49 116.84 0)
+		(at 365.506 108.712 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14578,6 +14578,16 @@
 	)
 	(wire
 		(pts
+			(xy 386.08 132.08) (xy 386.08 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7103bf6-a48c-4687-a88f-12b405cef4a9")
+	)
+	(wire
+		(pts
 			(xy 195.58 87.63) (xy 193.04 87.63)
 		)
 		(stroke
@@ -14795,6 +14805,16 @@
 			(type default)
 		)
 		(uuid "c2c63aff-aefc-4044-b1af-20ffef3120c0")
+	)
+	(wire
+		(pts
+			(xy 386.08 124.46) (xy 386.08 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c51101a4-4a2b-4d2d-9886-f4c731b016ee")
 	)
 	(wire
 		(pts
@@ -24157,7 +24177,43 @@
 			"acGAwtU9mybEQazjaMGAwtU9aljEQZP8aMGAwtU95k7EQa1IacGAwtU940rEQbVFacGAwtU9bVzE"
 			"QYv/aMGAwtU9VHXEQXMYacGAwtU9ymPEQZ1eacGAwtU9sV7EQUNXacGAwtU9bXrEQc0facGAwtU9"
 			"4IbEQbQ4acGAwtU9JGvEQSpwacGAwtU9eGfEQfplacGAwtU9jIrEQeRCacGAwtU9AJfEQbJ0acGA"
-			"wtU97HPEQciXacGAwtU92nHEQT2GacGAwtU9EpnEQT2GacGAwtU9EpnEQQu4acGAwg=="
+			"wtU97HPEQciXacGAwtU92nHEQT2GacGAwtU9EpnEQT2GacGAwtU9EpnEQQu4acGAwgAAAAAAAAAA"
+			"AAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwAA"
+			"AAAAAAAAAAAAAAAAAAAHAORdAAAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"rxOQAX8ADwAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAA"
+			"AAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAA"
+			"AAB/AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AAAAAAAA"
+			"AAAAAAAAAAAAAAcA5F4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACvU5AB"
+			"fwAPAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAA"
+			"AAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8A"
+			"AAAAAAAAAAAAAAAAAAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAA"
+			"AAAAAAAABwDkXwAAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAK9TkAF/AA8A"
+			"AAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAA"
+			"AAAAfwAAAAAAAAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwAAAAAA"
+			"AAAAAAAAAAAAAH8A5AAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAA"
+			"AAAHAORgAAAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAr1OQAX8ADwAAAAAA"
+			"AAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/"
+			"AAAAAAAAAAAAAAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AAAAAAAAAAAA"
+			"AAAAAAAAfwDkAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAB/AAAAAAAAAAAAAAAAAAAAAAcA"
+			"5GEAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACnQIABfwAPAD4BAD/ThLwA"
+			"oAwmhDwCAAAQ7kpxOwIAAAAAAAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8AAAAA"
+			"AAAAAAAAAAAAAAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAA"
+			"AAB/AOQAAAAAAAAAAAAAAAAAfwAAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAAAAAAAABwDk////"
+			"/wIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAEAMVr/vAAQ4F1+"
+			"PAIAAFC7kLM8AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
 		)
 	)
 	(image
@@ -27153,7 +27209,43 @@
 			"Zm9udChzaXplIDEuMjcgMS4yNykpKGhpZGUgeWVzKSkpKHByb3BlcnR5ICAiTWFudWZhY3R1cmVy"
 			"IiAiSlNNU0VNSSjmnbDnm5vlvq4pIiAoYXQgMCAwIDApKGVmZmVjdHMoZm9udChzaXplIDEuMjcg"
 			"MS4yNykpKGhpZGUgeWVzKSkpKHByb3BlcnR5ICAiU3VwcGxpZXIgUGFydCIgIkM5MTcxNTMiIChh"
-			"dCAwIA=="
+			"dCAwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+			"AAAAAAAAAAAAAAAAAAAA/////wAAAAAAAAAArwEArnvalwCAcB1NOwIAANCcghs8AgAADAAAAAAA"
+			"AABAFaNIOwIAAAEAAAAAAAAAAgAAAAAAAAADAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAGAAAAAAAA"
+			"AAcAAAAAAAAACAAAAAAAAAAJAAAAAAAAAAoAAAAAAAAACwAAAAAAAAAMAAAAAAAAAA0AAAAAAAAA"
+			"DgAAAAAAAAAPAAAAAAAAABAAAAAAAAAAEQAAAAAAAAASAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAV"
+			"AAAAAAAAADQAAAAAAAAAFgAAAAAAAAAXAAAAAAAAABgAAAAAAAAAGQAAAAAAAAAaAAAAAAAAABsA"
+			"AAAAAAAAHAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAgAAAAAAAAACEAAAAAAAAAIgAA"
+			"AAAAAAAjAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAmAAAAAAAAACcAAAAAAAAAKAAAAAAAAAApAAAA"
+			"AAAAACoAAAAAAAAAKwAAAAAAAAAAAAAAAAAAAC0AAAAAAAAALgAAAAAAAAAvAAAAAAAAADAAAAAA"
+			"AAAAMQAAAAAAAAAyAAAAAAAAADMAAAAAAAAACgIAAAAAAAA1AAAAAAAAADYAAAAAAAAANwAAAAAA"
+			"AAA4AAAAAAAAADkAAAAAAAAAOgAAAAAAAAA7AAAAAAAAADwAAAAAAAAAPQAAAAAAAAA+AAAAAAAA"
+			"ACwAAAAAAAAAQAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAQwAAAAAAAABEAAAAAAAAAEUAAAAAAAAA"
+			"RgAAAAAAAABHAAAAAAAAAEgAAAAAAAAASQAAAAAAAABKAAAAAAAAAEsAAAAAAAAATAAAAAAAAABN"
+			"AAAAAA=="
 		)
 	)
 	(label "ESP_ENABLE"
@@ -31812,6 +31904,16 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 433.07 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "6"
@@ -33936,7 +34038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100 0805"
+		(property "Value" "100R 0805"
 			(at 86.36 121.92 0)
 			(effects
 				(font
@@ -38866,7 +38968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -38884,7 +38986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -39024,7 +39126,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 265.43 90.17 0)
 			(effects
 				(font
@@ -39806,7 +39908,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100 0805"
+		(property "Value" "100R 0805"
 			(at 86.36 135.89 0)
 			(effects
 				(font
@@ -40118,7 +40220,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "300 0805"
+		(property "Value" "300R 0805"
 			(at 86.36 82.55 0)
 			(effects
 				(font
@@ -40514,7 +40616,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:TC212B107M010B")
-		(at 386.08 127 90)
+		(at 386.08 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40522,7 +40624,7 @@
 		(dnp no)
 		(uuid "674d53f3-8d1a-4a71-9954-283db765ab71")
 		(property "Reference" "C7"
-			(at 381 125.73 90)
+			(at 381 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40531,7 +40633,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 378.46 129.54 90)
+			(at 378.46 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40540,7 +40642,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:CAP-SMD_L3.5-W2.8-R-RD"
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40549,7 +40651,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/2/447/KEM_T2005_T491-3316937.pdf"
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40558,7 +40660,7 @@
 			)
 		)
 		(property "Description" "Capacitance: Tolerance:±20% Tolerance:±20% Rated Voltage: Equivalent Series Resistance(ESR):1Ω@100kHz Operating Temperature:-55°C~+125°C Operating Temperature:-55°C~+125°C"
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40567,7 +40669,7 @@
 			)
 		)
 		(property "Manufacturer" "KEMET"
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40576,7 +40678,7 @@
 			)
 		)
 		(property "Supplier Part" "C124859"
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40585,7 +40687,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40594,7 +40696,7 @@
 			)
 		)
 		(property "LCSC Part Name" "100uF ±20% 16V"
-			(at 386.08 127 90)
+			(at 386.08 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40604,7 +40706,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40612,7 +40714,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40620,7 +40722,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40628,7 +40730,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40636,7 +40738,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40644,7 +40746,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40652,7 +40754,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40660,7 +40762,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40668,7 +40770,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40676,7 +40778,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40684,7 +40786,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40692,7 +40794,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40700,7 +40802,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 386.08 127 0)
+			(at 386.08 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40708,7 +40810,7 @@
 			)
 		)
 		(property "mpn" "T491B107M010AT"
-			(at 386.08 127 0)
+			(at 389.89 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42054,6 +42156,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -42896,7 +42999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 303.53 90.17 0)
 			(effects
 				(font
@@ -42914,7 +43017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 303.53 90.17 0)
 			(effects
 				(font
@@ -43054,7 +43157,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 303.53 90.17 0)
 			(effects
 				(font
@@ -45217,7 +45320,7 @@
 			)
 		)
 		(property "mpn" "MSS1048-104MLC"
-			(at 393.7 123.19 0)
+			(at 393.7 119.888 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46085,7 +46188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 290.83 90.17 0)
 			(effects
 				(font
@@ -46103,7 +46206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 290.83 90.17 0)
 			(effects
 				(font
@@ -46243,7 +46346,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 290.83 90.17 0)
 			(effects
 				(font
@@ -48049,7 +48152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1209.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 278.13 90.17 0)
 			(effects
 				(font
@@ -48067,7 +48170,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Panasonic"
+		(property "Manufacturer" "Rubycon"
 			(at 278.13 90.17 0)
 			(effects
 				(font
@@ -48207,7 +48310,7 @@
 				)
 			)
 		)
-		(property "mpn" "EEUFC1V681L"
+		(property "mpn" "35ZLH680MEFC10X23"
 			(at 278.13 90.17 0)
 			(effects
 				(font
@@ -53273,7 +53376,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "300 0805"
+		(property "Value" "300R 0805"
 			(at 86.36 109.22 0)
 			(effects
 				(font
@@ -53456,7 +53559,7 @@
 			)
 		)
 		(property "Value" "220pF 0805"
-			(at 407.67 134.62 90)
+			(at 408.686 134.112 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54150,7 +54253,7 @@
 		(dnp no)
 		(uuid "cf73908d-f504-4f96-8455-d7deb1736392")
 		(property "Reference" "R6"
-			(at 445.77 121.92 0)
+			(at 446.786 123.952 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54159,7 +54262,7 @@
 			)
 		)
 		(property "Value" "0.33 0805"
-			(at 445.77 127 0)
+			(at 450.85 122.682 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60849,7 +60952,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "1K 0805"
+		(property "Value" "100R 0805"
 			(at 233.68 307.34 90)
 			(effects
 				(font
@@ -60987,6 +61090,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MPN" ""
+			(at 231.14 304.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
