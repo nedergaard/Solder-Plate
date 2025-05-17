@@ -1326,205 +1326,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "V1.4-Wifi-easyedapro:220S-1*7P H=8.5MM Ytype Gold-plated"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "V1.4-Wifi-easyedapro:HDR-TH_7P-P2.54-V-F"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "220S-1*7P H=8.5MM Ytype Gold-plated_1_0"
-				(rectangle
-					(start -1.27 -10.668)
-					(end 4.572 10.16)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -0.508 9.398)
-					(radius 0.381)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin input line
-					(at -3.81 7.62 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 5.08 0)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 2.54 0)
-					(length 2.54)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 -2.54 0)
-					(length 2.54)
-					(name "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 -5.08 0)
-					(length 2.54)
-					(name "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 -7.62 0)
-					(length 2.54)
-					(name "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "V1.4-Wifi-easyedapro:A2541HWR-2X4P"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -10653,9 +10454,9 @@
 		)
 		(uuid "4bd2ddf6-e17a-4ef1-b877-7bc78e590519")
 	)
-	(text "TFT Connector 7Pin"
+	(text "TFT Connector 7Pin (removed for EMC reasons)"
 		(exclude_from_sim no)
-		(at 114.3 274.32 0)
+		(at 94.488 274.066 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28017,26 +27818,6 @@
 			)
 		)
 	)
-	(global_label "TFT_CS_OUT"
-		(shape output)
-		(at 105.41 281.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3a18205d-ac93-47ef-8367-e65b283c0e4c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "THERMISTOR4"
 		(shape input)
 		(at 92.71 118.11 0)
@@ -28477,26 +28258,6 @@
 			)
 		)
 	)
-	(global_label "TFT_RST_OUT"
-		(shape output)
-		(at 105.41 287.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "61dbdb98-0c61-4c60-b296-fe624b5f58a9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VUSB"
 		(shape input)
 		(at 334.01 195.58 180)
@@ -28529,26 +28290,6 @@
 		(uuid "6421730a-ee8a-4d3b-93fd-7b6b95cc1693")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 69.85 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TFT_DC_OUT"
-		(shape output)
-		(at 105.41 284.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "65ad2730-8fa5-4496-b64d-0f7df5926683")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28729,26 +28470,6 @@
 		(uuid "7cf819bc-5b65-41c6-a58b-54a7baf0e4ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 426.72 504.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_SI_OUT"
-		(shape output)
-		(at 105.41 289.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "80272fa1-6737-45b8-b046-ae2129f167d2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 289.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28949,26 +28670,6 @@
 		(uuid "8b45ba29-16dc-4010-a4ee-a887cc05fe47")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 350.52 436.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "3.3V"
-		(shape input)
-		(at 105.41 294.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8b59e2be-3d9d-4c94-b30c-1b19d03939c2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 294.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29389,26 +29090,6 @@
 		(uuid "a82a7ceb-2a50-4503-96a0-05145832da6b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 41.91 285.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LCD_SCK_OUT"
-		(shape output)
-		(at 105.41 292.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a8e81f99-6629-4bde-95ef-242227f038f9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33936,244 +33617,6 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "#PWR0129")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:220S-1*7P H=8.5MM Ytype Gold-plated")
-		(at 101.6 289.56 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1e51f859-6662-4347-a9cb-55d2401e1a29")
-		(property "Reference" "H10"
-			(at 96.52 278.13 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-			)
-		)
-		(property "Value" "Female 1x07 P2.54 vertical tall"
-			(at 101.854 289.814 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:HDR-TH_7P-P2.54-V-F"
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB Part Class" "Extended Part"
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "Ckmtw(灿科盟)"
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C124418"
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 0.8382 0.8382)
-				)
-				(justify right top)
-				(hide yes)
-			)
-		)
-		(property "@Create Date" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Count" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page Name" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Page No" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Project Name" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Schematic Name" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "@Update Date" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Company" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Drawed" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Page Size" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Part Number" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Reviewed" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Version" ""
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "mpn" "B-2200S07P-A120"
-			(at 101.6 289.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f433a9a6-7f1f-4cfa-a0c4-d9b364c3aa4e")
-		)
-		(pin "2"
-			(uuid "69bd46cc-f252-42de-87b4-986daed0354a")
-		)
-		(pin "3"
-			(uuid "31ee3369-6ab2-4794-901c-45bb550e9fca")
-		)
-		(pin "7"
-			(uuid "2b4c1821-c662-4304-b599-2c4cb639d970")
-		)
-		(pin "6"
-			(uuid "f00deb25-01a2-459e-a2a0-a7ab7bafc842")
-		)
-		(pin "4"
-			(uuid "f086014a-ac11-45fe-83d6-f514a5aeb930")
-		)
-		(pin "5"
-			(uuid "08abe8b7-06f9-45ca-9ace-d3d575273d5e")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "H10")
 					(unit 1)
 				)
 			)
@@ -49262,71 +48705,6 @@
 			(project ""
 				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
 					(reference "C28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
-		(at 105.41 297.18 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a02c563a-770c-44d7-a550-2b550182dbc1")
-		(property "Reference" "#PWR0141"
-			(at 105.41 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 105.41 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 105.41 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 105.41 297.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2c6cd226-7713-44e9-a5e0-25d51a1e9e9b")
-		)
-		(instances
-			(project ""
-				(path "/4c06d08c-9880-463b-9fa8-18e0dc66965f"
-					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
