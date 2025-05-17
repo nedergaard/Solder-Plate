@@ -43,8 +43,8 @@ StopWatch thermMilisTimer = StopWatch();
 void setup()
 {
 
-  pinMode(MOSTFET_PIN, OUTPUT);
-  analogWrite(MOSTFET_PIN, 255); // VERY IMPORTANT, DONT CHANGE! 255=off, 0=full power
+  pinMode(GATE_PIN, OUTPUT);
+  analogWrite(GATE_PIN, 255); // VERY IMPORTANT, DONT CHANGE! 255=off, 0=full power
 
   Serial.begin(38400);
 

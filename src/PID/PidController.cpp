@@ -1,6 +1,6 @@
 #include "PidController.h"
 #include "globals.h"
-#define MOSTFET_PIN 17
+#define GATE_PIN 17
 #include "voltageReference/AnalogRef.h"
 #include "thermistors/TemperatureController.h"
 
@@ -52,7 +52,7 @@ void PidController::loop()
 
     // Reverseal of the PWM value is needed because the PID controller is set to work with a normal direction, Creates for a better PID control
     // 255= off, 0=full power
-    analogWrite(MOSTFET_PIN, 255 - data->setPoint);
+    analogWrite(GATE_PIN, 255 - data->setPoint);
 }
 
 void PidController::stop()
@@ -60,7 +60,7 @@ void PidController::stop()
     data->targetTemp = 0; // should not be needed but why not? --- Its needed it randomly starts again and sometimes goes to heat the plate
                           // STOP --> Always use analog write for sanity- Keep PWM pins labled analogWrite -- Writing it LOW will KEEP IT ON
 
-    analogWrite(MOSTFET_PIN, 255); // VERY IMPORTANT, DONT CHANGE!
+    analogWrite(GATE_PIN, 255); // VERY IMPORTANT, DONT CHANGE!
     controller.reset();
     controller.stop();
 }
