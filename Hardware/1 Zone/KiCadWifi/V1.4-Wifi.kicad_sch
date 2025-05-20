@@ -27198,7 +27198,7 @@
 			)
 		)
 	)
-	(global_label "LCD_LED"
+	(global_label "TFT_LED"
 		(shape input)
 		(at 41.91 280.67 0)
 		(effects
@@ -27518,7 +27518,7 @@
 			)
 		)
 	)
-	(global_label "LCD_LED"
+	(global_label "TFT_LED"
 		(shape output)
 		(at 36.83 200.66 90)
 		(effects
@@ -28138,7 +28138,7 @@
 			)
 		)
 	)
-	(global_label "LCD_SI_OUT"
+	(global_label "TFT_SI_OUT"
 		(shape output)
 		(at 50.8 200.66 90)
 		(effects
@@ -28618,7 +28618,7 @@
 			)
 		)
 	)
-	(global_label "LCD_SCK_OUT"
+	(global_label "TFT_SCK_OUT"
 		(shape output)
 		(at 41.91 288.29 0)
 		(effects
@@ -29078,7 +29078,7 @@
 			)
 		)
 	)
-	(global_label "LCD_SI_OUT"
+	(global_label "TFT_SI_OUT"
 		(shape output)
 		(at 41.91 285.75 0)
 		(effects
@@ -29898,7 +29898,7 @@
 			)
 		)
 	)
-	(global_label "LCD_SCK_OUT"
+	(global_label "TFT_SCK_OUT"
 		(shape output)
 		(at 57.15 200.66 90)
 		(effects
