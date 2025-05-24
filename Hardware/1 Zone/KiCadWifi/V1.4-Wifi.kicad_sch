@@ -10022,7 +10022,7 @@
 	)
 	(rectangle
 		(start 316.23 269.24)
-		(end 378.46 322.58)
+		(end 378.46 325.12)
 		(stroke
 			(width 0)
 			(type default)
@@ -10142,7 +10142,7 @@
 	)
 	(rectangle
 		(start 381 269.24)
-		(end 444.5 334.01)
+		(end 444.5 325.12)
 		(stroke
 			(width 0)
 			(type default)
@@ -10202,7 +10202,7 @@
 	)
 	(rectangle
 		(start 246.38 269.24)
-		(end 314.96 334.01)
+		(end 314.96 325.12)
 		(stroke
 			(width 0)
 			(type default)
@@ -10354,18 +10354,6 @@
 		)
 		(uuid "27743b03-07e1-406c-b6ba-da503af93400")
 	)
-	(text "Changed mosfet to AOD4184A\nOld one kept shorting"
-		(exclude_from_sim no)
-		(at 213.36 163.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 0 0 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "325901a0-5305-43b6-ba74-ec56d7a68b28")
-	)
 	(text "UPDI PROG"
 		(exclude_from_sim no)
 		(at 318.77 133.35 0)
@@ -10511,7 +10499,7 @@
 	)
 	(text "Cooling Fan"
 		(exclude_from_sim no)
-		(at 256.54 280.67 0)
+		(at 251.46 273.304 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10653,7 +10641,7 @@
 	)
 	(text "Reference Voltage"
 		(exclude_from_sim no)
-		(at 387.35 284.48 0)
+		(at 384.556 274.066 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10855,12 +10843,6 @@
 		(uuid "1eafe13f-ea18-48b3-8260-6924afb8855d")
 	)
 	(junction
-		(at 285.75 295.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1fe4cd5f-f06f-49b3-9a29-f11a63f34e89")
-	)
-	(junction
 		(at 392.43 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11011,6 +10993,12 @@
 		(uuid "62d91e5f-f5e0-43ca-b052-2954b7f32e45")
 	)
 	(junction
+		(at 292.1 302.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "651cb9dc-7115-4901-81e3-d57e2c5da4a9")
+	)
+	(junction
 		(at 270.51 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11095,12 +11083,6 @@
 		(uuid "7cd5bfae-805a-4232-844f-78cb57bca8ad")
 	)
 	(junction
-		(at 280.67 312.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e831efa-7719-44aa-9f2b-1bd27c7df615")
-	)
-	(junction
 		(at 66.04 132.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11137,10 +11119,16 @@
 		(uuid "83d8fb13-e0ba-4ade-9d30-9dae3d78c90f")
 	)
 	(junction
-		(at 416.56 303.53)
+		(at 415.29 298.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "856c6a07-b349-46be-a75a-e6825a767c00")
+	)
+	(junction
+		(at 284.48 293.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ac131ae-758e-45ac-b726-66c962db7cc3")
 	)
 	(junction
 		(at 66.04 147.32)
@@ -11251,12 +11239,6 @@
 		(uuid "bcbf2fb5-41de-4666-8266-6f836de8377c")
 	)
 	(junction
-		(at 281.94 283.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bd76586d-cdc4-4b0f-93b2-cf6612fa1d4e")
-	)
-	(junction
 		(at 213.36 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11279,6 +11261,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7d6d506-d8d1-486d-b864-7c8659f7f84f")
+	)
+	(junction
+		(at 297.18 312.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c859fdb8-1b55-4512-855d-61fe0e879e15")
 	)
 	(junction
 		(at 125.73 88.9)
@@ -11507,7 +11495,7 @@
 		(uuid "6836ffc3-3b76-4bea-b0f7-db0a47d0b07d")
 	)
 	(no_connect
-		(at 429.26 304.8)
+		(at 427.99 299.72)
 		(uuid "6fbd009d-eae2-4b1f-a161-63c2cb466283")
 	)
 	(no_connect
@@ -11744,13 +11732,13 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 308.61) (xy 280.67 312.42)
+			(xy 292.1 302.26) (xy 299.72 302.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0adbb76d-2c6c-4f35-bea4-bf30d9411867")
+		(uuid "0931bb2e-3205-4580-b664-80ab4c2262cf")
 	)
 	(wire
 		(pts
@@ -11921,16 +11909,6 @@
 			(type default)
 		)
 		(uuid "157c1f1d-4c91-4398-9f42-86365603ee65")
-	)
-	(wire
-		(pts
-			(xy 298.45 295.91) (xy 298.45 293.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1656ce1b-f18d-456f-bc2f-159ae632919b")
 	)
 	(wire
 		(pts
@@ -12344,6 +12322,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 298.45) (xy 292.1 302.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32b86864-1613-48fd-81b7-eec714bdab4d")
+	)
+	(wire
+		(pts
 			(xy 63.5 210.82) (xy 63.5 223.52)
 		)
 		(stroke
@@ -12554,16 +12542,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 312.42) (xy 265.43 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b0e5b1e-f0ac-44f8-8bdb-8207caf76bb6")
-	)
-	(wire
-		(pts
 			(xy 91.44 147.32) (xy 92.71 147.32)
 		)
 		(stroke
@@ -12714,16 +12692,6 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 300.99) (xy 275.59 300.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4307efb5-2529-49cb-8406-e8c655c357d2")
-	)
-	(wire
-		(pts
 			(xy 130.81 233.68) (xy 140.97 233.68)
 		)
 		(stroke
@@ -12861,16 +12829,6 @@
 			(type default)
 		)
 		(uuid "5007fe4c-47a3-4753-8d77-b1b02b842f14")
-	)
-	(wire
-		(pts
-			(xy 285.75 295.91) (xy 285.75 290.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50aacf53-738d-48d5-ae0d-06c9ab6a4af7")
 	)
 	(wire
 		(pts
@@ -13094,6 +13052,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 312.42) (xy 297.18 312.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62d1a3eb-d94c-4df3-b3d0-1b93f60c38c0")
+	)
+	(wire
+		(pts
 			(xy 349.25 304.8) (xy 349.25 312.42)
 		)
 		(stroke
@@ -13181,16 +13149,6 @@
 			(type default)
 		)
 		(uuid "663d1e04-e323-4027-9918-f9eaeb759a97")
-	)
-	(wire
-		(pts
-			(xy 281.94 283.21) (xy 281.94 288.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67589f39-aae2-4d0c-a617-a70e724f11a2")
 	)
 	(wire
 		(pts
@@ -13354,16 +13312,6 @@
 	)
 	(wire
 		(pts
-			(xy 280.67 312.42) (xy 275.59 312.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7395c561-2cca-48ab-be90-9d162b748999")
-	)
-	(wire
-		(pts
 			(xy 346.71 195.58) (xy 346.71 198.12)
 		)
 		(stroke
@@ -13424,7 +13372,7 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 317.5) (xy 416.56 306.07)
+			(xy 415.29 312.42) (xy 415.29 300.99)
 		)
 		(stroke
 			(width 0)
@@ -13544,16 +13492,6 @@
 	)
 	(wire
 		(pts
-			(xy 285.75 290.83) (xy 275.59 290.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81acdc6a-c2ed-417e-a519-d389e118e8c8")
-	)
-	(wire
-		(pts
 			(xy 241.3 38.1) (xy 241.3 36.83)
 		)
 		(stroke
@@ -13581,16 +13519,6 @@
 			(type default)
 		)
 		(uuid "86c8934e-c83f-4965-b5f7-d4a3a2dbf3e2")
-	)
-	(wire
-		(pts
-			(xy 298.45 295.91) (xy 285.75 295.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8739e2fe-650b-4dfa-93b7-84b3d63a76df")
 	)
 	(wire
 		(pts
@@ -13834,16 +13762,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 288.29) (xy 275.59 288.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9dcbada5-b8c8-4347-884b-7c3afe8665cb")
-	)
-	(wire
-		(pts
 			(xy 422.91 494.03) (xy 420.37 494.03)
 		)
 		(stroke
@@ -13904,7 +13822,7 @@
 	)
 	(wire
 		(pts
-			(xy 416.56 295.91) (xy 416.56 303.53)
+			(xy 415.29 290.83) (xy 415.29 298.45)
 		)
 		(stroke
 			(width 0)
@@ -14054,6 +13972,16 @@
 	)
 	(wire
 		(pts
+			(xy 284.48 293.37) (xy 276.86 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abe54411-9d32-4e23-ae24-a1af8f987ffb")
+	)
+	(wire
+		(pts
 			(xy 410.21 120.65) (xy 407.67 120.65)
 		)
 		(stroke
@@ -14141,16 +14069,6 @@
 			(type default)
 		)
 		(uuid "b0bab559-6fc0-4ad5-a08e-40558bf23a06")
-	)
-	(wire
-		(pts
-			(xy 298.45 283.21) (xy 281.94 283.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b18c3e7d-b3d7-4c98-a98d-4bbc8b099239")
 	)
 	(wire
 		(pts
@@ -14274,6 +14192,16 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 304.8) (xy 297.18 304.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b784a1d8-7515-436c-bb0d-c109401cd2d3")
+	)
+	(wire
+		(pts
 			(xy 69.85 233.68) (xy 63.5 233.68)
 		)
 		(stroke
@@ -14351,6 +14279,16 @@
 			(type default)
 		)
 		(uuid "bc114c7a-12c9-46d6-b1df-fd3b881c3781")
+	)
+	(wire
+		(pts
+			(xy 264.16 293.37) (xy 266.7 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcf6f7b3-5f29-4698-ad49-0d0474f593b8")
 	)
 	(wire
 		(pts
@@ -14651,16 +14589,6 @@
 			(type default)
 		)
 		(uuid "d1aa312a-fb11-474e-954c-e20d33868c4a")
-	)
-	(wire
-		(pts
-			(xy 285.75 300.99) (xy 285.75 295.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d214a333-b415-427e-8296-7eda86173d81")
 	)
 	(wire
 		(pts
@@ -15104,6 +15032,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 304.8) (xy 297.18 312.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6e67d47-5123-4353-bffe-2cd7b97d03a2")
+	)
+	(wire
+		(pts
 			(xy 269.24 50.8) (xy 266.7 50.8)
 		)
 		(stroke
@@ -15174,7 +15112,7 @@
 	)
 	(wire
 		(pts
-			(xy 403.86 303.53) (xy 416.56 303.53)
+			(xy 402.59 298.45) (xy 415.29 298.45)
 		)
 		(stroke
 			(width 0)
@@ -26998,16 +26936,6 @@
 		)
 		(uuid "22efc755-f7bb-48c2-8665-894df3b60205")
 	)
-	(label "FANOUT"
-		(at 280.67 290.83 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5a3a859d-285b-4d2e-bb58-3adc869299b7")
-	)
 	(label "BUZZER_CTRL"
 		(at 349.25 294.64 0)
 		(effects
@@ -27017,6 +26945,16 @@
 			(justify left bottom)
 		)
 		(uuid "ca08d794-95b1-4222-bda7-f7220eb0668c")
+	)
+	(label "FANOUT"
+		(at 292.1 302.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce175b96-05cf-4d35-a1a3-e343b4944630")
 	)
 	(global_label "ESP_DTR"
 		(shape input)
@@ -27060,7 +26998,7 @@
 	)
 	(global_label "2.5REF"
 		(shape input)
-		(at 403.86 303.53 180)
+		(at 402.59 298.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -27069,7 +27007,7 @@
 		)
 		(uuid "02d0d92c-cd11-4ea9-8c50-c7431f3835a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 403.86 303.53 0)
+			(at 402.59 298.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28520,7 +28458,7 @@
 	)
 	(global_label "FAN_CTRL"
 		(shape input)
-		(at 264.16 312.42 180)
+		(at 264.16 293.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -28529,7 +28467,7 @@
 		)
 		(uuid "834ac657-b2aa-40d0-83ef-1be3cb76ceba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 264.16 312.42 0)
+			(at 264.16 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32842,7 +32780,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "A2541HWR-2x6P"
+		(property "Value" "68021-412HLF"
 			(at 472.44 111.76 0)
 			(effects
 				(font
@@ -32860,7 +32798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/Upload/A2541.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/18/2/bwb_bergstik-3370040.pdf"
 			(at 477.52 100.33 0)
 			(effects
 				(font
@@ -32878,7 +32816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CJT(长江连接器)"
+		(property "Manufacturer" "Amphenol"
 			(at 477.52 100.33 0)
 			(effects
 				(font
@@ -33032,7 +32970,7 @@
 				(hide yes)
 			)
 		)
-		(property "mpn" "A2541HWR-2x6P"
+		(property "mpn" "68021-412HLF"
 			(at 477.52 100.33 0)
 			(effects
 				(font
@@ -33559,7 +33497,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
-		(at 416.56 317.5 0)
+		(at 415.29 312.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33567,7 +33505,7 @@
 		(dnp no)
 		(uuid "1d81775b-ade1-4d78-b219-f96173cc2c20")
 		(property "Reference" "#PWR0129"
-			(at 416.56 317.5 0)
+			(at 415.29 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33576,7 +33514,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 416.56 323.85 0)
+			(at 415.29 318.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33584,7 +33522,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 416.56 317.5 0)
+			(at 415.29 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33593,7 +33531,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 416.56 317.5 0)
+			(at 415.29 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33602,7 +33540,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 416.56 317.5 0)
+			(at 415.29 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34809,7 +34747,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 416.56 290.83 90)
+		(at 415.29 285.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34817,7 +34755,7 @@
 		(dnp no)
 		(uuid "2affa9f7-1f71-42ec-b71d-6ade988f7d60")
 		(property "Reference" "R40"
-			(at 419.1 290.83 90)
+			(at 417.83 285.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34826,7 +34764,7 @@
 			)
 		)
 		(property "Value" "750R 0805"
-			(at 419.1 293.37 90)
+			(at 417.83 288.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34835,7 +34773,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34844,7 +34782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34853,7 +34791,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34862,7 +34800,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34870,7 +34808,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34878,7 +34816,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34886,7 +34824,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34894,7 +34832,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34902,7 +34840,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34910,7 +34848,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34918,7 +34856,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34926,7 +34864,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34934,7 +34872,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34942,7 +34880,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34950,7 +34888,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34958,7 +34896,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 416.56 290.83 0)
+			(at 415.29 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35047,7 +34985,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 270.51 312.42 0)
+		(at 271.78 293.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35055,7 +34993,7 @@
 		(dnp no)
 		(uuid "2d2c6b30-0ceb-43c0-9d3d-ae5a4caf0a8e")
 		(property "Reference" "R47"
-			(at 267.97 311.15 0)
+			(at 269.748 296.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35064,7 +35002,7 @@
 			)
 		)
 		(property "Value" "100R 0805"
-			(at 267.97 316.23 0)
+			(at 266.954 298.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35073,7 +35011,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35082,7 +35020,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35091,7 +35029,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35100,7 +35038,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35108,7 +35046,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35116,7 +35054,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35124,7 +35062,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35132,7 +35070,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35140,7 +35078,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35148,7 +35086,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35156,7 +35094,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35164,7 +35102,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35172,7 +35110,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35180,7 +35118,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35188,7 +35126,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35196,7 +35134,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 270.51 312.42 0)
+			(at 271.78 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35541,7 +35479,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "A2541HWR-2x6P"
+		(property "Value" "68021-412HLF"
 			(at 472.44 86.36 0)
 			(effects
 				(font
@@ -35559,7 +35497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.cjt.com/Upload/A2541.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/18/2/bwb_bergstik-3370040.pdf"
 			(at 477.52 74.93 0)
 			(effects
 				(font
@@ -35577,7 +35515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CJT(长江连接器)"
+		(property "Manufacturer" "Amphenol"
 			(at 477.52 74.93 0)
 			(effects
 				(font
@@ -35730,7 +35668,7 @@
 				)
 			)
 		)
-		(property "mpn" "A2541HWR-2x6P"
+		(property "mpn" "68021-412HLF"
 			(at 477.52 74.93 0)
 			(effects
 				(font
@@ -36292,7 +36230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://eu.mouser.com/datasheet/2/239/Lite_On_LTST_C150KRKT-1175298.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/239/LTST_C250KRKT-1175561.pdf"
 			(at 214.63 302.26 0)
 			(effects
 				(font
@@ -36463,7 +36401,7 @@
 				)
 			)
 		)
-		(property "mpn" "LTST-C150KRKT"
+		(property "mpn" "LTST-C250KRKT"
 			(at 214.63 302.26 0)
 			(effects
 				(font
@@ -36506,7 +36444,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "A2541HWR-2x4P"
+		(property "Value" "68021-208HLF"
 			(at 46.99 99.06 90)
 			(effects
 				(font
@@ -36524,7 +36462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20180724/C239359_48B1BC0CA1B4E4396A63955AAFD15564.pdf"
+		(property "Datasheet" "https://www.mouser.com/ProductDetail/Amphenol-FCI/68021-208HLF"
 			(at 39.37 100.33 0)
 			(effects
 				(font
@@ -36542,7 +36480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CJT(长江连接器)"
+		(property "Manufacturer" "Amphenol"
 			(at 39.37 100.33 90)
 			(effects
 				(font
@@ -38701,7 +38639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -38719,7 +38657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Rubycon"
+		(property "Manufacturer" "Panasonic"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -38859,7 +38797,7 @@
 				)
 			)
 		)
-		(property "mpn" "35ZLH680MEFC10X23"
+		(property "mpn" "EEU-FR1V681B"
 			(at 237.49 100.33 0)
 			(effects
 				(font
@@ -39206,7 +39144,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:SI2300_C2985622")
-		(at 280.67 303.53 270)
+		(at 289.56 293.37 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -39215,7 +39153,7 @@
 		(dnp no)
 		(uuid "5f644f58-e6bc-4626-baa7-91c0158bf432")
 		(property "Reference" "Q11"
-			(at 278.13 297.18 90)
+			(at 295.91 290.83 90)
 			(effects
 				(font
 					(size 0.8382 0.8382)
@@ -39224,7 +39162,7 @@
 			)
 		)
 		(property "Value" "PJA3404A"
-			(at 278.13 311.15 90)
+			(at 294.386 290.068 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39233,7 +39171,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39242,7 +39180,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/2/1057/PJA3404A-1867251.pdf"
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39251,7 +39189,7 @@
 			)
 		)
 		(property "Description" "Type: Drain Source Voltage (Vdss): Continuous Drain Current (Id): Drain Source On Resistance (RDS(on)@Vgs,Id):48mΩ@4.5V,6A Gate Threshold Voltage (Vgs(th)@Id):1V@250uA Total Gate Charge (Qg@Vgs):10nC@4.5V Input Capacitance (Ciss@Vds):574pF@10V Reverse Tra"
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39260,7 +39198,7 @@
 			)
 		)
 		(property "Manufacturer" "Panjit"
-			(at 280.67 303.53 90)
+			(at 289.56 293.37 90)
 			(effects
 				(font
 					(size 0.8382 0.8382)
@@ -39270,7 +39208,7 @@
 			)
 		)
 		(property "Supplier Part" "C2985622"
-			(at 280.67 303.53 90)
+			(at 289.56 293.37 90)
 			(effects
 				(font
 					(size 0.8382 0.8382)
@@ -39280,7 +39218,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 280.67 303.53 90)
+			(at 289.56 293.37 90)
 			(effects
 				(font
 					(size 0.8382 0.8382)
@@ -39290,7 +39228,7 @@
 			)
 		)
 		(property "LCSC Part Name" "N沟道耐压:20V电流:6A"
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39299,7 +39237,7 @@
 			)
 		)
 		(property "JLCPCB Part Class" "ExtendedPart"
-			(at 280.67 303.53 90)
+			(at 289.56 293.37 90)
 			(effects
 				(font
 					(size 0.8382 0.8382)
@@ -39309,7 +39247,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39317,7 +39255,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39325,7 +39263,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39333,7 +39271,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39341,7 +39279,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39349,7 +39287,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39357,7 +39295,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39365,7 +39303,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39373,7 +39311,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39381,7 +39319,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39389,7 +39327,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39397,7 +39335,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39405,7 +39343,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39413,7 +39351,7 @@
 			)
 		)
 		(property "mpn" "PJA3404A_R1_00001"
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39422,7 +39360,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 280.67 303.53 0)
+			(at 289.56 293.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41621,7 +41559,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Power-5V")
-		(at 416.56 285.75 0)
+		(at 415.29 280.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41629,7 +41567,7 @@
 		(dnp no)
 		(uuid "6a8b94ae-44fb-4acb-8802-bb0509b977e4")
 		(property "Reference" "#PWR0127"
-			(at 416.56 285.75 0)
+			(at 415.29 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41638,7 +41576,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 416.56 280.67 0)
+			(at 415.29 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41646,7 +41584,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 416.56 285.75 0)
+			(at 415.29 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41655,7 +41593,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 416.56 285.75 0)
+			(at 415.29 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41664,7 +41602,7 @@
 			)
 		)
 		(property "Description" "Power-5V"
-			(at 416.56 285.75 0)
+			(at 415.29 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42317,7 +42255,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Power-5V")
-		(at 271.78 300.99 0)
+		(at 292.1 288.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42325,7 +42263,7 @@
 		(dnp no)
 		(uuid "6f833625-ecfe-4e52-bff3-9fc2c88461a6")
 		(property "Reference" "#PWR0137"
-			(at 271.78 300.99 0)
+			(at 292.1 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42334,7 +42272,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 271.78 295.91 0)
+			(at 292.1 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42342,7 +42280,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 271.78 300.99 0)
+			(at 292.1 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42351,7 +42289,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.78 300.99 0)
+			(at 292.1 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42360,7 +42298,7 @@
 			)
 		)
 		(property "Description" "Power-5V"
-			(at 271.78 300.99 0)
+			(at 292.1 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42793,7 +42731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf"
 			(at 275.59 100.33 0)
 			(effects
 				(font
@@ -42811,7 +42749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Rubycon"
+		(property "Manufacturer" "Panasonic"
 			(at 275.59 100.33 0)
 			(effects
 				(font
@@ -42951,7 +42889,7 @@
 				)
 			)
 		)
-		(property "mpn" "35ZLH680MEFC10X23"
+		(property "mpn" "EEU-FR1V681B"
 			(at 275.59 100.33 0)
 			(effects
 				(font
@@ -44946,7 +44884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_vls6045ex-h_en.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/597/mss1048-270647.pdf"
 			(at 381 123.19 0)
 			(effects
 				(font
@@ -45987,7 +45925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf"
 			(at 262.89 100.33 0)
 			(effects
 				(font
@@ -46005,7 +45943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Rubycon"
+		(property "Manufacturer" "Panasonic"
 			(at 262.89 100.33 0)
 			(effects
 				(font
@@ -46145,7 +46083,7 @@
 				)
 			)
 		)
-		(property "mpn" "35ZLH680MEFC10X23"
+		(property "mpn" "EEU-FR1V681B"
 			(at 262.89 100.33 0)
 			(effects
 				(font
@@ -46203,7 +46141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 166.37 85.09 0)
 			(effects
 				(font
@@ -46228,6 +46166,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "mpn" "68021-208HLF"
+			(at 166.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -47857,7 +47803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.mouser.dk/datasheet/2/977/e_ZLH-1601216.pdf"
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDF0000/ABA0000C1259.pdf"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -47875,7 +47821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Rubycon"
+		(property "Manufacturer" "Panasonic"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -48015,7 +47961,7 @@
 				)
 			)
 		)
-		(property "mpn" "35ZLH680MEFC10X23"
+		(property "mpn" "EEU-FR1V681B"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -48993,7 +48939,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:LM4040DIM3-2.5+T")
-		(at 422.91 304.8 0)
+		(at 421.64 299.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49001,7 +48947,7 @@
 		(dnp no)
 		(uuid "a80ebe9b-eaa7-4373-bafb-72aad3a1088f")
 		(property "Reference" "U17"
-			(at 419.1 300.99 0)
+			(at 417.83 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49010,7 +48956,7 @@
 			)
 		)
 		(property "Value" "LM4040DIM3-2.5+T"
-			(at 419.1 311.15 0)
+			(at 417.83 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49019,7 +48965,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-3"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49028,7 +48974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49037,7 +48983,7 @@
 			)
 		)
 		(property "Description" "Reference Type:parallel connection Output Type:Fixed Input Voltage:- Input Voltage:- Output Current:15mA Tolerance:±1% Tolerance:±1% Temperature Coefficient:150ppm/°C Supply Current:- Noise - 1/10Hz to 10Hz:- Noise - 10Hz to 10kHz:35uVrms Operating Tempera"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49046,7 +48992,7 @@
 			)
 		)
 		(property "Manufacturer" "Analog Devices"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49055,7 +49001,7 @@
 			)
 		)
 		(property "Supplier Part" "C2156551"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49064,7 +49010,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49073,7 +49019,7 @@
 			)
 		)
 		(property "LCSC Part Name" "LM4040DIM3-2.5+T"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49082,7 +49028,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49090,7 +49036,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49098,7 +49044,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49106,7 +49052,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49114,7 +49060,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49122,7 +49068,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49130,7 +49076,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49138,7 +49084,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49146,7 +49092,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49154,7 +49100,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49162,7 +49108,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49170,7 +49116,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49178,7 +49124,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49186,7 +49132,7 @@
 			)
 		)
 		(property "mpn" "LM4040DIM3-2.5+T"
-			(at 422.91 304.8 0)
+			(at 421.64 299.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49560,7 +49506,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:HX25003-2WAP")
-		(at 270.51 289.56 180)
+		(at 304.8 303.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -49568,7 +49514,7 @@
 		(dnp no)
 		(uuid "aba19500-7b3c-4913-9d7b-f5aa493da9b5")
 		(property "Reference" "CN16"
-			(at 267.97 285.75 0)
+			(at 307.34 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49577,16 +49523,17 @@
 			)
 		)
 		(property "Value" "Pinheader 1x02 P2.54 Horizontal"
-			(at 267.97 295.91 0)
+			(at 314.706 297.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right top)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49595,7 +49542,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49604,7 +49551,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49613,7 +49560,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49622,7 +49569,7 @@
 			)
 		)
 		(property "Supplier Part" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49631,7 +49578,7 @@
 			)
 		)
 		(property "Supplier" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49640,7 +49587,7 @@
 			)
 		)
 		(property "LCSC Part Name" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49649,7 +49596,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49657,7 +49604,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49665,7 +49612,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49673,7 +49620,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49681,7 +49628,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49689,7 +49636,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49697,7 +49644,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49705,7 +49652,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49713,7 +49660,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49721,7 +49668,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49729,7 +49676,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49737,7 +49684,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49745,7 +49692,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 270.51 289.56 0)
+			(at 304.8 303.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52136,7 +52083,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://eu.mouser.com/datasheet/2/239/LTST_C150KGKT-1143771.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/239/Lite_On_LTST_C171KGKT-1175487.pdf"
 			(at 293.37 30.48 0)
 			(effects
 				(font
@@ -53690,7 +53637,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:MBR0520")
-		(at 298.45 288.29 90)
+		(at 292.1 307.34 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -53698,7 +53645,7 @@
 		(dnp no)
 		(uuid "cfe9059e-9317-461e-aa69-14e6ec50dc8c")
 		(property "Reference" "D8"
-			(at 300.99 289.56 90)
+			(at 289.56 306.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53707,7 +53654,7 @@
 			)
 		)
 		(property "Value" "B0520LW-7-F"
-			(at 293.37 298.45 90)
+			(at 291.338 309.626 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53716,7 +53663,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:SOD-123_L2.8-W1.8-LS3.7-RD"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53725,7 +53672,7 @@
 			)
 		)
 		(property "Datasheet" "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0011119854_1-2512890.pdf"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53734,7 +53681,7 @@
 			)
 		)
 		(property "Description" "Reverse Voltage (Vr):20V Average Rectified Current (Io):500mA Forward Voltage (Vf@If):450mV@500mA"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53743,7 +53690,7 @@
 			)
 		)
 		(property "Manufacturer" "Diodes Incorporated"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53752,7 +53699,7 @@
 			)
 		)
 		(property "Supplier Part" "C77335"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53761,7 +53708,7 @@
 			)
 		)
 		(property "Supplier" "LCSC"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53770,7 +53717,7 @@
 			)
 		)
 		(property "LCSC Part Name" "20V500mA450mV@500mA"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53779,7 +53726,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53787,7 +53734,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53795,7 +53742,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53803,7 +53750,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53811,7 +53758,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53819,7 +53766,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53827,7 +53774,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53835,7 +53782,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53843,7 +53790,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53851,7 +53798,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53859,7 +53806,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53867,7 +53814,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53875,7 +53822,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53883,7 +53830,7 @@
 			)
 		)
 		(property "mpn" "B0520LW-7-F"
-			(at 298.45 288.29 0)
+			(at 292.1 307.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55119,7 +55066,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "AOD4184A"
+		(property "Value" "IPD90N04S403ATMA1"
 			(at 218.44 158.75 0)
 			(effects
 				(font
@@ -57307,7 +57254,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Power-5V")
-		(at 280.67 322.58 180)
+		(at 284.48 283.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -57315,7 +57262,7 @@
 		(dnp no)
 		(uuid "e94c7698-1ae3-49ac-a572-3416f636e8e0")
 		(property "Reference" "#PWR0140"
-			(at 280.67 322.58 0)
+			(at 284.48 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57324,7 +57271,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 280.67 327.66 0)
+			(at 284.48 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57332,7 +57279,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 280.67 322.58 0)
+			(at 284.48 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57341,7 +57288,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 322.58 0)
+			(at 284.48 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57350,7 +57297,7 @@
 			)
 		)
 		(property "Description" "Power-5V"
-			(at 280.67 322.58 0)
+			(at 284.48 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59134,7 +59081,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Ground-GND")
-		(at 281.94 283.21 180)
+		(at 297.18 312.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -59142,7 +59089,7 @@
 		(dnp no)
 		(uuid "f674b442-703a-48a8-88cf-f14db2ff76ca")
 		(property "Reference" "#PWR0139"
-			(at 281.94 283.21 0)
+			(at 297.18 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59151,7 +59098,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 281.94 276.86 0)
+			(at 297.18 318.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59159,7 +59106,7 @@
 			)
 		)
 		(property "Footprint" "V1.4-Wifi-easyedapro:"
-			(at 281.94 283.21 0)
+			(at 297.18 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59168,7 +59115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 283.21 0)
+			(at 297.18 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59177,7 +59124,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 281.94 283.21 0)
+			(at 297.18 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59438,7 +59385,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:Res")
-		(at 280.67 317.5 90)
+		(at 284.48 288.29 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -59446,7 +59393,7 @@
 		(dnp no)
 		(uuid "fa120d64-dcad-46bf-bdcd-61eadbfd3ef8")
 		(property "Reference" "R48"
-			(at 283.21 317.5 90)
+			(at 282.956 285.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59455,7 +59402,7 @@
 			)
 		)
 		(property "Value" "10K 0805"
-			(at 283.21 320.04 90)
+			(at 282.956 288.036 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59464,7 +59411,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59473,7 +59420,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59482,7 +59429,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59491,7 +59438,7 @@
 			)
 		)
 		(property "@Create Date" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59499,7 +59446,7 @@
 			)
 		)
 		(property "@Page Count" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59507,7 +59454,7 @@
 			)
 		)
 		(property "@Page Name" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59515,7 +59462,7 @@
 			)
 		)
 		(property "@Page No" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59523,7 +59470,7 @@
 			)
 		)
 		(property "@Project Name" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59531,7 +59478,7 @@
 			)
 		)
 		(property "@Schematic Name" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59539,7 +59486,7 @@
 			)
 		)
 		(property "@Update Date" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59547,7 +59494,7 @@
 			)
 		)
 		(property "Company" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59555,7 +59502,7 @@
 			)
 		)
 		(property "Drawed" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59563,7 +59510,7 @@
 			)
 		)
 		(property "Page Size" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59571,7 +59518,7 @@
 			)
 		)
 		(property "Part Number" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59579,7 +59526,7 @@
 			)
 		)
 		(property "Reviewed" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -59587,7 +59534,7 @@
 			)
 		)
 		(property "Version" ""
-			(at 280.67 317.5 0)
+			(at 284.48 288.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
