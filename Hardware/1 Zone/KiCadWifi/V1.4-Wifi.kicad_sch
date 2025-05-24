@@ -47035,7 +47035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20130706/1457706622210.pdf"
+		(property "Datasheet" "https://www.mouser.dk/datasheet/2/1115/ACS712_Datasheet-3178682.pdf"
 			(at 254 39.37 0)
 			(effects
 				(font
@@ -49797,7 +49797,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "750 0805"
+		(property "Value" "750R 0805"
 			(at 285.75 29.21 0)
 			(effects
 				(font
@@ -53498,7 +53498,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/392/n_catalog_partition09_en-1620720.pdf"
 			(at 435.61 123.19 0)
 			(effects
 				(font
@@ -53618,6 +53618,24 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Manufacturer" "Susumu"
+			(at 435.61 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "mpn" "KRL1220E-M-R330-F"
+			(at 439.42 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
