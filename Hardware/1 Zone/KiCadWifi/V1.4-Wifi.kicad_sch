@@ -58412,7 +58412,7 @@
 	)
 	(symbol
 		(lib_id "V1.4-Wifi-easyedapro:CL31A107MQHNNNE")
-		(at 572.77 95.25 270)
+		(at 572.77 95.25 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -58420,7 +58420,7 @@
 		(dnp no)
 		(uuid "efac69ba-6d55-430c-a2a7-2fb31467f154")
 		(property "Reference" "C27"
-			(at 575.31 93.98 0)
+			(at 579.374 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58429,7 +58429,7 @@
 			)
 		)
 		(property "Value" "100uF"
-			(at 579.12 90.17 0)
+			(at 580.39 97.028 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -58437,7 +58437,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "V1.4-Wifi-easyedapro:C1206"
+		(property "Footprint" "V1.4-Wifi-easyedapro:CAP-SMD_L3.5-W2.8-R-RD"
 			(at 572.77 95.25 0)
 			(effects
 				(font
@@ -58446,7 +58446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707673200.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/447/KEM_T2005_T491-3316937.pdf"
 			(at 572.77 95.25 0)
 			(effects
 				(font
@@ -58464,7 +58464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "SAMSUNG"
+		(property "Manufacturer" "KEMET"
 			(at 572.77 95.25 0)
 			(effects
 				(font
@@ -58604,7 +58604,7 @@
 				)
 			)
 		)
-		(property "mpn" "CL31A107MQHNNNE"
+		(property "mpn" "T491B107M010AT"
 			(at 572.77 95.25 0)
 			(effects
 				(font
