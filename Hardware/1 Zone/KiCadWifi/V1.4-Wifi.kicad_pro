@@ -64,10 +64,6 @@
           "Q11 is in fact much smaller than courtyard"
         ],
         [
-          "starved_thermal|184375000|145691000|983fe157-4ef7-4766-91b9-e1316b0181fb|9bc2b6ee-d2d3-4396-8c95-51548a409a20|B.Cu",
-          "Properly connected to top layer GND fill"
-        ],
-        [
           "starved_thermal|189400000|124000000|343a12e3-109f-42a8-bd3e-bf7d88ccaad3|767c23c2-4bd1-4cef-bfe0-0b9958ce06bb|F.Cu",
           "Does not need thermal relief"
         ]
