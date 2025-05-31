@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Removable Plate_1.5")(type "KiCad")(uri "$(KIPRJMOD)/Removable Plate_1.5.pretty")(options "")(descr ""))
+)
